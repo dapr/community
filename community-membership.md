@@ -11,6 +11,8 @@ Dapr. The Dapr project is subdivided into subprojects under
 | approver   | approve accepting contributions                       | highly experienced and active reviewer + contributor to a subproject | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in GitHub |
 | maintainer | set direction and priorities for a subproject         | demonstrated responsibility and excellent technical judgement for the subproject | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners), GitHub Team and repo ownership in GitHub |
 
+*Note: The Governance Committee referred to in this document is not yet established. The interim members are @msfussell, @sarahnovotny, @yaron2.*
+
 ## New contributors
 
 New contributors should be welcomed to the community by existing members, helped
