@@ -76,9 +76,8 @@ Defined by: Member of the Dapr GitHub organization
   - Code is well tested
   - Tests consistently pass
   - Addresses bugs or issues discovered after code is accepted
-- Members can review and approve via the GitHub workflow.  This review work is
-  not sufficient to merge a PR.  There will still need to be a review by an
-  *approver*.
+  - Members are encouraged to review and approve via the GitHub workflow. This review work while not sufficient to merge a PR does accrue toward the Member becoming an Approver. Merge approval and final review are performed by an Approver.
+
 - Members can be assigned to issues and PRs, and people can ask members for
   reviews with a `/cc @username`.
 
