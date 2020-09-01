@@ -11,7 +11,7 @@ Dapr. The Dapr project is subdivided into subprojects under
 | approver   | approve accepting contributions                       | highly experienced and active reviewer + contributor to a subproject | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in GitHub |
 | maintainer | set direction and priorities for a subproject         | demonstrated responsibility and excellent technical judgement for the subproject | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners), GitHub Team and repo ownership in GitHub |
 
-*Note: The Governance Committee referred to in this document is not yet established. The interim members are @msfussell, @sarahnovotny, @yaron2.*
+*Note: The Technical & Streeting Committee (TSC) referred to in this document is not yet established. The interim members are @msfussell, @sarahnovotny, @yaron2.*
 
 ## New contributors
 
@@ -65,7 +65,7 @@ Defined by: Member of the Dapr GitHub organization
     work on the project.
 - Have your sponsoring reviewers reply confirmation of sponsorship: `+1`
 - Once your sponsors have responded, your request will be reviewed by the
-  Governance Committee.  Any GC member can review the requirements and add
+  Technical & Steering Committee. Any member of the Technical & Steering Committee can review the requirements and add
   Members to the GitHub org. 
 
 ### Responsibilities and privileges
@@ -154,7 +154,7 @@ The following apply to the subproject for which one would be an owner.
   - Identifying subtle or complex issues in designs and implementation PRs
 - Directly contributed to the subproject through implementation and / or review
 - Aligning with the overall project goals, specifications and design principles
-  defined by Technical Committee (TC). Bringing general questions and requests
+  defined by the Technical & Steering Committee. Bringing general questions and requests
   to the discussions as part of specifications project.
 
 ### Responsibilities and privileges
