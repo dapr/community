@@ -9,7 +9,7 @@ This doc outlines the various responsibilities of contributor roles in Dapr. The
 | Approver   | Approve accepting contributions                       | Highly experienced and active reviewer + contributor to a subproject | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in GitHub |
 | Maintainer | Set direction and priorities for a subproject         | Demonstrated responsibility and excellent technical judgement for the subproject | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners), GitHub Team and repo ownership in GitHub |
 
-> Note: The Technical & Stressing Committee (TSC) referred to in this document is not yet established. The interim members are @msfussell, @sarahnovotny, @yaron2.
+> Note: The Technical & Steering Committee (TSC) referred to in this document is not yet established. The interim members are @msfussell, @sarahnovotny, @yaron2.
 
 ## New contributors
 
