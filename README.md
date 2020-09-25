@@ -11,7 +11,7 @@ Welcome to the Dapr community. This is the starting point for becoming a contrib
 Other Documents
 
 - [Contributing to Dapr](contributing.md) - guidelines and advice on becoming a contributor
-- [Technical Steering Committee (TC)](technical-committee-charter.md) - describes our technical steering committee charter
+- [Technical Steering Committee (TSC)](technical-committee-charter.md) - describes our technical steering committee charter
 - [Community membership](community-membership.md) - describes the various responsibilities of contributor roles in the Dapr community
 - [Developer Guide](https://github.com/dapr/dapr/tree/master/docs/development) - describes how to get involved with Dapr development
 - [Presentation Guide](https://github.com/dapr/docs/tree/master/presentations) - Dapr presentations and guidance on how you can give your own Dapr presentation
