@@ -50,16 +50,19 @@ Every two weeks we host a community meeting to showcase new features, review upc
 
 **Upcoming meetings**:
 - Tuesday September 29th 10am Pacific Time (PST)
-- Tuesday October 13rd 10am Pacific Time (PST)
+- Tuesday October 13th 10am Pacific Time (PST)
 - Tuesday October 27th 10am Pacific Time (PST)
 - Tuesday November 10th 10am Pacific Time (PST)
 - Tuesday November 24th 10am Pacific Time (PST)
 - Tuesday December 8th 10am Pacific Time (PST)
 
-Meeting agendas and notes can be accessed in the [working doc](http://bit.ly/istiocommunitymeet).
+Meeting agendas and notes can be accessed [here](https://hackmd.io/xSrdvqY0TSyllYPEmOSEZQ?view).
 
 ### Community Office Hours
-We realize that getting feedback on your project publicly may not always be feasible therefore, in addition to the bi-weekly community calls, Dapr maintainers also set aside some time each week to be available to answer technical questions in a private forum. See [community-office-hours](community-office-hours.md)
+We realize that getting feedback on your project publicly may not always be feasible therefore, in addition to the bi-weekly community calls, Dapr maintainers have also set aside some time each week to be available to answer technical questions in a private forum. See [community-office-hours](community-office-hours.md)
+
+### Dapr blog
+The [Dapr blog](blog.dapr.io/posts) has regular posts on release, technical articles and upcoming events. If you would like to author a post, reach out to us with a suggestion. 
 
 ## How can I get involved?
 
