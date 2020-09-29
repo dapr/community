@@ -1,7 +1,7 @@
 
 # Community membership
 
-This doc outlines the responsibilities of contributor roles in Dapr. The Dapr project is subdivided into sub-projects under (predominantly, but not exclusively) runtime (dapr), components, CLI, quickstarts, docs and language-specific SDKs. Responsibilities for most roles are scoped to these sub-projects (repos).
+This doc outlines the responsibilities of contributor roles in Dapr. The Dapr project is subdivided into sub-projects under (predominantly, but not exclusively) runtime (dapr), components-contrib, CLI, quickstarts, docs and language-specific SDKs. Responsibilities for most roles are scoped to these sub-projects (repos).
 
 | **Role**   | **Responsibilities**                                  | **Requirements**                                             | **Defined by**                                               |
 | ---------- | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
