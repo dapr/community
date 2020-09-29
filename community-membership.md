@@ -1,11 +1,11 @@
 
 # Community membership
 
-This doc outlines the responsibilities of contributor roles in Dapr. The Dapr project is subdivided into sub-projects under (predominantly, but not exclusively) runtime (dapr), components-contrib, CLI, quickstarts, docs and language-specific SDKs. Responsibilities for most roles are scoped to these sub-projects (repos).
+This doc outlines the responsibilities of contributor roles in Dapr. The Dapr project is subdivided into sub-projects under (predominantly, but not exclusively) runtime (dapr), components-contrib, CLI, quickstarts, docs and language-specific SDKs. Responsibilities for roles are scoped to these sub-projects (repos).
 
 | **Role**   | **Responsibilities**                                  | **Requirements**                                             | **Defined by**                                               |
 | ---------- | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Member     | Active contributor in the community.  Reviewer of PRs | Sponsored by two approvers or maintainers. multiple contributions to the project. | Dapr GitHub org member.                             |
+| Member     | Active contributor in the community.  Reviewer of PRs | Sponsored by two approvers or maintainers. multiple contributions to the project. | Dapr GitHub org member                           |
 | Approver   | Approve accepting contributions                       | Highly experienced and active reviewer + contributor to a subproject | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in GitHub |
 | Maintainer | Set direction and priorities for a subproject         | Demonstrated responsibility and excellent technical judgement for the subproject | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners), GitHub Team and repo ownership in GitHub |
 
