@@ -6,8 +6,8 @@ This doc outlines the responsibilities of contributor roles in Dapr. The Dapr pr
 | **Role**   | **Responsibilities**                                  | **Requirements**                                             | **Defined by**                                               |
 | ---------- | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Member     | Active contributor in the community.  Reviewer of PRs | Sponsored by two approvers or maintainers. Multiple contributions to the project. | Dapr GitHub org member                           |
-| Approver   | Approve accepting contributions                       | Highly experienced and active reviewer and contributor to a subproject | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in GitHub |
-| Maintainer | Set direction and priorities for a subproject         | Demonstrated responsibility and excellent technical judgement for the subproject | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners), GitHub Team and repo ownership in GitHub |
+| Approver   | Approve accepting contributions                       | Highly experienced and active reviewer and contributor to a subproject. | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in GitHub |
+| Maintainer | Set direction and priorities for a subproject         | Demonstrated responsibility and excellent technical judgement for the subproject. | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners), GitHub Team and repo ownership in GitHub |
 
 > Note: The Technical & Steering Committee (TSC) referred to in this document is not yet established. The interim members are @msfussell, @sarahnovotny, @yaron2.
 
