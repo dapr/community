@@ -14,7 +14,6 @@ Other Documents
 - [Technical & Steering Committee (TSC)](technical-committee-charter.md) - describes our technical and steering committee charter
 - [Community membership](community-membership.md) - describes the various responsibilities of contributor roles in the Dapr community
 - [Developer Guide](https://github.com/dapr/dapr/tree/master/docs/development) - describes how to get involved with Dapr development
-- [Presentation Guide](https://github.com/dapr/docs/tree/master/presentations) - Dapr presentations and guidance on how you can give your own Dapr presentation
 
 ## Introduction
 The Distributed Application Runtime, Dapr, is a portable, serverless, event-driven runtime that makes it easy for developers to build resilient, stateless and stateful microservices that run on the cloud and edge and embraces the diversity of languages and developer frameworks.
