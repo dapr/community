@@ -10,7 +10,7 @@ Welcome to the Dapr community. This is the starting point for becoming a contrib
 
 Other Documents
 
-- [Contributing to Dapr](contributing.md) - guidelines and advice on becoming a contributor
+- [Contributing to Dapr](https://docs.dapr.io/contributing/) - guidelines and advice on becoming a contributor
 - [Technical & Steering Committee (TSC)](technical-committee-charter.md) - describes our technical and steering committee charter
 - [Community membership](community-membership.md) - describes the various responsibilities of contributor roles in the Dapr community
 - [Developer Guide](https://github.com/dapr/dapr/tree/master/docs/development) - describes how to get involved with Dapr development
@@ -67,7 +67,7 @@ The [Dapr blog](https://blog.dapr.io/posts) has regular posts on release, techni
 
 One of the easiest ways to contribute is to participate in discussions at community engagements.
 
-If you're looking for something to work on, read the [contribution guidelines](CONTRIBUTING.md) and then you start by looking for GitHub issues, marked with "Good First Issue" or the "Help Wanted" labels:
+If you're looking for something to work on, read the [contribution guidelines](https://docs.dapr.io/contributing/) and then you start by looking for GitHub issues, marked with "Good First Issue" or the "Help Wanted" labels:
 
 - [Dapr runtime repo](https://github.com/dapr/dapr/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - [Dapr CLI repo](https://github.com/dapr/cli/labels/good%20first%20issue)
