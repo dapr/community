@@ -34,7 +34,7 @@ Reach out with any questions you may have and we'll make sure to answer then as 
 
 | Platform  | Link        |
 |:----------|:------------|
-| 💬 Instant Message Chat (preferred) | https://gitter.im/Dapr/community 
+| 💬 Instant Message Chat (preferred) | [![Discord widget](https://discord.com/api/guilds/778680217417809931/widget.png?style=banner2)](https://aka.ms/dapr-discord)<br />https://aka.ms/dapr-discord
 | 📧 Mailing List | https://groups.google.com/forum/#!forum/dapr-dev
 | 🐤 Twitter | [@daprdev](https://twitter.com/daprdev)
 
@@ -48,12 +48,11 @@ Every two weeks we host a community meeting to showcase new features, review upc
 | 🎥 Meeting Recordings | http://aka.ms/dapr-recordings
 
 **Upcoming meetings**:
-- Tuesday September 29th 10am Pacific Time (PST)
-- Tuesday October 13th 10am Pacific Time (PST)
-- Tuesday October 27th 10am Pacific Time (PST)
-- Tuesday November 10th 10am Pacific Time (PST)
 - Tuesday November 24th 10am Pacific Time (PST)
 - Tuesday December 8th 10am Pacific Time (PST)
+- Tuesday December 22nd 10am Pacific Time (PST)
+- Tuesday January 4th 10am Pacific Time (PST)
+- Tuesday January 18th 10am Pacific Time (PST)
 
 Meeting agendas and notes can be accessed [here](https://hackmd.io/xSrdvqY0TSyllYPEmOSEZQ?view).
 

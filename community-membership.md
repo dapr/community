@@ -38,7 +38,7 @@ Defined by: Member of the Dapr GitHub organization
   - Filing or commenting on issues on GitHub
   - Contributing to sub-projects, or community discussions (e.g. meetings,
     chat, etc.)
-- [Joined the Gitter channel ](https://gitter.im/dapr/community)
+- [Joined the Discord server](https://aka.ms/dapr-discord)
 - Have read the [contributor
   guide](https://github.com/dapr/dapr/blob/master/CONTRIBUTING.md)
 - Actively contributing to 1 or more sub-projects
