@@ -50,9 +50,9 @@ Every two weeks we host a community meeting to showcase new features, review upc
 **Upcoming meetings**:
 - Tuesday November 24th 10am Pacific Time (PST)
 - Tuesday December 8th 10am Pacific Time (PST)
-- Tuesday December 22nd 10am Pacific Time (PST)
-- Tuesday January 4th 10am Pacific Time (PST)
-- Tuesday January 18th 10am Pacific Time (PST)
+- Tuesday January 12th 10am Pacific Time (PST)
+- Tuesday January 26th 10am Pacific Time (PST)
+- Tuesday February 9th 10am Pacific Time (PST)
 
 Meeting agendas and notes can be accessed [here](https://hackmd.io/xSrdvqY0TSyllYPEmOSEZQ?view).
 
