@@ -48,11 +48,11 @@ Every two weeks we host a community meeting to showcase new features, review upc
 | 🎥 Meeting Recordings | http://aka.ms/dapr-recordings
 
 **Upcoming meetings**:
-- Tuesday November 24th 10am Pacific Time (PST)
-- Tuesday December 8th 10am Pacific Time (PST)
-- Tuesday January 12th 10am Pacific Time (PST)
-- Tuesday January 26th 10am Pacific Time (PST)
-- Tuesday February 9th 10am Pacific Time (PST)
+- Tuesday February 23<sup>rd</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210223T10&p1=1244)
+- Tuesday March 9<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210309T10&p1=1244)
+- Tuesday March 23<sup>rd</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210323T10&p1=1244)
+- Tuesday April 6<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210406T10&p1=1244)
+- Tuesday April 20<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210420T10&p1=1244)
 
 Meeting agendas and notes can be accessed [here](https://hackmd.io/xSrdvqY0TSyllYPEmOSEZQ?view).
 
