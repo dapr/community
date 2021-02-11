@@ -44,7 +44,6 @@ Every two weeks we host a community meeting to showcase new features, review upc
 | Asset | Link        |
 |:-----------|:------------|
 | 🔗 Meeting Link & Password | **Zoom Call:** https://us02web.zoom.us/j/85305980190<br>**Password:** eWRhSklVTjJjSnhTaURDcFZaU2ZzQT09
-| 📝 Meeting Agenda and Notes | https://aka.ms/dapr-meeting-notes
 | 🎥 Meeting Recordings | http://aka.ms/dapr-recordings
 
 **Upcoming meetings**:
@@ -53,8 +52,6 @@ Every two weeks we host a community meeting to showcase new features, review upc
 - Tuesday March 23<sup>rd</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210323T10&p1=1244)
 - Tuesday April 6<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210406T10&p1=1244)
 - Tuesday April 20<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210420T10&p1=1244)
-
-Meeting agendas and notes can be accessed [here](https://hackmd.io/xSrdvqY0TSyllYPEmOSEZQ?view).
 
 ### Community Office Hours
 We realize that getting feedback on your project publicly may not always be feasible therefore, in addition to the bi-weekly community calls, Dapr maintainers have also set aside some time each week to be available to answer technical questions in a private forum. See [community-office-hours](community-office-hours.md)
