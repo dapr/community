@@ -49,7 +49,7 @@ Every two weeks we host a community meeting to showcase new features, review upc
 **Upcoming meetings**:
 - Tuesday May 4<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210504T10&p1=1244)
 - Tuesday May 18<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210518T10&p1=1244)
-- Tuesday June 1<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210601T10&p1=1244)
+- Tuesday June 1<sup>st</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210601T10&p1=1244)
 - Tuesday June 15<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210615T10&p1=1244)
 - Tuesday June 29<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210629T10&p1=1244)
 
