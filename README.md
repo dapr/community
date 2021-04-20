@@ -47,11 +47,11 @@ Every two weeks we host a community meeting to showcase new features, review upc
 | 🎥 Meeting Recordings | http://aka.ms/dapr-recordings
 
 **Upcoming meetings**:
-- Tuesday February 23<sup>rd</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210223T10&p1=1244)
-- Tuesday March 9<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210309T10&p1=1244)
-- Tuesday March 23<sup>rd</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210323T10&p1=1244)
-- Tuesday April 6<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210406T10&p1=1244)
-- Tuesday April 20<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210420T10&p1=1244)
+- Tuesday May 4<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210504T10&p1=1244)
+- Tuesday May 18<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210518T10&p1=1244)
+- Tuesday June 1<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210601T10&p1=1244)
+- Tuesday June 15<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210615T10&p1=1244)
+- Tuesday June 29<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210629T10&p1=1244)
 
 ### Community Office Hours
 We realize that getting feedback on your project publicly may not always be feasible therefore, in addition to the bi-weekly community calls, Dapr maintainers have also set aside some time each week to be available to answer technical questions in a private forum. See [community-office-hours](community-office-hours.md)
