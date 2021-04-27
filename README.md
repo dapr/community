@@ -34,8 +34,7 @@ Reach out with any questions you may have and we'll make sure to answer then as 
 
 | Platform  | Link        |
 |:----------|:------------|
-| 💬 Instant Message Chat (preferred) | [![Discord widget](https://discord.com/api/guilds/778680217417809931/widget.png?style=banner2)](https://aka.ms/dapr-discord)<br />https://aka.ms/dapr-discord
-| 📧 Mailing List | https://groups.google.com/forum/#!forum/dapr-dev
+| 💬 Discord (preferred) | [![Discord widget](https://discord.com/api/guilds/778680217417809931/widget.png?style=banner2)](https://aka.ms/dapr-discord)<br />https://aka.ms/dapr-discord
 | 🐤 Twitter | [@daprdev](https://twitter.com/daprdev)
 
 ### Community meetings
