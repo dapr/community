@@ -30,7 +30,7 @@ by Microsoft.
 We want your contributions and suggestions! One of the easiest ways to contribute is to participate in discussions, chat on IM or join the bi-weekly community calls.
 
 ### Questions and issues
-Reach out with any questions you may have and we'll make sure to answer then as soon as possible and as a community member feel free to jump in and answer questions.
+Reach out with any questions you may have and we'll make sure to answer them as soon as possible and as a community member feel free to jump in and answer questions.
 
 | Platform  | Link        |
 |:----------|:------------|
@@ -56,7 +56,7 @@ Every two weeks we host a community meeting to showcase new features, review upc
 We realize that getting feedback on your project publicly may not always be feasible therefore, in addition to the bi-weekly community calls, Dapr maintainers have also set aside some time each week to be available to answer technical questions in a private forum. See [community-office-hours](community-office-hours.md)
 
 ### Dapr blog
-The [Dapr blog](https://blog.dapr.io/posts) has regular posts on release, technical articles and upcoming events. If you would like to author a post, reach out to us with a suggestion. 
+The [Dapr blog](https://blog.dapr.io/posts) has regular posts on releases, technical articles and upcoming events. If you would like to author a post, reach out to us with a suggestion. 
 
 ## How can I get involved?
 
