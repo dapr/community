@@ -6,15 +6,20 @@ This page contains a list of organizations who are using Dapr in production or a
 
 ## Adopters
 
-| Organization | Status |
-| ------------ | ---------|
-| [Zeiss](https://www.zeiss.com/) |  ![production](https://img.shields.io/badge/-production-blue?style=flat) |
-| [Ignition Group](https://www.ignitiongroup.co.za/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
-| [Roadwork](https://roadwork.io/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
-| [Alibaba Cloud](https://us.alibabacloud.com/en) | ![production](https://img.shields.io/badge/-production-blue?style=flat)  |
+| Organization | Status | More Information
+| ------------ | ---------| ---------------|
+| [Zeiss](https://www.zeiss.com/) |  ![production](https://img.shields.io/badge/-production-blue?style=flat) | [link](https://customers.microsoft.com/en-us/story/1336089737047375040-zeiss-accelerates-cloud-first-development-on-azure-and-streamlines-order-processing)|
+| [Ignition Group](https://www.ignitiongroup.co.za/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | [link](https://customers.microsoft.com/en-us/story/1335733425802443016-ignition-group-speeds-development-and-payment-processing-using-dapr-and-azure)|
+| [Roadwork](https://roadwork.io/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |[link](https://blog.dapr.io/posts/2021/02/09/running-dapr-in-production-at-roadwork/)|
+| [Alibaba Cloud](https://us.alibabacloud.com/en) | ![production](https://img.shields.io/badge/-production-blue?style=flat)  | [link](https://blog.dapr.io/posts/2021/03/19/how-alibaba-is-using-dapr/)|
 | [Legentic](https://legentic.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat)  |
 | [Tdcare](http://www.tdcare.cn/) | ![testing](https://img.shields.io/badge/-production-blue?style=flat) |
 | [EKEYNOW Pte. Ltd](https://www.ekeynow.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
 | [StaringWorld](http://www.staringworld.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
-| [Solid Value Software](https://dotnetsilverlightprism.wordpress.com/2021/05/03/discover-dapr-the-dapr-mesh-and-a-net-code-sample/) | ![testing](https://img.shields.io/badge/development%20&%20testing-green?style=flat) |
+| [Solid Value Software](https://dotnetsilverlightprism.wordpress.com/2021/05/03/discover-dapr-the-dapr-mesh-and-a-net-code-sample/) | ![testing](https://img.shields.io/badge/development%20&%20testing-green?style=flat) |[link](https://dotnetsilverlightprism.wordpress.com/2021/05/03/discover-dapr-the-dapr-mesh-and-a-net-code-sample/) |
+| [Tencent](https://www.tencent.com) | ![testing](https://img.shields.io/badge/-production-blue?style=flat) |
+| [DingTalk](https://www.dingtalk.com) | ![testing](https://img.shields.io/badge/-production-blue?style=flat) |
+| [AutoNavi](https://mobile.amap.com/) | ![testing](https://img.shields.io/badge/-production-blue?style=flat) |
+| [RED (XiaoHongShu E-commerce)](https://www.xiaohongshu.com/protocols/about?language=en-US) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
+| [China Re Catastrophe Risk Management Company Ltd.](https://www.chinarecrm.com.cn/zhzjz/622292/index.html/) | ![testing](https://img.shields.io/badge/-production-blue?style=flat) |
 
