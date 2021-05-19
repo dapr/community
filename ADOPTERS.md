@@ -14,12 +14,12 @@ This page contains a list of organizations who are using Dapr in production or a
 | [Alibaba Cloud](https://us.alibabacloud.com/en) | ![production](https://img.shields.io/badge/-production-blue?style=flat)  | [link](https://blog.dapr.io/posts/2021/03/19/how-alibaba-is-using-dapr/)|
 | [Legentic](https://legentic.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat)  |
 | [Tdcare](http://www.tdcare.cn/) | ![testing](https://img.shields.io/badge/-production-blue?style=flat) |
+| [Tencent](https://www.tencent.com) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
+| [DingTalk](https://www.dingtalk.com) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
+| [AutoNavi](https://mobile.amap.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
+| [China Re Catastrophe Risk Management Company Ltd.](https://www.chinarecrm.com.cn/zhzjz/622292/index.html/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
+| [Solid Value Software](https://dotnetsilverlightprism.wordpress.com/2021/05/03/discover-dapr-the-dapr-mesh-and-a-net-code-sample/) | ![testing](https://img.shields.io/badge/development%20&%20testing-green?style=flat) |[link](https://dotnetsilverlightprism.wordpress.com/2021/05/03/discover-dapr-the-dapr-mesh-and-a-net-code-sample/) |
+| [RED (XiaoHongShu E-commerce)](https://www.xiaohongshu.com/protocols/about?language=en-US) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
 | [EKEYNOW Pte. Ltd](https://www.ekeynow.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
 | [StaringWorld](http://www.staringworld.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
-| [Solid Value Software](https://dotnetsilverlightprism.wordpress.com/2021/05/03/discover-dapr-the-dapr-mesh-and-a-net-code-sample/) | ![testing](https://img.shields.io/badge/development%20&%20testing-green?style=flat) |[link](https://dotnetsilverlightprism.wordpress.com/2021/05/03/discover-dapr-the-dapr-mesh-and-a-net-code-sample/) |
-| [Tencent](https://www.tencent.com) | ![testing](https://img.shields.io/badge/-production-blue?style=flat) |
-| [DingTalk](https://www.dingtalk.com) | ![testing](https://img.shields.io/badge/-production-blue?style=flat) |
-| [AutoNavi](https://mobile.amap.com/) | ![testing](https://img.shields.io/badge/-production-blue?style=flat) |
-| [RED (XiaoHongShu E-commerce)](https://www.xiaohongshu.com/protocols/about?language=en-US) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
-| [China Re Catastrophe Risk Management Company Ltd.](https://www.chinarecrm.com.cn/zhzjz/622292/index.html/) | ![testing](https://img.shields.io/badge/-production-blue?style=flat) |
-
+| [Endeavour Group](https://endeavourgroup.com.au/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
