@@ -25,3 +25,5 @@ This page contains a list of organizations who are using Dapr in production or a
 | [EKEYNOW Pte. Ltd](https://www.ekeynow.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
 | [StaringWorld](http://www.staringworld.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
 | [Endeavour Group](https://endeavourgroup.com.au/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
+| [NashTech](https://nashtechglobal.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
+
