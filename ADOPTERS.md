@@ -26,4 +26,6 @@ This page contains a list of organizations who are using Dapr in production or a
 | [StaringWorld](http://www.staringworld.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
 | [Endeavour Group](https://endeavourgroup.com.au/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
 | [NashTech](https://nashtechglobal.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
+| [Nicolis Project](https://www.nicolisproject.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
+
 
