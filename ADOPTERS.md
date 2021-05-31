@@ -28,5 +28,6 @@ This page contains a list of organizations who are using Dapr in production or a
 | [NashTech](https://nashtechglobal.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
 | [Nicolis Project](https://www.nicolisproject.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
 | [Schwarz IT KG](https://it.schwarz) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
+| [Cosmosource 宇动源（北京）信息技术有限公司](http://cosmosource.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
 
 
