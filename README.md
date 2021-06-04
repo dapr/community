@@ -52,9 +52,6 @@ Every two weeks we host a community meeting to showcase new features, review upc
 - Tuesday June 15<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210615T10&p1=1244)
 - Tuesday June 29<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210629T10&p1=1244)
 
-### Community Office Hours
-We realize that getting feedback on your project publicly may not always be feasible therefore, in addition to the bi-weekly community calls, Dapr maintainers have also set aside some time each week to be available to answer technical questions in a private forum. See [community-office-hours](community-office-hours.md)
-
 ### Dapr blog
 The [Dapr blog](https://blog.dapr.io/posts) has regular posts on releases, technical articles and upcoming events. If you would like to author a post, reach out to us with a suggestion. 
 
