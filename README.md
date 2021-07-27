@@ -39,6 +39,7 @@ Reach out with any questions you may have and we'll make sure to answer them as 
 
 ### Community meetings
 Every two weeks we host a community meeting to showcase new features, review upcoming milestones, and engage in a Q&A. All are welcome!
+Note: To accomodate different timezones, we schedule community calls in different times of the day, please see below for the time of each call (note you can always catch up offline by watching the recordings) 
 
 | Asset | Link        |
 |:-----------|:------------|
@@ -48,9 +49,9 @@ Every two weeks we host a community meeting to showcase new features, review upc
 **Upcoming meetings**:
 - Tuesday July 13<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210713T10&p1=1244)
 - Tuesday July 27<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210727T10&p1=1244)
-- Tuesday August 10<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210810T10&p1=1244)
+- Tuesday August 10<sup>th</sup> 5pm Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210810T17&p1=1244)
 - Tuesday August 24<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210824T10&p1=1244)
-- Tuesday September 7<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210907T10&p1=1244)
+- Tuesday September 7<sup>th</sup> 5pm Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210907T17&p1=1244)
 
 ### Dapr blog
 The [Dapr blog](https://blog.dapr.io/posts) has regular posts on releases, technical articles and upcoming events. If you would like to author a post, reach out to us with a suggestion. 
