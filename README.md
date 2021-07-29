@@ -53,6 +53,13 @@ Note: To accomodate different timezones, we schedule community calls in differen
 - Tuesday August 24<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210824T10&p1=1244)
 - Tuesday September 7<sup>th</sup> 5pm Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210907T17&p1=1244)
 
+### Milestone sync meetings
+Every week, we meet to plan and sync on the progress for the milestone's release. This meeting includes maintainers and active contributors and usually lasts for about 30 minutes. If you would like to **actively contribute** towards a milestone, ask a maintainer for the meeting's password.
+
+**Zoom Call:** https://us02web.zoom.us/j/81902234964<br>
+**Password:** Ask @maintainers in our Discord server<br>
+**Schedule:** Tuesdays and Thursdays at 9am and 7pm Pacific Time.
+
 ### Dapr blog
 The [Dapr blog](https://blog.dapr.io/posts) has regular posts on releases, technical articles and upcoming events. If you would like to author a post, reach out to us with a suggestion. 
 
