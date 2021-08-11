@@ -47,11 +47,11 @@ Note: To accomodate different timezones, we schedule community calls in differen
 | 🎥 Meeting Recordings | http://aka.ms/dapr-recordings
 
 **Upcoming meetings**:
-- Tuesday July 13<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210713T10&p1=1244)
-- Tuesday July 27<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210727T10&p1=1244)
-- Tuesday August 10<sup>th</sup> 5pm Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210810T17&p1=1244)
-- Tuesday August 24<sup>th</sup> 10am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210824T10&p1=1244)
-- Tuesday September 7<sup>th</sup> 5pm Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210907T17&p1=1244)
+- Tuesday August 24<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210824T10&p1=1244)
+- Tuesday September 7<sup>th</sup> 7:30pm Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210907T1730&p1=1244)
+- Tuesday September 21<sup>st</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210921T1000&p1=1244)
+- Tuesday October 5<sup>th</sup> 7:30pm Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211005T1730&p1=1244)
+- Tuesday October 19<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211019T1000&p1=1244)
 
 ### Milestone sync meetings
 Every week, we meet to plan and sync on the progress for the milestone's release. This meeting includes maintainers and active contributors and usually lasts for about 30 minutes. If you would like to **actively contribute** towards a milestone, ask a maintainer for the meeting's password.
