@@ -1,10 +1,3 @@
----
-type: docs
-title: "Dapr steering and technical committee (STC) charter"
-linkTitle: Steering and technical committee"
-weight: 100
-description: "Dapr steering and technical committee (STC) charter"
----
 # Dapr steering and technical committee (STC)
 
 The Dapr project has a single governance body called the Steering and Technical Committee (STC).
