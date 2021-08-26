@@ -1,12 +1,8 @@
 # Dapr steering and technical committee (STC)
 
-The Dapr project has a single governance body called the Steering and Technical Committee (STC).
-The STC is responsible for the health of the Dapr community and for overall technical oversight.
+Last updated September 2021
 
-Responsibilities include maintaining the governance framework, code of conduct, communication platforms, and infrastructure resources. From a technical perspective responsibilities include technical oversight, release processes, integration of technologies into the Dapr project and resolution of technical decisions. Most day-to-day work is delegated by the STC to the maintainers of the Dapr repos.
-
-The governance of Dapr is an open, living document, and continues to evolve as the community and project change.
-
+- [Overview](#overview)
 - [Charter](#charter)
 - [Committee Meetings](#committee-meetings)
 - [Committee Members](#committee-members)
@@ -19,10 +15,18 @@ The governance of Dapr is an open, living document, and continues to evolve as t
   - [Voting Procedure](#voting-procedure)
   - [Limitations on Company Representation](#limitations-on-company-representation)
 - [Vacancies](#vacancies)
-- [Bootstrap and Transition](#ootstrap-and-transition)
+- [Bootstrap and Transition](#bootstrap-and-transition)
 - [Changes to the charter](#changes-to-the-charter)
 - [Authority, Facilitation, and Decision Making in Dapr](#authority-facilitation-and-decision-making-in-Dapr)
 - [Getting in touch](#getting-in-touch)
+
+## Overview 
+This document describes the bootstrapping process for the Dapr governance committee. The Dapr project has a single governance body called the Steering and Technical Committee (STC). The STC is responsible for the health of the Dapr community and for overall technical oversight.
+
+## Goals and Responsibilities
+The initial role of the STC is to instantiate the formal process for Dapr governance and technical oversight. Responsibilities include maintaining the governance framework, code of conduct, communication platforms, and infrastructure resources. From a technical perspective responsibilities include technical oversight, release processes, integration of technologies into the Dapr project and resolution of technical decisions. Most day-to-day work is delegated by the STC to the maintainers of the Dapr repos.
+
+The governance of Dapr is an open, living document, and continues to evolve as the community and project change. In addition to defining the initial governance process, the bootstrap committee strongly believes that it is important to provide a means for iterating the processes defined by the governance committee.  The role of the governance committee is to be a live, responsive body that can refactor and reform as necessary to adapt to a changing project and community.
 
 ## Charter
 
@@ -37,15 +41,17 @@ The governance of Dapr is an open, living document, and continues to evolve as t
 1. Define and evolve the scope of the Dapr community.
 1. Receive and handle reports about [code of conduct](./CODE-OF-CONDUCT.md)
    violations and maintain confidentiality.
+1. Approval of logo changes, significant website updates and marketing campaigns.
+1. Establish processes regarding project resources/assets, including artifact repositories, build and test infrastructure, web sites and their domains, blogs, social-media accounts, etc.
 1. Review security reports; work with the appropriate technical leads to accept
    or reject the report; maintain the private nature of such reports until
    disclosed to the broader community.
 1. Act as the final escalation point and decider for any disputes, issues,
-   clarifications, or escalations within the project scope.
+   clarifications, or escalations within the project scope. This includes delegate appropriate authority to trusted individuals.
 1. Resolve technical issues, technical disagreements and escalations within the project.
-1. Set the priorities of individual releases to ensure coherency and proper sequencing.
+1. Set the priorities of individual releases to ensure coherency and proper sequencing. This includes deciding how and when official releases of Dapr artifacts are made and what they include.
 1. Approve the creation/deletion of GitHub repositories, along with other high-level administrative issues around GitHub and our other tools.
-1. Establish and maintain the overall technical governance guidelines and processes for the  project.
+1. Establish and maintain the overall technical governance guidelines and processes for the project including a final escalation path.
 1. Foster an environment for a healthy and happy community of developers and contributors.
 
 ## Committee Meetings
@@ -54,13 +60,14 @@ STC meets monthly. Meetings are open to public and held online.
 
 Given the private nature of some of these discussions, for example privacy, private
 emails to the committee, code of conduct violations, escalations, disputes
-between members, security reports, some meetings are held in private.
+between members, security reports, some meetings are held in private. Committee meetings can be made closed by a simple majority vote of the STC members, but closed meetings do not count towards the required meeting frequency. The governance committee will inform the community if a particular meeting is closed, as well as the general reasons for this, prior to the meeting taking place.
 
-Public meetings are recorded and the [recordings](XX) and [meeting notes](XXX) are available publicly.
+Public meetings are recorded and the [recordings](XX) and [meeting notes](XXX) are available publicly. If a member misses more than 50% of all meetings held within a six month period then they will be removed from the committee and a special election will be held. 
 
 Questions and proposals for changes to governance are posted as [issues in the community repo](https://github.com/Dapr/community/issues), and the STC invites your feedback there. See [Getting in touch](#getting-in-touch) for other options.
 
 ## Committee members
+To bootstrap the STC 5 individuals were identified to provide the initial process that can bootstrap the remainder of the process.The Bootstrap committee will be replaced by the elected Dapr Committee. 
 
 The current membership of the STC is:
 
@@ -76,8 +83,7 @@ The current membership of the STC is:
 
 The steering and technical committee desires to always reach consensus.
 
-Decisions requiring a vote include: issuing written policy, amending existing
-written policy, all spending, hiring, and contracting, official responses to publicly raised issues, or any other decisions that at least half the members present decide require a vote.
+Decisions requiring a vote include: issuing written governance policy, amending existing written governance policy, all spending, official responses to publicly raised issues, or any other decisions that at least half the members present decide require a vote.
 
 Decisions are made in meetings when a quorum of the members are present and may
 pass with at least half the members of the committee supporting it.
@@ -85,8 +91,7 @@ pass with at least half the members of the committee supporting it.
 Quorum is considered reached when at least half of the members are present.
 
 ## Composition
-Seats on the steering and technical committee are held by an individual, not by their
-employer. This means that if an individual changes their employer, they retain their seat until the next election. 
+Seats on the steering and technical committee are held by an individual, not by their employer. This means that if an individual changes their employer, they retain their seat until the next election. 
 
 The steering and technical committee has 5 seats initially to bootstrap. These 5 seats are contributing seats, open to any project contributor. This is open to expand upto 11 seats for qualifying contributing members as the project expands. There is no timeframe for this expanded committee. 
 
@@ -139,7 +144,7 @@ We are committed to an inclusive process and will adapt future eligibility requi
 
 ### Candidate Eligibility
 
-Community members must be eligible to vote in order to stand for election. Candidates may self-nominate or be nominated by another eligible member. There are no term limits for STC members.  
+Community members must be eligible to vote in order to stand for election. Candidates may self-nominate or be nominated by another eligible member. There are no term limits for STC committee members, meaning that a committee member can continue to be elected for new 2 year term ad infinitum.  
 
 To run for a Contributing seat, a candidate must additionally be at least a
 project Member as defined in [community-membership](community-membership.md).
@@ -183,7 +188,7 @@ the person they are replacing, regardless of the length of that remainder.
 
 ## Bootstrap and Transition
 
-In order to bootstrap the STC, 5 seats are allocated in November 2021. Two for Microsoft, two for Alibaba and one for Intel committee members as the current active companies to the project. This can expand up to 11 seats maximum over the coming years.
+In order to bootstrap the STC, 5 seats are allocated in September 2021. Two for Microsoft, two for Alibaba and one for Intel committee members as the current active companies to the project. This can expand up to 11 seats maximum over the coming years.
 
 The next election will be held in November 2023 for all currently filled seats at that time.  
 
