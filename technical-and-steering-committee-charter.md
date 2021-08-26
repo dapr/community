@@ -1,6 +1,6 @@
 # Dapr steering and technical committee (STC)
 
-Last updated September 2021
+Last updated August 2021
 
 - [Overview](#overview)
 - [Charter](#charter)
@@ -75,8 +75,8 @@ The current membership of the STC is:
 | -------------------------------------------------------------- | ---------------- | ------------ | ---------------------------------------------------- | ---------- | --------
 | <img width="30px" src="https://github.com/yaron2.png"> | Yaron Schneider|   Microsoft     | [@yaron2](https://github.com/yaron2) | Bootstrap  | 2023     |
 | <img width="30px" src="https://github.com/msfussell.png">        | Mark Fussell      | Microsoft       | [@msfussell](https://github.com/msfussell)               | Bootstrap  | 2023     |
-| <img width="30px" src="https://github.com/">      | TBD | Alibaba          | [@XXX](https://github.com/)           | Bootstrap  | 2023     |
-| <img width="30px" src="https://github.com/">         | TBD       | Alibaba  | [@XXX](https://github.com/)                 | Bootstrap | 2023     |
+| <img width="30px" src="https://github.com/beiwei30.png">      | Ian Luo  | Alibaba          | [@beiwei30](https://github.com/)           | Bootstrap  | 2023     |
+| <img width="30px" src="https://github.com/cvictory.png">         | Victory Cao        | Alibaba  | [@cvictory](https://github.com/)                 | Bootstrap | 2023     |
 | <img width="30px" src="https://github.com/.png">         | TBD      | Intel       | [@XXX](https://github.com/)                 | Bootstrap | 2023     |
 
 ## Decision process
@@ -97,7 +97,7 @@ The steering and technical committee has 5 seats initially to bootstrap. These 5
 
 A maximum of two seats is allowed from any one company. For companies with two seats these are should be filled by one person focused on the vision, values, and mission of the project and another person who is focused on the technical decisions.
 
-Steering Committee members serve for 2-year terms. 
+STC members serve a 2-year term between elections. 
 
 ## Election procedure
 
@@ -225,4 +225,4 @@ There are two ways to raise issues to the steering committee for decision:
 
 ---
 
-Portions of this document are adapted from the [Kubernetes Steering Committee](https://github.com/kubernetes/steering/blob/master/elections.md)
+Portions of this document are adapted from the [Kubernetes Steering Committee](https://github.com/kubernetes/steering/blob/master/elections.md) and the [Knative Steering Committee](https://github.com/knative/community/blob/main/STEERING-COMMITTEE.md)
