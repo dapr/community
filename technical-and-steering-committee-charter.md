@@ -4,26 +4,26 @@ Last updated September 2021
 
 - [Overview](#overview)
 - [Charter](#charter)
-- [Committee Meetings](#committee-meetings)
-- [Committee Members](#committee-members)
+- [Committee meetings](#committee-meetings)
+- [Committee members](#committee-members)
 - [Decision process](#decision-process)
 - [Elections](#election-procedure)
   - [Timeline](#timeline)
-  - [Election Officer(s)](#election-officers)
-  - [Eligibility to Vote](#eligibility-to-vote)
-  - [Candidate Eligibility](#candidate-eligibility)
-  - [Voting Procedure](#voting-procedure)
-  - [Limitations on Company Representation](#limitations-on-company-representation)
+  - [Election officer(s)](#election-officers)
+  - [Eligibility to vote](#eligibility-to-vote)
+  - [Candidate eligibility](#candidate-eligibility)
+  - [Voting procedure](#voting-procedure)
+  - [Limitations on company representation](#limitations-on-company-representation)
 - [Vacancies](#vacancies)
-- [Bootstrap and Transition](#bootstrap-and-transition)
+- [Bootstrap and transition](#bootstrap-and-transition)
 - [Changes to the charter](#changes-to-the-charter)
-- [Authority, Facilitation, and Decision Making in Dapr](#authority-facilitation-and-decision-making-in-Dapr)
+- [Authority, facilitation and decision](#authority-facilitation-and-decision)
 - [Getting in touch](#getting-in-touch)
 
 ## Overview 
 This document describes the bootstrapping process for the Dapr governance committee. The Dapr project has a single governance body called the Steering and Technical Committee (STC). The STC is responsible for the health of the Dapr community and for overall technical oversight.
 
-## Goals and Responsibilities
+## Goals and responsibilities
 The initial role of the STC is to instantiate the formal process for Dapr governance and technical oversight. Responsibilities include maintaining the governance framework, code of conduct, communication platforms, and infrastructure resources. From a technical perspective responsibilities include technical oversight, release processes, integration of technologies into the Dapr project and resolution of technical decisions. Most day-to-day work is delegated by the STC to the maintainers of the Dapr repos.
 
 The governance of Dapr is an open, living document, and continues to evolve as the community and project change. In addition to defining the initial governance process, the bootstrap committee strongly believes that it is important to provide a means for iterating the processes defined by the governance committee.  The role of the governance committee is to be a live, responsive body that can refactor and reform as necessary to adapt to a changing project and community.
@@ -54,7 +54,7 @@ The governance of Dapr is an open, living document, and continues to evolve as t
 1. Establish and maintain the overall technical governance guidelines and processes for the project including a final escalation path.
 1. Foster an environment for a healthy and happy community of developers and contributors.
 
-## Committee Meetings
+## Committee meetings
 
 STC meets monthly. Meetings are open to public and held online.
 
@@ -99,7 +99,7 @@ A maximum of two seats is allowed from any one company. For companies with two s
 
 Steering Committee members serve for 2-year terms. 
 
-## Election Procedure
+## Election procedure
 
 ### Timeline
 
@@ -113,7 +113,7 @@ not more than four. The results of the election will be announced within one
 week of closing the election. New Steering Committee members will take office on
 December 1 of each year.
 
-### Election Officer(s)
+### Election officer(s)
 
 Six weeks or more before the election, the STC will appoint
 between one and three Election Officer(s) to administer the election. Elections
@@ -128,7 +128,7 @@ will be responsible for:
 - Assisting candidates in preparing and sharing statements
 - Tallying voting results according to the rules in this charter
 
-### Eligibility to Vote
+### Eligibility to vote
 
 Anyone who has at least 50 contributions in the last 12 months is eligible to
 vote in the STC election. Contributions are defined as opening PRs,
@@ -142,7 +142,7 @@ be captured at Dapr/community/elections/$YEAR/README.md
 
 We are committed to an inclusive process and will adapt future eligibility requirements based on community feedback.
 
-### Candidate Eligibility
+### Candidate eligibility
 
 Community members must be eligible to vote in order to stand for election. Candidates may self-nominate or be nominated by another eligible member. There are no term limits for STC committee members, meaning that a committee member can continue to be elected for new 2 year term ad infinitum.  
 
@@ -150,7 +150,7 @@ To run for a Contributing seat, a candidate must additionally be at least a
 project Member as defined in [community-membership](community-membership.md).
 
 
-### Voting Procedure
+### Voting procedure
 
 Elections will be held using a time-limited
 [Condorcet](https://en.wikipedia.org/wiki/Condorcet_method) ranking on
@@ -158,7 +158,7 @@ Elections will be held using a time-limited
 vote-getters are elected to the available seats, with the exceptions for company
 representation discussed below.
 
-### Limitations on Company Representation
+### Limitations on company representation
 
 No more than two seats may be held by employees of the same organization (or
 conglomerate, in the case of companies owning each other). If the results of an election result in greater than two employees of the same organization, the lowest vote getters from any particular employer will be removed until representation on the committee is down to two.
@@ -186,7 +186,7 @@ election. Eligibility will not be redetermined at the time of the special
 election. Any replacement STC member will serve out the remainder of the term for
 the person they are replacing, regardless of the length of that remainder.
 
-## Bootstrap and Transition
+## Bootstrap and transition
 
 In order to bootstrap the STC, 5 seats are allocated in September 2021. Two for Microsoft, two for Alibaba and one for Intel committee members as the current active companies to the project. This can expand up to 11 seats maximum over the coming years.
 
@@ -201,7 +201,7 @@ Amendments are accepted with majority consent of the committee as per the
 Proposals and amendments to the charter are available for at least a period of
 one week for comments and questions before a vote will occur.
 
-## Authority, Facilitation, and Decision Making in Dapr
+## Authority, facilitation and decision
 
 Ideally most decisions are made at the lowest possible level within the
 project: with repo maintainers. When this is not possible for
