@@ -1,6 +1,6 @@
-# Dapr steering and technical committee (STC)
+# Steering and Technical committee (STC)
 
-Last updated August 2021
+Last updated September 2021
 
 - [Overview](#overview)
 - [Charter](#charter)
@@ -24,7 +24,7 @@ Last updated August 2021
 This document describes the bootstrapping process for the Dapr governance committee. The Dapr project has a single governance body called the Steering and Technical Committee (STC). The STC is responsible for the health of the Dapr community and for overall technical oversight.
 
 ## Goals and responsibilities
-The initial role of the STC is to instantiate the formal process for Dapr governance and technical oversight. Responsibilities include maintaining the governance framework, code of conduct, communication platforms, and infrastructure resources. From a technical perspective responsibilities include technical oversight, release processes, integration of technologies into the Dapr project and resolution of technical decisions. Most day-to-day work is delegated by the STC to the maintainers of the Dapr repos.
+The initial role of the STC is to instantiate the formal process for Dapr governance and technical oversight. Responsibilities include maintaining the governance framework, code of conduct, communication platforms, and infrastructure resources. From a technical perspective responsibilities include technical oversight, release processes, integration of technologies into the Dapr project and resolution of technical decisions. Most day-to-day work is delegated by the STC to the maintainers of the Dapr repositories.
 
 The governance of Dapr is an open, living document, and continues to evolve as the community and project change. In addition to defining the initial governance process, the bootstrap committee strongly believes that it is important to provide a means for iterating the processes defined by the governance committee.  The role of the governance committee is to be a live, responsive body that can refactor and reform as necessary to adapt to a changing project and community.
 
@@ -33,8 +33,7 @@ The governance of Dapr is an open, living document, and continues to evolve as t
 1. Define, evolve, and promote the vision, values, and mission of the Dapr project.
 1. Set the overall technical direction and roadmap of the Dapr project.
 1. Define and evolve project governance structures and policies, including
-   project roles and how collaborators become members, approvers, leads, and/or
-   administrators.
+   project roles and how collaborators become members, approvers and maintainers and the responsibilities of the release team.
 1. Steward, control access, delegate access, and establish processes regarding
    all Dapr project resources and has the final say in the disposition of
    those resources.
@@ -49,7 +48,8 @@ The governance of Dapr is an open, living document, and continues to evolve as t
 1. Act as the final escalation point and decider for any disputes, issues,
    clarifications, or escalations within the project scope. This includes delegate appropriate authority to trusted individuals.
 1. Resolve technical issues, technical disagreements and escalations within the project.
-1. Set the priorities of individual releases to ensure coherency and proper sequencing. This includes deciding how and when official releases of Dapr artifacts are made and what they include.
+1. Provide guidance to and be informed by the release team for milestone releases and the maintainers to define milestones. 
+1. Decide on technical issues that affect multiple repositories when working with repository maintainers, to ensure a cohesive and consistent decisions are made. 
 1. Approve the creation/deletion of GitHub repositories, along with other high-level administrative issues around GitHub and our other tools.
 1. Establish and maintain the overall technical governance guidelines and processes for the project including a final escalation path.
 1. Foster an environment for a healthy and happy community of developers and contributors.
@@ -64,20 +64,20 @@ between members, security reports, some meetings are held in private. Committee 
 
 Public meetings are recorded and the [recordings](XX) and [meeting notes](XXX) are available publicly. If a member misses more than 50% of all meetings held within a six month period then they will be removed from the committee and a special election will be held. 
 
-Questions and proposals for changes to governance are posted as [issues in the community repo](https://github.com/Dapr/community/issues), and the STC invites your feedback there. See [Getting in touch](#getting-in-touch) for other options.
+Questions and proposals for changes to governance are posted as [issues in the community repository](https://github.com/Dapr/community/issues), and the STC invites your feedback there. See [Getting in touch](#getting-in-touch) for other options.
 
 ## Committee members
-To bootstrap the STC 5 individuals were identified to provide the initial process that can bootstrap the remainder of the process.The Bootstrap committee will be replaced by the elected Dapr Committee. 
+To bootstrap the STC 5 individuals were identified to provide the initial process that can bootstrap the remainder of the process.The bootstrap committee will be replaced by an elected Dapr Committee. A committee member is given [owner role](https://github.com/orgs/dapr/people?query=role%3Aowner) in the Dapr repository.
 
 The current membership of the STC is:
 
 | &nbsp;                                                         | Member           | Organization | Profile                                              | Term Start | Term End |
 | -------------------------------------------------------------- | ---------------- | ------------ | ---------------------------------------------------- | ---------- | --------
-| <img width="30px" src="https://github.com/yaron2.png"> | Yaron Schneider|   Microsoft     | [@yaron2](https://github.com/yaron2) | Bootstrap  | 2023     |
-| <img width="30px" src="https://github.com/msfussell.png">        | Mark Fussell      | Microsoft       | [@msfussell](https://github.com/msfussell)               | Bootstrap  | 2023     |
-| <img width="30px" src="https://github.com/beiwei30.png">      | Ian Luo  | Alibaba          | [@beiwei30](https://github.com/)           | Bootstrap  | 2023     |
-| <img width="30px" src="https://github.com/cvictory.png">         | Victory Cao        | Alibaba  | [@cvictory](https://github.com/)                 | Bootstrap | 2023     |
-| <img width="30px" src="https://github.com/.png">         | TBD      | Intel       | [@XXX](https://github.com/)                 | Bootstrap | 2023     |
+| <img width="30px" src="https://github.com/yaron2.png"> | Yaron Schneider|   Microsoft     | [@yaron2](https://github.com/yaron2) | Bootstrap  | Nov 30th 2023     |
+| <img width="30px" src="https://github.com/msfussell.png">        | Mark Fussell      | Microsoft       | [@msfussell](https://github.com/msfussell)               | Bootstrap  | Nov 30th 2023     |
+| <img width="30px" src="https://github.com/beiwei30.png">      | Ian Luo  | Alibaba          | [@beiwei30](https://github.com/)           | Bootstrap  | Nov 30th 2023     |
+| <img width="30px" src="https://github.com/cvictory.png">         | Victory Cao        | Alibaba  | [@cvictory](https://github.com/)                 | Bootstrap | Nov 30th 2023     |
+| <img width="30px" src="https://github.com/.png">         | TBD      | Intel       | [@XXX](https://github.com/)                 | Bootstrap | Nov 30th 2023     |
 
 ## Decision process
 
@@ -135,7 +135,6 @@ vote in the STC election. Contributions are defined as opening PRs,
 reviewing and commenting on PRs, opening and commenting on issues, writing
 design docs, commenting on design docs, helping people on Discord, and other efforts that help advance Dapr the project. The eligible voters list is a list of GitHub IDs.
 
-
 The electoral roll of all eligible voters will be captured at
 Dapr/community/elections/$YEAR/voters.md and the voters’ guide will
 be captured at Dapr/community/elections/$YEAR/README.md
@@ -148,7 +147,6 @@ Community members must be eligible to vote in order to stand for election. Candi
 
 To run for a Contributing seat, a candidate must additionally be at least a
 project Member as defined in [community-membership](community-membership.md).
-
 
 ### Voting procedure
 
@@ -204,7 +202,7 @@ one week for comments and questions before a vote will occur.
 ## Authority, facilitation and decision
 
 Ideally most decisions are made at the lowest possible level within the
-project: with repo maintainers. When this is not possible for
+project: with repository maintainers. When this is not possible for
 technical decisions, the STC can help facilitate a conversation to work through
 the contended issue. When facilitation by the STC
 does not resolve the contention, the STC may have to make a final decision.
