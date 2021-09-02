@@ -48,8 +48,8 @@ The governance of Dapr is an open, living document, and continues to evolve as t
 1. Act as the final escalation point and decider for any disputes, issues,
    clarifications, or escalations within the project scope. This includes delegate appropriate authority to trusted individuals.
 1. Resolve technical issues, technical disagreements and escalations within the project.
-1. Provide guidance to and be informed by the release team for milestone releases and the maintainers to define milestones. 
-1. Decide on technical issues that affect multiple repositories when working with repository maintainers, to ensure a cohesive and consistent decisions are made. 
+1. Provide guidance to, and be informed by the release team for milestone releases, and maintainers to define milestones. 
+1. Decide on technical issues that affect multiple repositories when working with repository maintainers, to ensure cohesive and consistent decisions are made. 
 1. Approve the creation/deletion of GitHub repositories, along with other high-level administrative issues around GitHub and our other tools.
 1. Establish and maintain the overall technical governance guidelines and processes for the project including a final escalation path.
 1. Foster an environment for a healthy and happy community of developers and contributors.
