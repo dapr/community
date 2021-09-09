@@ -75,9 +75,9 @@ The current membership of the STC is:
 | -------------------------------------------------------------- | ---------------- | ------------ | ---------------------------------------------------- | ---------- | --------
 | <img width="30px" src="https://github.com/yaron2.png"> | Yaron Schneider|   Microsoft     | [@yaron2](https://github.com/yaron2) | Bootstrap  | Nov 30th 2023     |
 | <img width="30px" src="https://github.com/msfussell.png">        | Mark Fussell      | Microsoft       | [@msfussell](https://github.com/msfussell)               | Bootstrap  | Nov 30th 2023     |
-| <img width="30px" src="https://github.com/beiwei30.png">      | Ian Luo  | Alibaba          | [@beiwei30](https://github.com/)           | Bootstrap  | Nov 30th 2023     |
-| <img width="30px" src="https://github.com/cvictory.png">         | Victory Cao        | Alibaba  | [@cvictory](https://github.com/)                 | Bootstrap | Nov 30th 2023     |
-| <img width="30px" src="https://github.com/.png">         | TBD      | Intel       | [@XXX](https://github.com/)                 | Bootstrap | Nov 30th 2023     |
+| <img width="30px" src="https://github.com/beiwei30.png">      | Ian Luo  | Alibaba          | [@beiwei30](https://github.com/beiwei30)           | Bootstrap  | Nov 30th 2023     |
+| <img width="30px" src="https://github.com/cvictory.png">         | Victory Cao        | Alibaba  | [@cvictory](https://github.com/cvictory)                 | Bootstrap | Nov 30th 2023     |
+| <img width="30px" src="https://github.com/forrest-zhao.png">         | Forrest Zhao      | Intel       | [@forrest-zhao](https://github.com/forrest-zhao)                 | Bootstrap | Nov 30th 2023     |
 
 ## Decision process
 
