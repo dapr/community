@@ -67,7 +67,7 @@ Public meetings are recorded and the [recordings](XX) and [meeting notes](XXX) a
 Questions and proposals for changes to governance are posted as [issues in the community repository](https://github.com/Dapr/community/issues), and the STC invites your feedback there. See [Getting in touch](#getting-in-touch) for other options.
 
 ## Committee members
-To bootstrap the STC 5 individuals were identified to provide the initial process that can bootstrap the remainder of the process.The bootstrap committee will be replaced by an elected Dapr Committee. A committee member is given [owner role](https://github.com/orgs/dapr/people?query=role%3Aowner) in the Dapr repository.
+To bootstrap the STC 5 individuals were identified to provide the initial process that can bootstrap the remainder of the process.The bootstrap committee will be replaced by an elected Dapr Committee. A committee member is given [owner role](https://github.com/orgs/dapr/people?query=role%3Aowner) in the Dapr org.
 
 The current membership of the STC is:
 
@@ -95,7 +95,7 @@ Seats on the steering and technical committee are held by an individual, not by 
 
 The steering and technical committee has 5 seats initially to bootstrap. These 5 seats are contributing seats, open to any project contributor. This is open to expand upto 11 seats for qualifying contributing members as the project expands. There is no timeframe for this expanded committee. 
 
-A maximum of two seats is allowed from any one company. For companies with two seats these are should be filled by one person focused on the vision, values, and mission of the project and another person who is focused on the technical decisions.
+A maximum of two seats is allowed from any one company. For companies with two seats these should be filled by one person focused on the vision, values, and mission of the project and another person who is focused on the technical decisions.
 
 STC members serve a 2-year term between elections. 
 
@@ -130,7 +130,7 @@ will be responsible for:
 
 ### Eligibility to vote
 
-Anyone who has at least 50 contributions in the last 12 months is eligible to
+Anyone who has at least 20 contributions in the last 12 months is eligible to
 vote in the STC election. Contributions are defined as opening PRs,
 reviewing and commenting on PRs, opening and commenting on issues, writing
 design docs, commenting on design docs, helping people on Discord, and other efforts that help advance Dapr the project. The eligible voters list is a list of GitHub IDs.
