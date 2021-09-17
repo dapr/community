@@ -11,7 +11,7 @@ Welcome to the Dapr community. This is the starting point for becoming a contrib
 Other Documents
 
 - [Contributing to Dapr](https://docs.dapr.io/contributing/) - guidelines and advice on becoming a contributor
-- [Technical & Steering Committee (TSC)](technical-committee-charter.md) - describes our technical and steering committee charter
+- [Steering and Technical Committee (STC)](steering-and-technical-committee-charter.md) - describes the steering and technical committee governing body for Dapr and its charter.
 - [Community membership](community-membership.md) - describes the various responsibilities of contributor roles in the Dapr community
 - [Developer Guide](https://github.com/dapr/dapr/tree/master/docs/development) - describes how to get involved with Dapr development
 
@@ -23,8 +23,7 @@ Dapr codifies the best practices for building microservice applications into ope
 Visit [dapr.io](https://dapr.io) for information about Dapr.
 
 ## Dapr authors
-Dapr is an open source project with an active development community. The project was started
-by Microsoft.
+Dapr is an open source project with an active development community. The project was started at Microsoft.
 
 ## Communication
 We want your contributions and suggestions! One of the easiest ways to contribute is to participate in discussions, chat on IM or join the bi-weekly community calls.
@@ -47,11 +46,12 @@ Note: To accomodate different timezones, we schedule community calls in differen
 | 🎥 Meeting Recordings | http://aka.ms/dapr-recordings
 
 **Upcoming meetings**:
-- Tuesday August 24<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210824T10&p1=1244)
-- Tuesday September 7<sup>th</sup> 7:30pm Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210907T1730&p1=1244)
+
 - Tuesday September 21<sup>st</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210921T1000&p1=1244)
 - Tuesday October 5<sup>th</sup> 7:30pm Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211005T1730&p1=1244)
 - Tuesday October 19<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211019T1000&p1=1244)
+- Tuesday November 2<sup>nd</sup> 7:30pm Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211102T1930&p1=1244)
+- Tuesday November 16<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211116T10&p1=1244)
 
 ### Milestone sync meetings
 Every week, we meet to plan and sync on the progress for the milestone's release. This meeting includes maintainers and active contributors and usually lasts for about 30 minutes. If you would like to **actively contribute** towards a milestone, ask a maintainer for the meeting's password.
