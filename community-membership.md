@@ -9,7 +9,7 @@ This doc outlines the responsibilities of contributor roles in Dapr. The Dapr pr
 | Approver   | Approve accepting contributions                       | Highly experienced and active reviewer and contributor to a subproject. | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in GitHub |
 | Maintainer | Set direction and priorities for a subproject         | Demonstrated responsibility and excellent technical judgement for the subproject. | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners), GitHub Team and repo ownership in GitHub |
 
-> Note: The Technical & Steering Committee (TSC) referred to in this document is not yet established. The interim members are @msfussell, @sarahnovotny, @yaron2.
+> Note: The Steering & Technical Committee (STC) referred to in this document is described [here](./steering-and-technical-committee-charter.md)
 
 ## New contributors
 
@@ -54,7 +54,7 @@ Defined by: Member of the Dapr GitHub organization
     template](https://github.com/dapr/community/blob/master/.github/ISSUE_TEMPLATE/membership.md))
   - Make sure that the list of contributions included is representative of your work on the project
 - Have your sponsoring reviewers reply confirmation of sponsorship: `+1`
-- Once your sponsors have responded, your request will be reviewed by the Technical & Steering Committee. Any member of the Technical & Steering Committee can review the requirements and add Members to the GitHub org
+- Once your sponsors have responded, your request will be reviewed by the Steering & Technical Committee (STC). Any member of the Steering & Technical Committee can review the requirements and add Members to the GitHub org
 
 ### Responsibilities and privileges
 
