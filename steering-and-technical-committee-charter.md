@@ -24,7 +24,7 @@ Last updated September 2021
 This document describes the bootstrapping process for the Dapr governance committee. The Dapr project has a single governance body called the Steering and Technical Committee (STC). The STC is responsible for the health of the Dapr community and for overall technical oversight.
 
 ## Goals and responsibilities
-The initial role of the STC is to instantiate the formal process for Dapr governance and technical oversight. Responsibilities include maintaining the governance framework, code of conduct, communication platforms, and infrastructure resources. From a technical perspective responsibilities include technical oversight, release processes, integration of technologies into the Dapr project and resolution of technical decisions. Most day-to-day work is delegated by the STC to the maintainers of the Dapr repositories.
+The initial role of the STC is to instantiate the formal process for Dapr governance and technical oversight. Responsibilities include maintaining the governance framework, code of conduct, communication platforms, and infrastructure resources. From a technical perspective responsibilities include technical oversight, release processes, integration of technologies into the Dapr project and resolution of technical decisions. Most day-to-day work is delegated by the STC to the maintainers of the Dapr repositories and any special interest groups (SIGs) that are formed.
 
 The governance of Dapr is an open, living document, and continues to evolve as the community and project change. In addition to defining the initial governance process, the bootstrap committee strongly believes that it is important to provide a means for iterating the processes defined by the governance committee.  The role of the governance committee is to be a live, responsive body that can refactor and reform as necessary to adapt to a changing project and community.
 
@@ -67,17 +67,17 @@ Public meetings are recorded and the [recordings](XX) and [meeting notes](XXX) a
 Questions and proposals for changes to governance are posted as [issues in the community repository](https://github.com/Dapr/community/issues), and the STC invites your feedback there. See [Getting in touch](#getting-in-touch) for other options.
 
 ## Committee members
-To bootstrap the STC 5 individuals were identified to provide the initial process that can bootstrap the remainder of the process.The bootstrap committee will be replaced by an elected Dapr Committee. A committee member is given [owner role](https://github.com/orgs/dapr/people?query=role%3Aowner) in the Dapr org.
+To bootstrap the STC 5 individuals were identified to provide the initial process that can bootstrap the remainder of the process.The bootstrap committee will be replaced by an elected Dapr Committee.  A committee member is given [owner role](https://github.com/orgs/dapr/people?query=role%3Aowner) in the Dapr org.
 
 The current membership of the STC is:
 
 | &nbsp;                                                         | Member           | Organization | Profile                                              | Term Start | Term End |
 | -------------------------------------------------------------- | ---------------- | ------------ | ---------------------------------------------------- | ---------- | --------
-| <img width="30px" src="https://github.com/yaron2.png"> | Yaron Schneider|   Microsoft     | [@yaron2](https://github.com/yaron2) | Bootstrap  | Nov 30th 2023     |
-| <img width="30px" src="https://github.com/msfussell.png">        | Mark Fussell      | Microsoft       | [@msfussell](https://github.com/msfussell)               | Bootstrap  | Nov 30th 2023     |
-| <img width="30px" src="https://github.com/beiwei30.png">      | Ian Luo  | Alibaba          | [@beiwei30](https://github.com/beiwei30)           | Bootstrap  | Nov 30th 2023     |
-| <img width="30px" src="https://github.com/cvictory.png">         | Victory Cao        | Alibaba  | [@cvictory](https://github.com/cvictory)                 | Bootstrap | Nov 30th 2023     |
-| <img width="30px" src="https://github.com/forrest-zhao.png">         | Forrest Zhao      | Intel       | [@forrest-zhao](https://github.com/forrest-zhao)                 | Bootstrap | Nov 30th 2023     |
+| <img width="30px" src="https://github.com/yaron2.png">         | Yaron Schneider|   Microsoft     | [@yaron2](https://github.com/yaron2) | Bootstrap  | Nov 30th 2023     |
+| <img width="30px" src="https://github.com/msfussell.png">      | Mark Fussell      | Microsoft       | [@msfussell](https://github.com/msfussell)      | Bootstrap  | Nov 30th 2023     |
+| <img width="30px" src="https://github.com/beiwei30.png">       | Ian Luo  | Alibaba          | [@beiwei30](https://github.com/beiwei30)           | Bootstrap  | Nov 30th 2023     |
+| <img width="30px" src="https://github.com/cvictory.png">       | Victory Cao        | Alibaba  | [@cvictory](https://github.com/cvictory)               | Bootstrap | Nov 30th 2023     |
+| <img width="30px" src="https://github.com/forrest-zhao.png">   | Forrest Zhao      | Intel       | [@forrest-zhao](https://github.com/forrest-zhao)                 | Bootstrap | Nov 30th 2023     |
 
 ## Decision process
 
@@ -186,7 +186,7 @@ the person they are replacing, regardless of the length of that remainder.
 
 ## Bootstrap and transition
 
-In order to bootstrap the STC, 5 seats are allocated in September 2021. Two for Microsoft, two for Alibaba and one for Intel committee members as the current active companies to the project. This can expand up to 11 seats maximum over the coming years.
+In order to bootstrap the STC, 5 seats are allocated in September 2021. Two for Microsoft, two for Alibaba and one for Intel committee members as the current active companies to the project. In the bootstrap period, an organization can choose to nominate new committee members if their existing committee members leave the company and the number of committee members remains uneven. This can expand up to 11 seats maximum over the coming years.
 
 The next election will be held in November 2023 for all currently filled seats at that time.  
 
