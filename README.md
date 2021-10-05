@@ -49,7 +49,7 @@ Note: To accomodate different timezones, we schedule community calls in differen
 
 - Tuesday September 21<sup>st</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210921T1000&p1=1244)
 - Tuesday October 5<sup>th</sup> 7:30pm Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211005T1730&p1=1244)
-- Tuesday October 19<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211019T1000&p1=1244)
+- Tuesday October 19<sup>th</sup> - Join us for [DaprCon](https://blog.dapr.io/posts/2021/10/05/join-us-for-daprcon-october-19th-20th-2021/)! (No community call)
 - Tuesday November 2<sup>nd</sup> 7:30pm Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211102T1930&p1=1244)
 - Tuesday November 16<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211116T10&p1=1244)
 
