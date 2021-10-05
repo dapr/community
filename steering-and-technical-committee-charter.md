@@ -62,7 +62,7 @@ Given the private nature of some of these discussions, for example privacy, priv
 emails to the committee, code of conduct violations, escalations, disputes
 between members, security reports, some meetings are held in private. Committee meetings can be made closed by a simple majority vote of the STC members, but closed meetings do not count towards the required meeting frequency. The governance committee will inform the community if a particular meeting is closed, as well as the general reasons for this, prior to the meeting taking place.
 
-Public meetings are recorded and the [recordings](XX) and [meeting notes](XXX) are available publicly. If a member misses more than 50% of all meetings held within a six month period then they will be removed from the committee and a special election will be held. 
+Meetings are recorded with the [recordings made available on Dapr YouTube](https://www.youtube.com/channel/UCtpSQ9BLB_3EXdWAUQYwnRA) and [meeting notes in the community repository](./steering-and-technical-committee-meetings/readme.md) both being publicly available. If a member misses more than 50% of all meetings held within a six month period then they will be removed from the committee and a special election will be held. 
 
 Questions and proposals for changes to governance are posted as [issues in the community repository](https://github.com/Dapr/community/issues), and the STC invites your feedback there. See [Getting in touch](#getting-in-touch) for other options.
 
