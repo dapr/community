@@ -1,9 +1,9 @@
 # Dapr maintainers
 
-This is of maintainers on all Dapr repositories
+This is the list of maintainers for all Dapr repositories:
 
 - Yaron Schneider (Microsoft) [@yaron2](https://github.com/yaron2)
-- Mark Fussell (Microsoft) [@msfussell](https://github.com/msfussell)
+- Mark Fussell (Microsoft) [@msfussell](https://github.com/msfussell) 
 - Long Dai (Intel) [@daixiang0](https://github.com/daixiang0)
 - Sky Xiaojian (Alibaba Cloud) [@skyao](https://github.com/skyao)
 - Xavier Geernick (Roadwork) [@XavierGeerinck](https://github.com/XavierGeerinck)
