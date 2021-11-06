@@ -8,6 +8,7 @@ This page contains a list of organizations who are using Dapr in production or a
 
 | Organization | Status | More Information
 | ------------ | ---------| ---------------|
+| [Residential IoT Services GmbH (Bosch Group)](https://www.home-connect-plus.com/global/en/) |  ![production](https://img.shields.io/badge/-production-blue?style=flat) | [link](https://customers.microsoft.com/en-us/story/1435725395247777374-bosch-builds-smart-homes-using-dapr-azure)|
 | [Zeiss](https://www.zeiss.com/) |  ![production](https://img.shields.io/badge/-production-blue?style=flat) | [link](https://customers.microsoft.com/en-us/story/1336089737047375040-zeiss-accelerates-cloud-first-development-on-azure-and-streamlines-order-processing)|
 | [Ignition Group](https://www.ignitiongroup.co.za/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | [link](https://customers.microsoft.com/en-us/story/1335733425802443016-ignition-group-speeds-development-and-payment-processing-using-dapr-and-azure)|
 | [Roadwork](https://roadwork.io/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |[link](https://blog.dapr.io/posts/2021/02/09/running-dapr-in-production-at-roadwork/)|
