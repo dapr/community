@@ -1,6 +1,6 @@
 # Steering and Technical committee (STC)
 
-Last updated September 2021
+Last updated November 2021
 
 - [Overview](#overview)
 - [Charter](#charter)
@@ -73,7 +73,7 @@ The current membership of the STC is:
 
 | &nbsp;                                                         | Member           | Organization | Profile                                              | Term Start | Term End |
 | -------------------------------------------------------------- | ---------------- | ------------ | ---------------------------------------------------- | ---------- | --------
-| <img width="30px" src="https://github.com/yaron2.png">         | Yaron Schneider|   Microsoft     | [@yaron2](https://github.com/yaron2) | Bootstrap  | Nov 30th 2023     |
+| <img width="30px" src="https://github.com/yaron2.png">         | Yaron Schneider|   Independent     | [@yaron2](https://github.com/yaron2) | Bootstrap  | Nov 30th 2023     |
 | <img width="30px" src="https://github.com/msfussell.png">      | Mark Fussell      | Microsoft       | [@msfussell](https://github.com/msfussell)      | Bootstrap  | Nov 30th 2023     |
 | <img width="30px" src="https://github.com/beiwei30.png">       | Ian Luo  | Alibaba          | [@beiwei30](https://github.com/beiwei30)           | Bootstrap  | Nov 30th 2023     |
 | <img width="30px" src="https://github.com/cvictory.png">       | Victory Cao        | Alibaba  | [@cvictory](https://github.com/cvictory)               | Bootstrap | Nov 30th 2023     |
