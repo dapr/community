@@ -212,14 +212,7 @@ symptom of a larger problem in the community that will need to be addressed.
 
 ## Getting in touch
 
-There are two ways to raise issues to the steering committee for decision:
-
-1. Emailing the steering and technical committee at
-   [steering.technical@dapr.io](mailto:steering.technica@dapr.io).
-   This is a private discussion list to which all members of the committee have
-   access.
-2. Open an issue on any Dapr repository and indicate that you would like
-   attention from the steering and technical committee.
+Open an issue on this community repository and mention any steering member from the [list](#committee-members).
 
 ---
 
