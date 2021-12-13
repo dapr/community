@@ -35,3 +35,4 @@ This page contains a list of organizations who are using Dapr in production or a
 | [UWM (United Wholesale Mortgage)](https://www.uwm.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
 | [Ricent](http://www.ricent.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
 | [Openplay Technologies Pvt. Ltd.](https://www.openplaytech.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
+| [Mondora srl sb](https://mondora.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
