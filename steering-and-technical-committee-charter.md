@@ -67,7 +67,9 @@ Meetings are recorded with the [recordings made available on Dapr YouTube](https
 Questions and proposals for changes to governance are posted as [issues in the community repository](https://github.com/Dapr/community/issues), and the STC invites your feedback there. See [Getting in touch](#getting-in-touch) for other options.
 
 ## Committee members
-To bootstrap the STC 5 individuals were identified to provide the initial process that can bootstrap the remainder of the process.The bootstrap committee will be replaced by an elected Dapr Committee.  A committee member is given [owner role](https://github.com/orgs/dapr/people?query=role%3Aowner) in the Dapr org.
+To bootstrap the STC 5 individuals were identified to provide the initial process that can bootstrap the remainder of the process.The bootstrap committee will be replaced by an elected Dapr Committee.  A committee member is given;
+ - [owner role](https://github.com/orgs/dapr/people?query=role%3Aowner) in the Dapr org.
+ - Admin role on the Dapr Discord server.
 
 The current membership of the STC is:
 
