@@ -13,7 +13,7 @@ This page contains a list of organizations who are using Dapr in production or a
 | [Ignition Group](https://www.ignitiongroup.co.za/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | [link](https://customers.microsoft.com/en-us/story/1335733425802443016-ignition-group-speeds-development-and-payment-processing-using-dapr-and-azure)|
 | [Roadwork](https://roadwork.io/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |[link](https://blog.dapr.io/posts/2021/02/09/running-dapr-in-production-at-roadwork/)|
 | [Alibaba Cloud](https://us.alibabacloud.com/en) | ![production](https://img.shields.io/badge/-production-blue?style=flat)  | [link](https://blog.dapr.io/posts/2021/03/19/how-alibaba-is-using-dapr/)|
-| [Legentic](https://legentic.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat)  |
+| [Legentic](https://legentic.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat)  | [link](https://www.youtube.com/watch?v=Mn0vjMMktGA&list=PLcip_LgkYwzsScB3DsMu1BLdcxys-OaFi&index=7&ab_channel=Dapr)|
 | [Tdcare](http://www.tdcare.cn/) | ![testing](https://img.shields.io/badge/-production-blue?style=flat) |
 | [Tencent](https://www.tencent.com) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
 | [DingTalk](https://www.dingtalk.com) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
@@ -25,7 +25,7 @@ This page contains a list of organizations who are using Dapr in production or a
 | [Dedalow / NTT DATA](https://dedalow.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
 | [Solid Value Software](https://dotnetsilverlightprism.wordpress.com/2021/05/03/discover-dapr-the-dapr-mesh-and-a-net-code-sample/) | ![testing](https://img.shields.io/badge/development%20&%20testing-green?style=flat) |[link](https://dotnetsilverlightprism.wordpress.com/2021/05/03/discover-dapr-the-dapr-mesh-and-a-net-code-sample/) |
 | [RED (XiaoHongShu E-commerce)](https://www.xiaohongshu.com/protocols/about?language=en-US) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
-| [Man Group](https://www.man.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
+| [Man Group](https://www.man.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | [link](https://www.youtube.com/watch?v=hEKlsyRFtzI&list=PLcip_LgkYwzsScB3DsMu1BLdcxys-OaFi&index=4&t=12s&ab_channel=Dapr)|
 | [EKEYNOW Pte. Ltd](https://www.ekeynow.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
 | [StaringWorld](http://www.staringworld.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
 | [Endeavour Group](https://endeavourgroup.com.au/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
