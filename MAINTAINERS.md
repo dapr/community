@@ -6,7 +6,7 @@ This is the list of maintainers for all Dapr repositories:
 - Mark Fussell (Independent) [@msfussell](https://github.com/msfussell) 
 - Long Dai (Intel) [@daixiang0](https://github.com/daixiang0)
 - Sky Xiaojian (Independent) [@skyao](https://github.com/skyao)
-- Xavier Geernick (Roadwork) [@XavierGeerinck](https://github.com/XavierGeerinck)
+- Xavier Geernick (Tinx.AI) [@XavierGeerinck](https://github.com/XavierGeerinck)
 - Rob Landers (Automattic) [@withinboredom](https://github.com/withinboredom)
 - Artur Souza (Microsoft) [@artursouza](https://github.com/artursouza)
 - Ryan Nowak (Microsoft) [@rynowak](https://github.com/rynowak)
@@ -15,7 +15,7 @@ This is the list of maintainers for all Dapr repositories:
 - Aaron Crawfis (Microsoft) [@AaronCrawfis](https://github.com/aaronCrawfis)
 - Ori Zohar (Microsoft) [@orizohar](https://github.com/orizohar)
 - Nick Greenfield (Microsoft) [@greenie-msft](https://github.com/greenie-msft)
-- Abhilash Chandran [@abhilash-chandran](https://github.com/abhilash-chandran)
+- Abhilash Chandran (Bahag AG) [@abhilash-chandran](https://github.com/abhilash-chandran)
 
 
 

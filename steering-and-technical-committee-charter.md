@@ -86,7 +86,7 @@ The current membership of the STC is:
 ## Decision process
 
 The steering and technical committee desires to always reach consensus.
-
+   
 Decisions requiring a vote include: issuing written governance policy, amending existing written governance policy, all spending, official responses to publicly raised issues, or any other decisions that at least half the members present decide require a vote.
 
 Decisions are made in meetings when a quorum of the members are present and may
