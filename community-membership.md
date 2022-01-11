@@ -105,6 +105,7 @@ The following apply to the part of the codebase for which one would be an approv
 - Expected to be responsive to review requests (inactivity for more than 1 month may result in suspension until active again)
 - Mentor contributors and reviewers
 - May approve code contributions for acceptance
+- Inactivity for more than 3 months leads to a removal vote by other maintainers/approvers and not an automatic removal
 
 ## Maintainer
 
@@ -126,6 +127,8 @@ The following apply to the subproject for which one would be an owner:
   - Identifying subtle or complex issues in designs and implementation PRs
 - Directly contributed to the subproject through implementation and / or review
 - Aligning with the overall project goals, specifications and design principles defined by the Technical & Steering Committee. Bringing general questions and requests to the discussions as part of specifications project
+- Must have been active for 3 months or more for the given sub-project
+- Inactivity for more than 3 months leads to a removal vote by other maintainers and not an automatic removal
 
 ### Responsibilities and privileges
 

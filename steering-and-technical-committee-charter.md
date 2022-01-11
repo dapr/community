@@ -75,16 +75,18 @@ The current membership of the STC is:
 
 | &nbsp;                                                         | Member           | Organization | Profile                                              | Term Start | Term End |
 | -------------------------------------------------------------- | ---------------- | ------------ | ---------------------------------------------------- | ---------- | --------
-| <img width="30px" src="https://github.com/yaron2.png">         | Yaron Schneider|   Independent     | [@yaron2](https://github.com/yaron2) | Bootstrap  | Nov 30th 2023     |
-| <img width="30px" src="https://github.com/msfussell.png">      | Mark Fussell      | Independent       | [@msfussell](https://github.com/msfussell)      | Bootstrap  | Nov 30th 2023     |
-| <img width="30px" src="https://github.com/beiwei30.png">       | Ian Luo  | Alibaba          | [@beiwei30](https://github.com/beiwei30)           | Bootstrap  | Nov 30th 2023     |
-| <img width="30px" src="https://github.com/cvictory.png">       | Victory Cao        | Alibaba  | [@cvictory](https://github.com/cvictory)               | Bootstrap | Nov 30th 2023     |
-| <img width="30px" src="https://github.com/forrest-zhao.png">   | Forrest Zhao      | Intel       | [@forrest-zhao](https://github.com/forrest-zhao)                 | Bootstrap | Nov 30th 2023     |
+| <img width="30px" src="https://github.com/yaron2.png">         | Yaron Schneider  | Independent   | [@yaron2](https://github.com/yaron2)                | Bootstrap  | Nov 30th 2023     |
+| <img width="30px" src="https://github.com/msfussell.png">      | Mark Fussell     | Independent   | [@msfussell](https://github.com/msfussell)          | Bootstrap  | Nov 30th 2023     |
+| <img width="30px" src="https://github.com/beiwei30.png">       | Ian Luo          | Alibaba       | [@beiwei30](https://github.com/beiwei30)            | Bootstrap  | Nov 30th 2023     |
+| <img width="30px" src="https://github.com/cvictory.png">       | Victory Cao      | Alibaba       | [@cvictory](https://github.com/cvictory)            | Bootstrap  | Nov 30th 2023     |
+| <img width="30px" src="https://github.com/forrest-zhao.png">   | Forrest Zhao     | Intel         | [@forrest-zhao](https://github.com/forrest-zhao)    | Bootstrap  | Nov 30th 2023     |
+| <img width="30px" src="https://github.com/artursouza.png">     | Artur Souza      | Microsoft     | [@artursouza](https://github.com/artursouza)        | Bootstrap  | Nov 30th 2023     |
+| <img width="30px" src="https://github.com/paulyuk.png">        | Paul Yuknewicz   |  Microsoft    | [@paulyuk](https://github.com/paulyuk)              | Bootstrap  | Nov 30th 2023     |
 
 ## Decision process
 
 The steering and technical committee desires to always reach consensus.
-
+   
 Decisions requiring a vote include: issuing written governance policy, amending existing written governance policy, all spending, official responses to publicly raised issues, or any other decisions that at least half the members present decide require a vote.
 
 Decisions are made in meetings when a quorum of the members are present and may

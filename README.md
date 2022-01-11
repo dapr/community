@@ -47,14 +47,14 @@ Note: To accomodate different timezones, we schedule community calls in differen
 
 **Upcoming meetings**:
 
-- Tuesday November 16<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211116T10&p1=1244)
-- Tuesday November 30<sup>th</sup> 7:30pm Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211130T1930&p1=1244)
-- Tuesday December 14<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211214T10&p1=1244)
 - Tuesday January 11<sup>th</sup> 7:30pm Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220111T1930&p1=1244)
 - Tuesday February 8<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220208T10&p1=1244)
 - Tuesday February 22<sup>th</sup> 7:30pm Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T1930&p1=1244)
 - Tuesday March 8<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T10&p1=1244)
 - Tuesday March 22<sup>th</sup> 7:30pm Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T1930&p1=1244)
+- Tuesday April 5<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T10&p1=1244)
+- Tuesday April 19<sup>th</sup> 7:30pm Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T1930&p1=1244)
+- Tuesday May 3<sup>rd</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T10&p1=1244)
 
 ### Milestone sync meetings
 Every week, we meet to plan and sync on the progress for the milestone's release. This meeting includes maintainers and active contributors and usually lasts for about 30 minutes. If you would like to **actively contribute** towards a milestone, ask a maintainer for the meeting's password.
