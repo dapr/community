@@ -38,7 +38,12 @@ Reach out with any questions you may have and we'll make sure to answer them as 
 
 ### Community meetings
 Every two weeks we host a community meeting to showcase new features, review upcoming milestones, and engage in a Q&A. All are welcome!
-Note: To accomodate different timezones, we schedule community calls in different times of the day, please see below for the time of each call (note you can always catch up offline by watching the recordings) 
+
+The next 3 upcoming community meetings are pinned as issues in this repository and can be used to enter in suggestions for the meeting. If you would like to talk about suggestions first use the Discord Community Call Chat channel to discuss. The meeting agenda is finalized by a community call host.
+
+ Community members (members of the Dapr GitHub org) can nominate themselves via an issue on the dapr/community repository to be a community call host. Members become approved community call hosts when two or more existing community hosts approve their request, similar to how members and approvers get accepted today.
+
+To accomodate different timezones, we schedule community calls at different times zone. See below for the time of each call (note you can always catch up offline by watching the recordings on the Dapr YouTube channel) 
 
 | Asset | Link        |
 |:-----------|:------------|
@@ -47,14 +52,14 @@ Note: To accomodate different timezones, we schedule community calls in differen
 
 **Upcoming meetings**:
 
-- Tuesday January 11<sup>th</sup> 7:30pm Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220111T1930&p1=1244)
-- Tuesday February 8<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220208T10&p1=1244)
-- Tuesday February 22<sup>th</sup> 7:30pm Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T1930&p1=1244)
-- Tuesday March 8<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T10&p1=1244)
-- Tuesday March 22<sup>th</sup> 7:30pm Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T1930&p1=1244)
-- Tuesday April 5<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T10&p1=1244)
-- Tuesday April 19<sup>th</sup> 7:30pm Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T1930&p1=1244)
-- Tuesday May 3<sup>rd</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T10&p1=1244)
+- Tuesday January 25<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220125T10&p1=234)
+- Tuesday February 8<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220208T10&p1=234) - This one is 10:00am since this is Chinese New Year!
+- Tuesday February 22<sup>th</sup> 7:30pm Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T1930&p1=234)
+- Tuesday March 8<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T10&p1=234)
+- Tuesday March 22<sup>th</sup> 7:30pm Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T1930&p1=234)
+- Tuesday April 5<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T10&p1=234)
+- Tuesday April 19<sup>th</sup> 7:30pm Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T1930&p1=234)
+- Tuesday May 3<sup>rd</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T10&p1=234)
 
 ### Milestone sync meetings
 Every week, we meet to plan and sync on the progress for the milestone's release. This meeting includes maintainers and active contributors and usually lasts for about 30 minutes. If you would like to **actively contribute** towards a milestone, ask a maintainer for the meeting's password.
