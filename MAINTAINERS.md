@@ -16,6 +16,7 @@ This is the list of maintainers for all Dapr repositories:
 - Ori Zohar (Microsoft) [@orizohar](https://github.com/orizohar)
 - Nick Greenfield (Microsoft) [@greenie-msft](https://github.com/greenie-msft)
 - Abhilash Chandran (Bahag AG) [@abhilash-chandran](https://github.com/abhilash-chandran)
+- Bernd Verst (Microsoft) [@berndverst](https://github.com/berndverst)
 
 
 
