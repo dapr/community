@@ -66,7 +66,7 @@ Every week, we meet to plan and sync on the progress for the milestone's release
 
 **Zoom Call:** https://us02web.zoom.us/j/81902234964<br>
 **Password:** Ask @maintainers in our Discord server<br>
-**Schedule:** Tuesdays and Thursdays at 9am and 9pm Pacific Time.
+**Schedule:** Tuesdays at 9am and 9pm Pacific Time.
 
 ### Dapr blog
 The [Dapr blog](https://blog.dapr.io/posts) has regular posts on releases, technical articles and upcoming events. If you would like to author a post, reach out to us with a suggestion. 
