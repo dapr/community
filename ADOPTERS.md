@@ -28,7 +28,6 @@ This page contains a list of organizations who are using Dapr in production or a
 | [China Merchants International Technology Co., Ltd](https://www.cmit1872.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
 | [At-Bay](https://www.at-bay.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
 | [FUJITSU CLOUD TECHNOLOGIES LIMITED](https://fjct.fujitsu.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
-| [tdcare](http://www.tdcare.cn/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
 | [Ventus Cloud AG](https://ventuscloud.eu) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
 | [Everforth](https://everforth.co.jp/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
 | [Wortell](https://www.wortell.nl) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
