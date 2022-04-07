@@ -34,6 +34,9 @@ This page contains a list of organizations who are using Dapr in production or a
 | [Nomono](https://nomono.co/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
 | [enChoice](https://www.enchoice.com) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
 | [Microsoft Azure](https://azure.microsoft.com) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
+| [Nexi Group - Relay](https://www.nexigroup.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
+| [Vizzn](http://www.vizzn.ca/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
+| [IBM Research](https://research.ibm.com/science) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
 | [Solid Value Software](https://dotnetsilverlightprism.wordpress.com/2021/05/03/discover-dapr-the-dapr-mesh-and-a-net-code-sample/) | ![testing](https://img.shields.io/badge/development%20&%20testing-green?style=flat) | [link](https://dotnetsilverlightprism.wordpress.com/2021/05/03/discover-dapr-the-dapr-mesh-and-a-net-code-sample/) |
 | [RED (XiaoHongShu E-commerce)](https://www.xiaohongshu.com/protocols/about?language=en-US) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
 | [Man Group](https://www.man.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | [link](https://www.youtube.com/watch?v=hEKlsyRFtzI&list=PLcip_LgkYwzsScB3DsMu1BLdcxys-OaFi&index=4&t=12s&ab_channel=Dapr)|
