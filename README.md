@@ -52,17 +52,21 @@ To accomodate different timezones, we schedule community calls at different time
 
 **Upcoming meetings**:
 
-- Tuesday January 25<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220125T10&p1=234)
-- Tuesday February 8<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220208T10&p1=234) - This one is 10:00am since this is Chinese New Year!
-- Tuesday February 22<sup>th</sup> 7:30pm Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T1930&p1=234)
-- Tuesday March 8<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T10&p1=234)
-- Tuesday March 22<sup>th</sup> 7:30pm Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T1930&p1=234)
-- Tuesday April 5<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T10&p1=234)
-- Tuesday April 19<sup>th</sup> 7:30pm Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T1930&p1=234)
-- Tuesday May 3<sup>rd</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T10&p1=234)
+- Tuesday April 19th<sup>th</sup> 7:30pm Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T1930&p1=234)
+- Tuesday May 3rd<sup>rd</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T10&p1=234)
+- Tuesday May 17th<sup>th</sup> 7:30pm Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T1930&p1=234)
+- Tuesday May 31st<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T10&p1=234)
+- Tuesday June 14th<sup>th</sup> 7:30pm Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T1930&p1=234)
+- Tuesday June 28th<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T10&p1=234)
+- Tuesday July 12th<sup>th</sup> 7:30pm Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T1930&p1=234)
+- Tuesday July 26th<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T10&p1=234)
+- Tuesday Aug 9th<sup>th</sup> 7:30pm Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T1930&p1=234)
+- Tuesday Aug 23rd<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T10&p1=234)
+- Tuesday Sept 6th<sup>th</sup> 7:30pm Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T1930&p1=234)
+- Tuesday Sept 20th<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T10&p1=234)
 
 ### Milestone sync meetings
-Every week, we meet to plan and sync on the progress for the milestone's release. This meeting includes maintainers and active contributors and usually lasts for about 30 minutes. If you would like to **actively contribute** towards a milestone, ask a maintainer for the meeting's password.
+Every week, we meet to plan and sync on the progress for the milestone's release. This meeting includes maintainers and active contributors and usually lasts for about 30-60 minutes. If you would like to **actively contribute** towards a milestone, ask a maintainer for the meeting's password.
 
 **Zoom Call:** https://us02web.zoom.us/j/81902234964<br>
 **Password:** Ask @maintainers in our Discord server<br>
