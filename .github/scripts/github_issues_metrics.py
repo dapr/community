@@ -37,7 +37,7 @@ expected_triage_labels=[
     ('pinned', 'triaged/resolved')
 ]
 
-now=datetime.now()
+now=datetime.now().utcnow()
 
 def is_triaged(label_events):
     for expected_label_set in expected_triage_labels:
@@ -70,6 +70,8 @@ triaged_count = 0
 triaged_under_5_days_count = 0
 expected_total_time_to_triage = timedelta()
 total_time_to_triage = timedelta()
+triaged_bugs = []
+not_triaged_bugs = []
 
 for repo in my_repos:
     # discover milestone project
@@ -88,30 +90,48 @@ for repo in my_repos:
         triaged_time = get_triaged_time(first_label_events)
         time_to_triage = triaged_time - issue.created_at
         expected_total_time_to_triage += time_to_triage
+        age_str = humanize.naturaldelta(now - issue.created_at)
+        bug = {
+                'url': issue.html_url,
+                'age': age_str,
+        }
         if is_triaged(first_label_events):
+            bugs = triaged_bugs
             total_time_to_triage += time_to_triage
             triaged_count += 1
             if time_to_triage.total_seconds() <= FIVE_DAYS.total_seconds():
                 triaged_under_5_days_count += 1
-            print('Issue %s created %s ago and triaged in %s' % (issue.html_url, humanize.naturaldelta(
-                now - issue.created_at), humanize.naturaldelta(time_to_triage)))
+            time_to_triage_str = humanize.naturaldelta(time_to_triage)
+            bug['time_to_triage'] = time_to_triage_str
+            print('Issue %s created %s ago and triaged in %s' % (issue.html_url, age_str, time_to_triage_str))
         else:
+            bugs = not_triaged_bugs
             print('Issue %s created %s ago but still not triaged, assuming %s to triage' % (
-                issue.html_url, humanize.naturaldelta(now - issue.created_at), humanize.naturaldelta(time_to_triage)))
+                issue.html_url, age_str, humanize.naturaldelta(time_to_triage)))
+        bugs.append(bug)
 
 average_days_to_triage = (total_time_to_triage / triaged_count).total_seconds() / ONE_DAY.total_seconds()
 expected_average_days_to_triage = (expected_total_time_to_triage / total_count).total_seconds() / ONE_DAY.total_seconds()
 triaged_under_5_days_ratio = triaged_under_5_days_count / total_count
 
-output = json.dumps({
-    'date': now.strftime('%Y-%m-%d'),
-    'last_30days_total_bugs': total_count,
-    'last_30days_total_bugs_triaged': triaged_count,
-    'last_30days_total_bugs_triaged_within_5_days': triaged_under_5_days_count,
-    'last_30days_percentage_bugs_triaged_within_5_days': triaged_under_5_days_ratio * 100.0,
-    'last_30days_average_days_to_triage': average_days_to_triage,
-    'last_30days_expected_average_days_to_triage': expected_average_days_to_triage,
-})
+output = json.dumps(
+    indent=2,
+    obj=
+    {
+        'utc_date': now.strftime('%Y-%m-%d'),
+        'utc_timestamp': now.isoformat(),
+        'repos': my_repos,
+        'triaged_bugs': triaged_bugs,
+        'not_triaged_bugs': not_triaged_bugs,
+        'metrics': {
+            'last_30days_total_bugs': total_count,
+            'last_30days_total_bugs_triaged': triaged_count,
+            'last_30days_total_bugs_triaged_within_5_days': triaged_under_5_days_count,
+            'last_30days_percentage_bugs_triaged_within_5_days': triaged_under_5_days_ratio * 100.0,
+            'last_30days_average_days_to_triage': average_days_to_triage,
+            'last_30days_expected_average_days_to_triage': expected_average_days_to_triage
+        }
+    })
 
 print("%d issues, %lf %% triaged, %.2lf days on average, %lf %% triaged under 5 days" % (total_count,
       (triaged_count * 100.0) / total_count, expected_average_days_to_triage, triaged_under_5_days_ratio * 100.0))
@@ -119,7 +139,7 @@ print("%d issues, %lf %% triaged, %.2lf days on average, %lf %% triaged under 5 
 print(output)
 with DaprClient() as d:
     d.wait(60)
-    filename = now.strftime('%Y/%m/%d') + '/github_issues_metrics.json'
+    filename ='github_issues_metrics.json'
     resp = d.invoke_binding(
         binding_name='dapr-github-metrics-binding',
         operation='create',

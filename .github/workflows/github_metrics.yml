@@ -18,7 +18,7 @@ on:
   # Manual trigger
   workflow_dispatch:
 jobs:
-  validate:
+  calculate:
     runs-on: ubuntu-latest
     env:
       DAPR_CLI_VER: 1.7.0
@@ -43,6 +43,12 @@ jobs:
           GITHUB_METRICS_PATH: ${{ env.ARCHIVE_OUTDIR }}
         run: |
             dapr run --components-path=./.github/scripts/.components/ python3 ./.github/scripts/github_issues_metrics.py
+      - name: Notify Discord channel
+        env:
+          GITHUB_METRICS_PATH: ${{ env.ARCHIVE_OUTDIR }}
+          DISCORD_POST_URL: ${{ secrets.DISCORD_MONITORING_WEBHOOK_URL }}
+        run: |
+            dapr run --components-path=./.github/scripts/.components/ python3 ./.github/scripts/alert_on_discord.py
       - name: Upload artifacts
         uses: actions/upload-artifact@master
         with:
