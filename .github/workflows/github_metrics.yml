@@ -22,16 +22,14 @@ jobs:
     runs-on: ubuntu-latest
     env:
       DAPR_CLI_VER: 1.7.0
-      DAPR_RUNTIME_VER: 1.7.2
+      DAPR_RUNTIME_VER: 1.7.4
       DAPR_INSTALL_URL: https://raw.githubusercontent.com/dapr/cli/v1.7.0/install/install.sh
+      ARCHIVE_OUTDIR: dist/archives
     steps:
+      - name: Check out code
+        uses: actions/checkout@v2
       - name: Set up Dapr CLI
         run: wget -q ${{ env.DAPR_INSTALL_URL }} -O - | /bin/bash -s ${{ env.DAPR_CLI_VER }}
-      - name: Set up Go ${{ env.GOVER }}
-        if: env.DAPR_REF != '' || env.DAPR_CLI_REF != ''
-        uses: actions/setup-go@v2
-        with:
-          go-version: ${{ env.GOVER }}
       - name: Initialize Dapr runtime ${{ env.DAPR_RUNTIME_VER }}
         run: |
           dapr uninstall --all
@@ -39,10 +37,14 @@ jobs:
       - name: Install utilities dependencies
         run: |
           echo "PATH=$PATH:$HOME/.local/bin" >> $GITHUB_ENV
-          pip3 install dapr PyGitHub
-        working-directory: ./.github/scripts
+          pip3 install dapr humanize PyGitHub
+      - name: Extract metrics
         env:
-          GITHUB_METRICS_STORAGE_ACCOUNT: ${{ secrets.GITHUB_METRICS_STORAGE_ACCOUNT }}
-          GITHUB_METRICS_STORAGE_ACCESS_KEY: ${{ secrets.GITHUB_METRICS_STORAGE_ACCESS_KEY }}
+          GITHUB_METRICS_PATH: ${{ env.ARCHIVE_OUTDIR }}
         run: |
-            dapr run --components-path=.components/ python3 github_metrics.py
+            dapr run --components-path=./.github/scripts/.components/ python3 ./.github/scripts/github_issues_metrics.py
+      - name: Upload artifacts
+        uses: actions/upload-artifact@master
+        with:
+          name: dapr_github_metrics
+          path: ${{ env.ARCHIVE_OUTDIR }}

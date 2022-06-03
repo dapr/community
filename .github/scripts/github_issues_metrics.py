@@ -34,7 +34,6 @@ my_repos=[
 
 expected_triage_labels=[
     ('P0', 'P1', 'P2', 'P3'),
-    ('size/xs', 'size/s', 'size/m', 'size/l', 'size/xl'),
     ('pinned', 'triaged/resolved')
 ]
 
@@ -106,10 +105,10 @@ triaged_under_5_days_ratio = triaged_under_5_days_count / total_count
 
 output = json.dumps({
     'date': now.strftime('%Y-%m-%d'),
-    'last_30days_total_issues': total_count,
-    'last_30days_total_issues_triaged': triaged_count,
-    'last_30days_total_issues_triaged_in_5_days': triaged_under_5_days_count,
-    'last_30days_total_issues_triaged_in_5_days_percentage': triaged_under_5_days_ratio * 100.0,
+    'last_30days_total_bugs': total_count,
+    'last_30days_total_bugs_triaged': triaged_count,
+    'last_30days_total_bugs_triaged_within_5_days': triaged_under_5_days_count,
+    'last_30days_percentage_bugs_triaged_within_5_days': triaged_under_5_days_ratio * 100.0,
     'last_30days_average_days_to_triage': average_days_to_triage,
     'last_30days_expected_average_days_to_triage': expected_average_days_to_triage,
 })
@@ -120,7 +119,7 @@ print("%d issues, %lf %% triaged, %.2lf days on average, %lf %% triaged under 5 
 print(output)
 with DaprClient() as d:
     d.wait(60)
-    filename = now.strftime('%Y/%m/%d') + '/last_30days_bugs_triage_metrics.json'
+    filename = now.strftime('%Y/%m/%d') + '/github_issues_metrics.json'
     resp = d.invoke_binding(
         binding_name='dapr-github-metrics-binding',
         operation='create',

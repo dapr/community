@@ -1,0 +1,15 @@
+apiVersion: dapr.io/v1alpha1
+kind: Component
+metadata:
+  name: dapr-github-metrics-binding
+spec:
+  type: bindings.localstorage
+  version: v1
+  metadata:
+  - name: rootPath
+    secretKeyRef:
+      name: GITHUB_METRICS_PATH
+      key: GITHUB_METRICS_PATH
+
+auth:
+  secretStore: env-secret-store
