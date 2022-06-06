@@ -2,8 +2,8 @@
 
 This is the list of maintainers for all Dapr repositories:
 
-- Yaron Schneider (Independent) [@yaron2](https://github.com/yaron2)
-- Mark Fussell (Independent) [@msfussell](https://github.com/msfussell) 
+- Yaron Schneider (Diagrid) [@yaron2](https://github.com/yaron2)
+- Mark Fussell (Diagrid) [@msfussell](https://github.com/msfussell) 
 - Long Dai (Intel) [@daixiang0](https://github.com/daixiang0)
 - Xavier Geernick (Tinx.AI) [@XavierGeerinck](https://github.com/XavierGeerinck)
 - Rob Landers (Automattic) [@withinboredom](https://github.com/withinboredom)
