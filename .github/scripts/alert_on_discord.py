@@ -49,6 +49,9 @@ with DaprClient() as d:
     alert_time_to_triage_bugs = '<#889972784216805397> %d%% of bugs created in last 30 days are triaged within 5 days.' % (data['metrics']['last_30days_percentage_bugs_triaged_within_5_days'])
     alert(d, alert_time_to_triage_bugs)
 
+    alert_time_to_triage_bugs = '<#889972784216805397> %d%% of previous %d E2E Test runs succeeded.' % (data['metrics']['latest_runs_e2e_test_success_percentage'], data['metrics']['latest_runs_e2e_test_count'])
+    alert(d, alert_time_to_triage_bugs)
+
     alert_bugs_not_triaged_message = '<#889972784216805397> Detected bugs that are not triaged:'
     for bug in data['not_triaged_bugs']:
         alert_bugs_not_triaged_message += '\n%s was created %s ago.' % (bug['url'], bug['age'])

@@ -37,10 +37,11 @@ jobs:
       - name: Install utilities dependencies
         run: |
           echo "PATH=$PATH:$HOME/.local/bin" >> $GITHUB_ENV
-          pip3 install dapr humanize PyGitHub
+          pip3 install dapr humanize PyGitHub requests
       - name: Extract metrics
         env:
           GITHUB_METRICS_PATH: ${{ env.ARCHIVE_OUTDIR }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
             dapr run --components-path=./.github/scripts/.components/ python3 ./.github/scripts/github_issues_metrics.py
       - name: Notify Discord channel

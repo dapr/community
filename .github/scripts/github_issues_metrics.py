@@ -19,6 +19,7 @@ from datetime import datetime, timedelta
 
 import humanize
 import json
+import requests
 
 from dapr.clients import DaprClient
 from github import Github
@@ -58,6 +59,36 @@ def get_triaged_time(label_events):
     if len(timestamps) == 0:
         return now
     return max(timestamps)
+
+def calculate_e2e_tests_success_rate():
+    runsCount = 0
+    successRunsCount = 0
+
+    headers = { 
+        "Accept" : "application/vnd.github.v3.star+json" , 
+        "Authorization" : "token {}".format(githubToken)
+    }
+    # Query last n runs
+    url = 'https://api.github.com/repos/dapr/dapr/actions/workflows/4432/runs?branch=master&event=schedule&status=completed&per_page=100'
+    r = requests.get(url, headers=headers)
+    if r.status_code != 200:
+        print('Error, status HTTP %d' % (r.status_code))
+        return {}
+
+    response = r.json()
+    for run in response["workflow_runs"]:
+        runsCount += 1
+        if run["conclusion"] == 'success':
+            successRunsCount += 1
+
+    if runsCount == 0:
+        return {}
+
+    return {
+        "e2e_test_runs_count" : runsCount,
+        "e2e_test_success_runs_count": successRunsCount,
+        "e2e_test_success_ratio" : (successRunsCount * 1.0) / runsCount
+    }
 
 
 # using an access token
@@ -114,6 +145,8 @@ average_days_to_triage = (total_time_to_triage / triaged_count).total_seconds() 
 expected_average_days_to_triage = (expected_total_time_to_triage / total_count).total_seconds() / ONE_DAY.total_seconds()
 triaged_under_5_days_ratio = triaged_under_5_days_count / total_count
 
+e2e_tests_metrics = calculate_e2e_tests_success_rate()
+
 output = json.dumps(
     indent=2,
     obj=
@@ -129,7 +162,11 @@ output = json.dumps(
             'last_30days_total_bugs_triaged_within_5_days': triaged_under_5_days_count,
             'last_30days_percentage_bugs_triaged_within_5_days': triaged_under_5_days_ratio * 100.0,
             'last_30days_average_days_to_triage': average_days_to_triage,
-            'last_30days_expected_average_days_to_triage': expected_average_days_to_triage
+            'last_30days_expected_average_days_to_triage': expected_average_days_to_triage, 
+            'latest_runs_e2e_test_count': e2e_tests_metrics['e2e_test_runs_count'],
+            'latest_runs_e2e_test_success_count': e2e_tests_metrics['e2e_test_success_runs_count'],
+            'latest_runs_e2e_test_success_ratio': e2e_tests_metrics['e2e_test_success_ratio'],
+            'latest_runs_e2e_test_success_percentage': e2e_tests_metrics['e2e_test_success_ratio'] * 100.0,
         }
     })
 
