@@ -1,0 +1,15 @@
+apiVersion: dapr.io/v1alpha1
+kind: Component
+metadata:
+  name: dapr-discord-binding
+spec:
+  type: bindings.http
+  version: v1
+  metadata:
+  - name: url
+    secretKeyRef:
+      name: DISCORD_POST_URL
+      key: DISCORD_POST_URL
+
+auth:
+  secretStore: env-secret-store
