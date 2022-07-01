@@ -41,17 +41,17 @@ Every two weeks we host a community meeting to showcase new features, review upc
 
 The next 3 upcoming community meetings are pinned as issues in this repository and can be used to enter in suggestions for the meeting. If you would like to talk about suggestions first use the Discord Community Call Chat channel to discuss. The meeting agenda is finalized by a community call host.
 
- Community members (members of the Dapr GitHub org) can nominate themselves via an issue on the dapr/community repository to be a community call host. Members become approved community call hosts when two or more existing community hosts approve their request, similar to how members and approvers get accepted today.
+Community members (members of the Dapr GitHub org) can nominate themselves via an issue on the dapr/community repository to be a community call host. Members become approved community call hosts when two or more existing community hosts approve their request, similar to how members and approvers get accepted today.
 
-To accomodate different timezones, we schedule community calls at different times zone. See below for the time of each call (note you can always catch up offline by watching the recordings on the Dapr YouTube channel) 
+You can always catch up offline by watching the recordings on the [Dapr YouTube channel](http://aka.ms/dapr-recordings)
+
+**Upcoming community calls**
+Use the [upcoming calendar events](https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=YXBwZGV2em9vbUBtaWNyb3NvZnQuY29t&color=%23039BE5) to add the community call to your calendar.
 
 | Asset | Link        |
 |:-----------|:------------|
 | 🔗 Meeting Link & Password | **Zoom Call:** https://us02web.zoom.us/j/85305980190<br>**Password:** eWRhSklVTjJjSnhTaURDcFZaU2ZzQT09
 | 🎥 Meeting Recordings | http://aka.ms/dapr-recordings
-
-**Upcoming meetings**
-Use the [upcoming calendar events](https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=YXBwZGV2em9vbUBtaWNyb3NvZnQuY29t&color=%23039BE5)to add the community call to your calendar.
 
 - Tuesday July 12th<sup>th</sup> 10:00am Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T10&p1=234)
 - Tuesday July 26th<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T10&p1=234)
