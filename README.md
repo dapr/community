@@ -50,9 +50,11 @@ To accomodate different timezones, we schedule community calls at different time
 | 🔗 Meeting Link & Password | **Zoom Call:** https://us02web.zoom.us/j/85305980190<br>**Password:** eWRhSklVTjJjSnhTaURDcFZaU2ZzQT09
 | 🎥 Meeting Recordings | http://aka.ms/dapr-recordings
 
-**Upcoming meetings**:
+**Upcoming meetings**
+Use the upcoming calendar events below to add the community call to your calendar.
 
-- Tuesday June 28th<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T10&p1=234)
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=YXBwZGV2em9vbUBtaWNyb3NvZnQuY29t&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 - Tuesday July 12th<sup>th</sup> 10:00am Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T10&p1=234)
 - Tuesday July 26th<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T10&p1=234)
 - Tuesday Aug 9th<sup>th</sup> 10:00am Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T10&p1=234)
