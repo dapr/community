@@ -46,6 +46,7 @@ Community members (members of the Dapr GitHub org) can nominate themselves via a
 You can always catch up offline by watching the recordings on the [Dapr YouTube channel](http://aka.ms/dapr-recordings)
 
 **Upcoming community calls**
+
 Use the [upcoming calendar events](https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=YXBwZGV2em9vbUBtaWNyb3NvZnQuY29t&color=%23039BE5) to add the community call to your calendar.
 
 | Asset | Link        |
