@@ -1,5 +1,9 @@
 # Dapr Community
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=YXBwZGV2em9vbUBtaWNyb3NvZnQuY29t&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
+
 Welcome to the Dapr community. This is the starting point for becoming a contributor, improving the code and docs, giving presentations and all the goodness of helping out on the project. We are a friendly, collaborative group and look forward to working together.
 
 - [Introduction](#introduction)
@@ -54,6 +58,7 @@ To accomodate different timezones, we schedule community calls at different time
 Use the upcoming calendar events below to add the community call to your calendar.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=YXBwZGV2em9vbUBtaWNyb3NvZnQuY29t&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 
 - Tuesday July 12th<sup>th</sup> 10:00am Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T10&p1=234)
 - Tuesday July 26th<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T10&p1=234)
