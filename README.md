@@ -52,8 +52,8 @@ To accomodate different timezones, we schedule community calls at different time
 
 **Upcoming meetings**:
 
-- Tuesday June 28th<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T10&p1=234)
-- Tuesday July 12th<sup>th</sup> 10:00am Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T10&p1=234)
+Use the upcoming calendar events below or the [public community call calendar](https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=YXBwZGV2em9vbUBtaWNyb3NvZnQuY29t&color=%23039BE5) to add the community call events to your calendar.
+
 - Tuesday July 26th<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T10&p1=234)
 - Tuesday Aug 9th<sup>th</sup> 10:00am Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T10&p1=234)
 - Tuesday Aug 23rd<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T10&p1=234)
