@@ -62,8 +62,16 @@ Use the upcoming calendar events below or the [public community call calendar](h
 - Tuesday Oct 4th<sup>th</sup> 10:00am Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T10&p1=234)
 - Tuesday Oct 18th<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T10&p1=234)
 
+#### China Community Meetings
+
+Every two weeks we also host a Dapr China Community Meeting in Chinese! For more detail, please go to the website of China Dapr Community website: 
+
+https://cn.dapr.io/meeting/
+
+每两周我们也将举行一次 Dapr 中国社区会议，会议语言为中文，欢迎参加。请点击上面的链接进入 Dapr 中国社区网站获取会议的详细信息。
 
 ### Milestone sync meetings
+
 Every week, we meet to plan and sync on the progress for the milestone's release. This meeting includes maintainers and active contributors and usually lasts for about 30-60 minutes. If you would like to **actively contribute** towards a milestone, ask a maintainer for the meeting's password.
 
 **Zoom Call:** https://us02web.zoom.us/j/81902234964<br>
@@ -72,6 +80,14 @@ Every week, we meet to plan and sync on the progress for the milestone's release
 
 ### Dapr blog
 The [Dapr blog](https://blog.dapr.io/posts) has regular posts on releases, technical articles and upcoming events. If you would like to author a post, reach out to us with a suggestion. 
+
+### Dapr China Community
+
+For better communication between Dapr users and developers in China, we set up a Dapr China Community. For more information, please go to this website:
+
+https://cn.dapr.io/
+
+为了让中国区的 Dapr 用户和开发者更好的相互交流，我们组建了 Dapr 中国社区。更多详情，请点击上述链接进入 Dapr 中国社区网站。
 
 ## How can I get involved?
 
