@@ -15,5 +15,6 @@ This is the list of maintainers for all Dapr repositories, in alphabetical order
 - Paul Yuknewicz (Microsoft) [@paulyuk](https://github.com/paulyuk)
 - Rob Landers (Automattic) [@withinboredom](https://github.com/withinboredom)
 - Ryan Nowak (Microsoft) [@rynowak](https://github.com/rynowak)
+- Shubham Sharma (Microsoft) [@shubham1172](https://github.com/shubham1172)
 - Xavier Geernick (Tinx.AI & M18X) [@XavierGeerinck](https://github.com/XavierGeerinck)
 - Yaron Schneider (Diagrid) [@yaron2](https://github.com/yaron2)
