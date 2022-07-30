@@ -53,15 +53,14 @@ To accomodate different timezones, we schedule community calls at different time
 
 **Upcoming meetings**:
 
-Use the upcoming calendar events below or the [public community call calendar](https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=YXBwZGV2em9vbUBtaWNyb3NvZnQuY29t&color=%23039BE5) to add the community call events to your calendar.
+Use the upcoming calendar events below to add the community call events to your calendar.
 
-- Tuesday July 26th<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T10&p1=234)
-- Tuesday Aug 9th<sup>th</sup> 10:00am Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T10&p1=234)
-- Tuesday Aug 23rd<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T10&p1=234)
-- Tuesday Sept 6th<sup>th</sup> 10:00am Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T10&p1=234)
-- Tuesday Sept 20th<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T10&p1=234)
-- Tuesday Oct 4th<sup>th</sup> 10:00am Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T10&p1=234)
-- Tuesday Oct 18th<sup>th</sup> 10:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T10&p1=234)
+- Wednesday Aug 10<sup>th</sup> 9:00am Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T09&p1=234&msg=Dapr+Community+Call)
+- Wednesday Aug 24<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T09&p1=234&msg=Dapr+Community+Call)
+- Wednesday Sept 7<sup>th</sup> 9:00am Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T09&p1=234&msg=Dapr+Community+Call)
+- Wednesday Sept 21<sup>st</sup> 9:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T09&p1=234&msg=Dapr+Community+Call)
+- Wednesday Oct 5<sup>th</sup> 9:00am Pacific Time (PST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T09&p1=234&msg=Dapr+Community+Call)
+- Wednesday Oct 19<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T09&p1=234&msg=Dapr+Community+Call)
 
 #### China Community Meetings
 
