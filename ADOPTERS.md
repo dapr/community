@@ -37,6 +37,11 @@ This page contains a list of organizations who are using Dapr in production or a
 | [Nexi Group - Relay](https://www.nexigroup.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
 | [Vizzn](http://www.vizzn.ca/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
 | [DeFacto](https://corporate.defacto.com.tr/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
+| [QingCloud Technologies](https://kubesphere.io/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
+| [Proximus](https://proximus.com) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
+| [KalmarEnergi](https://kalmarenergi.se) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
+| [Camelot SI LLC, Sharper Image Licensee of SharperImage.com](https://sharperimage.com) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
+| [POWERWIN](https://www.powershopy.com) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
 | [IBM Research](https://research.ibm.com/science) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
 | [Solid Value Software](https://dotnetsilverlightprism.wordpress.com/2021/05/03/discover-dapr-the-dapr-mesh-and-a-net-code-sample/) | ![testing](https://img.shields.io/badge/development%20&%20testing-green?style=flat) | [link](https://dotnetsilverlightprism.wordpress.com/2021/05/03/discover-dapr-the-dapr-mesh-and-a-net-code-sample/) |
 | [RED (XiaoHongShu E-commerce)](https://www.xiaohongshu.com/protocols/about?language=en-US) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
@@ -54,3 +59,5 @@ This page contains a list of organizations who are using Dapr in production or a
 | [Mondora srl sb](https://mondora.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
 | [MASA Stack](https://github.com/masastack) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
 | [3-shake Inc.](https://3-shake.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
+| [UISEE](https://www.uisee.com/en/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
+| [Mottu](https://mottu.com.br/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) |
