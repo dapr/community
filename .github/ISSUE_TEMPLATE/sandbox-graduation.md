@@ -22,5 +22,5 @@ assignees: ''
 5. Which automated tests are implemented in the project (unit tests, end-to-end tests, performance tests, stress tests, etc). Please, provide a link to most recent test runs.
 >
 
-6. Please, provide link to samples, documentation and milestone planning.
+6. Provide usage scenarios samples, documentation and future milestone plans.
 >
