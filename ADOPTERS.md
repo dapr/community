@@ -22,7 +22,7 @@ This page contains a list of organizations who are using Dapr in production or a
 | [Border States Electric](https://borderstates.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
 | [Swoop Funding](https://www.swoopfunding.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
 | [Tinx.ai](https://tinx.ai/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
-| [Dedalow / NTT DATA](https://dedalow.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
+| [Dedalow / NTT DATA](https://dedalow.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | [link](https://blog.dapr.io/posts/2022/04/05/how-dapr-helped-dedalow-accelerate-development-on-aws-and-azure/)
 | [Lonsid](https://www.lonsid.cn/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
 | [Hoshino Resorts](https://www.hoshinoresorts.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
 | [China Merchants International Technology Co., Ltd](https://www.cmit1872.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
