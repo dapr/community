@@ -17,12 +17,12 @@ This page contains a list of organizations who are using Dapr in production or a
 | [Tdcare](http://www.tdcare.cn/) | ![testing](https://img.shields.io/badge/-production-blue?style=flat) |
 | [Tencent](https://www.tencent.com) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
 | [DingTalk](https://www.dingtalk.com) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
-| [AutoNavi](https://mobile.amap.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
+| [AutoNavi](https://mobile.amap.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | [link](https://blog.dapr.io/posts/2021/09/02/how-dapr-helped-autonavi-build-a-new-serverless-solution/)
 | [China Re Catastrophe Risk Management Company Ltd.](https://www.chinarecrm.com.cn/zhzjz/622292/index.html/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
 | [Border States Electric](https://borderstates.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
 | [Swoop Funding](https://www.swoopfunding.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
 | [Tinx.ai](https://tinx.ai/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
-| [Dedalow / NTT DATA](https://dedalow.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
+| [Dedalow / NTT DATA](https://dedalow.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | [link](https://blog.dapr.io/posts/2022/04/05/how-dapr-helped-dedalow-accelerate-development-on-aws-and-azure/)
 | [Lonsid](https://www.lonsid.cn/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
 | [Hoshino Resorts](https://www.hoshinoresorts.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
 | [China Merchants International Technology Co., Ltd](https://www.cmit1872.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) |
