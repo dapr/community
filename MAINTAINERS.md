@@ -4,6 +4,7 @@ This is the list of maintainers for all Dapr repositories, in alphabetical order
 
 - Aaron Crawfis (Microsoft) [@AaronCrawfis](https://github.com/aaronCrawfis)
 - Abhilash Chandran (Bahag AG) [@abhilash-chandran](https://github.com/abhilash-chandran)
+- Amulya Varote (Microsoft) [@amulyavarote](https://github.com/amulyavarote)
 - Artur Souza (Microsoft) [@artursouza](https://github.com/artursouza)
 - Bernd Verst (Microsoft) [@berndverst](https://github.com/berndverst)
 - Charlie Stanley (Robinhood) [@wcs1only](https://github.com/wcs1only)
