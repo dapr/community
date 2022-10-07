@@ -44,12 +44,40 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
             dapr run --components-path=./.github/scripts/.components/ python3 ./.github/scripts/github_issues_metrics.py
+      - name: Export metrics as env var
+        env:
+          GITHUB_METRICS_PATH: ${{ env.ARCHIVE_OUTDIR }}
+        run: |
+            dapr run --components-path=./.github/scripts/.components/ python3 ./.github/scripts/export_metrics_as_env.py
+      - name: See Dapr env variables
+        run: env | grep DAPR
       - name: Notify Discord channel
         env:
           GITHUB_METRICS_PATH: ${{ env.ARCHIVE_OUTDIR }}
           DISCORD_POST_URL: ${{ secrets.DISCORD_MONITORING_WEBHOOK_URL }}
         run: |
             dapr run --components-path=./.github/scripts/.components/ python3 ./.github/scripts/alert_on_discord.py
+      - name: Prepare GitHub badge content for dapr/dapr repo's E2E pass rate
+        run: |
+            echo "DAPR_E2E_BADGE_MESSAGE=${{ env.DAPR_LATEST_RUNS_E2E_TEST_SUCCESS_PERCENTAGE }}% pass rate" >> $GITHUB_ENV
+            DAPR_E2E_BADGE_COLOR=green
+            if [ ${{ env.DAPR_LATEST_RUNS_E2E_TEST_SUCCESS_PERCENTAGE }} -lt 80 ]; then
+              DAPR_E2E_BADGE_COLOR=yellow
+            fi
+            if [ ${{ env.DAPR_LATEST_RUNS_E2E_TEST_SUCCESS_PERCENTAGE }} -lt 50 ]; then
+              DAPR_E2E_BADGE_COLOR=red
+            fi
+            echo "DAPR_E2E_BADGE_COLOR=$DAPR_E2E_BADGE_COLOR" >> $GITHUB_ENV
+      - name: Updates dapr/dapr E2E pass rate badge
+        # Fork of schneegans/dynamic-badges-action
+        uses: artursouza/dynamic-badges-action@v1.4.0
+        with:
+          auth: ${{ secrets.DAPR_BOT_TOKEN }}
+          gistID: 14e974e8fd6c6eab03a2475beb1d547a
+          filename: dapr-test-badge.json
+          label: dapr-test
+          message: ${{ env.DAPR_E2E_BADGE_MESSAGE }}
+          color: ${{ env.DAPR_E2E_BADGE_COLOR }}
       - name: Upload artifacts
         uses: actions/upload-artifact@master
         with:

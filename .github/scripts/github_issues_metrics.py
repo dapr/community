@@ -160,13 +160,13 @@ output = json.dumps(
             'last_30days_total_bugs': total_count,
             'last_30days_total_bugs_triaged': triaged_count,
             'last_30days_total_bugs_triaged_within_5_days': triaged_under_5_days_count,
-            'last_30days_percentage_bugs_triaged_within_5_days': triaged_under_5_days_ratio * 100.0,
+            'last_30days_percentage_bugs_triaged_within_5_days': round(triaged_under_5_days_ratio * 100.0),
             'last_30days_average_days_to_triage': average_days_to_triage,
             'last_30days_expected_average_days_to_triage': expected_average_days_to_triage, 
             'latest_runs_e2e_test_count': e2e_tests_metrics['e2e_test_runs_count'],
             'latest_runs_e2e_test_success_count': e2e_tests_metrics['e2e_test_success_runs_count'],
             'latest_runs_e2e_test_success_ratio': e2e_tests_metrics['e2e_test_success_ratio'],
-            'latest_runs_e2e_test_success_percentage': e2e_tests_metrics['e2e_test_success_ratio'] * 100.0,
+            'latest_runs_e2e_test_success_percentage': round(e2e_tests_metrics['e2e_test_success_ratio'] * 100.0),
         }
     })
 
