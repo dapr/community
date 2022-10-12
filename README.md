@@ -38,11 +38,11 @@ Reach out with any questions you may have and we'll make sure to answer them as 
 | 🐤 Twitter | [@daprdev](https://twitter.com/daprdev)
 
 ### Community meetings
-Every two weeks we host a community meeting to showcase new features, review upcoming milestones, and engage in a Q&A. All are welcome!
+Every two weeks we host a community meeting to showcase new features, review upcoming milestones, and engage in a Q&A. For community calls, anyone from the Dapr community can participate, present a topic, or host. All are welcome! To present a specific topic on the next Dapr community call start by filling out this short form, [Dapr community call presenter sign-up form](https://forms.gle/Aa9L8iK32J4MBkxj7).  
 
-The next 3 upcoming community meetings are pinned as issues in this repository and can be used to enter in suggestions for the meeting. If you would like to talk about suggestions first use the Discord Community Call Chat channel to discuss. The meeting agenda is finalized by a community call host.
+The next 3 upcoming community meetings are pinned as issues in this repository and can be used to enter in suggestions for the meeting. To speak about a dapr-related topic on a community call just your topic to the agenda issue marked for the date you would like to present on. Alternatively, you're also welcomed to use the the Discord Community Call Chat channel to talk about future agenda topics. The meeting agenda for each call is finalized by the community call host.
 
- Community members (members of the Dapr GitHub org) can nominate themselves via an issue on the dapr/community repository to be a community call host. Members become approved community call hosts when two or more existing community hosts approve their request, similar to how members and approvers get accepted today.
+Community members (members of the Dapr GitHub org) can nominate themselves via an issue on the dapr/community repository to be a community call host. Members become approved community call hosts when two or more existing community hosts approve their request, similar to how members and approvers get accepted today.
 
 To accomodate different timezones, we schedule community calls at different times zone. See below for the time of each call (note you can always catch up offline by watching the recordings on the Dapr YouTube channel) 
 
