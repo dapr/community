@@ -2,7 +2,7 @@
 The Dapr project aims to release four updates in a yearly time period, typically one in each quarter (every 3 months). For example in 2022 the minor releases were Jan (1.6.0), April (1.7.0), July (1.8.0), Oct (1.9.0) and the same is expected for 2023.
 
 
-<img src="Images/release-cycle-diagram.png?raw=true">
+<img src="images/release-cycle-diagram.png?raw=true">
 
 
 This cadence provides a balance between regular feature releases and bug fixes, giving end users time to adopt a release and providing contributors clarity on releases they can contribute towards. By having a regular “train” of releases end users and contributors can plan ahead. 
@@ -18,7 +18,7 @@ Each release goes through three phases in a 13 week (3 month) period.
 -	Stabilization and release (~ 2 weeks)
 
 
-<img src="Images/feature-definition-diagram.png?raw=true">
+<img src="images/feature-definition-diagram.png?raw=true">
 
 
 Most significant features take at least 2 releases to become included in a release, and through the preview feature process often more. Therefore as a release comes to a close, it is not unusual to move a complex feature to the next milestone to give it time to complete the requirements of the feature lifecycle.
