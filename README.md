@@ -15,6 +15,7 @@ Other Documents
 - [Community membership](community-membership.md) - describes the various responsibilities of contributor roles in the Dapr community
 - [Developer Guide](https://github.com/dapr/dapr/tree/master/docs/development) - describes how to get involved with Dapr development
 - [DaprCon 2022 details](DaprCon/2022/proposal-submission-form.md) - describes how to participate in DaprCon this year as a speaker 
+- [Dapr release process](release-process.md) - describes the Dapr release process and cadence
 
 ## Introduction
 The Distributed Application Runtime, Dapr, is a portable, serverless, event-driven runtime that makes it easy for developers to build resilient, stateless and stateful microservices that run on the cloud and edge and embraces the diversity of languages and developer frameworks.
