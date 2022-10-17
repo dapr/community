@@ -23,8 +23,6 @@ Each release goes through three phases in a 13 week (3 month) period.
 
 Most significant features take at least 2 releases to become included in a release, and through the preview feature process often more. Therefore as a release comes to a close, it is not unusual to move a complex feature to the next milestone to give it time to complete the requirements of the feature lifecycle.
 
-[FYI - Read about the K8s release cycle [here](https://kubernetes.io/releases/release/#the-release-cycle)]
-
 ## Release team
 At the start of a milestone a release team is chosen. The release team has the responsibility of enforcing processes to ensure the release is successfully delivered. The release team consists of the following roles:
 
@@ -32,7 +30,7 @@ At the start of a milestone a release team is chosen. The release team has the r
 -	**Release lead shadow(s).** This role is identical to the lead and is interchangeable. The only difference is that the lead can delegate activities to the shadow to share distribution of work. There needs to be at least one shadow for a release, preferably two.
 -	**Release performance test lead.** This role is responsible for overseeing the continuous monitoring of the performance tests, ensuring new tests are added when needed and reporting on them weekly.
 -	**Release long-haul test lead.** This role is responsible for overseeing the continuous monitoring of the end-to-end tests, ensuring new tests are added for new features in this release and reporting on them weekly.
--	**Build manager).** This role applies in the stabilization phase and is responsible for creating the RC releases, the final build/testing and release branches.
+-	**Build manager.** This role applies in the stabilization phase and is responsible for creating the RC releases, the final build/testing and release branches.
   
 On assignment, the release team lead and shadow(s) are included into the Github release team group. They are responsible for;
 - [ ] Creating and updating the milestone tracking issue (For example https://github.com/dapr/dapr/issues/4898) with the proposed delivery dates.
@@ -41,7 +39,8 @@ On assignment, the release team lead and shadow(s) are included into the Github 
 - [ ] Communicating status to the community on an on-going basis.
 
 
-[FYI - Read about the K8s release team selection [here](https://github.com/kubernetes/sig-release/blob/master/release-team/release-team-selection.md#selection-criteria)]
+[
+- Read about the K8s release team selection [here](https://github.com/kubernetes/sig-release/blob/master/release-team/release-team-selection.md#selection-criteria)]
 
 ## Feature definition phase (~2 weeks)
 With ongoing feature definition, some set of issues will bubble up as targeting a given release. In this phase, a set of feature proposals and significant design changes to existing features are reviewed where contributors are able to dedicate time to completing the issue or starting an issue for a future release. 
@@ -52,8 +51,6 @@ For a feature to be considered for implementation it must have a feature proposa
 - [ ] A linked open issue for the current milestone
 
 Maintainers are responsible for triaging issues into the milestone in this phase.
-
-[FYI - Read about the K8s feature selection [here](https://kubernetes.io/releases/release/#adding-an-item-to-the-milestone)]
 
 ### Communication & meetings
 During this phase there is a community meeting each week to discuss feature proposals and issues that different users would like to see in this release. This is to enable discussions on issues raised on Discord especially on priorities and scenarios. It is not intended for deep design discussion, which should be held separately and updated into the proposal.
