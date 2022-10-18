@@ -53,7 +53,7 @@ Every two weeks we host a community meeting to showcase new features, review upc
 
 The next 3 upcoming community meetings are pinned as issues in this repository and can be used to enter in suggestions for the meeting. To speak about a dapr-related topic on a community call just your topic to the agenda issue marked for the date you would like to present on. Alternatively, you're also welcomed to use the the Discord Community Call Chat channel to talk about future agenda topics. The meeting agenda for each call is finalized by the community call host.
 
-Community members (members of the Dapr GitHub org) can nominate themselves via an issue on the dapr/community repository to be a community call host. Members become approved community call hosts when two or more existing community hosts approve their request, similar to how members and approvers get accepted today.
+Community members (members of the Dapr GitHub org) can nominate themselves via an issue on the dapr/community repository to be a community call host. Members become approved community call hosts when two or more existing community hosts approve their request, similar to how members and approvers get accepted today. Read more about hosting Dapr community calls here, [hosting community calls](running-dapr/community-calls/Hosting-community-meetings.md). 
 
 To accomodate different timezones, we schedule community calls at different times zone. See below for the time of each call (note you can always catch up offline by watching the recordings on the Dapr YouTube channel) 
 
