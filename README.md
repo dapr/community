@@ -38,6 +38,15 @@ Reach out with any questions you may have and we'll make sure to answer them as 
 | 💬 Discord (preferred) | [![Discord widget](https://discord.com/api/guilds/778680217417809931/widget.png?style=banner2)](https://aka.ms/dapr-discord)<br />https://aka.ms/dapr-discord
 | 🐤 Twitter | [@daprdev](https://twitter.com/daprdev)
 
+### Release planning meetings
+Every Tuesday at 9 a.m. PST, one-hour release meetings are held by the release leads. The leads will send reminders on the Discord announcements channel. Use the following link to join the release calls:
+
+| Asset | Link        |
+|:-----------|:------------|
+| 🔗 Meeting Link & Password | **Zoom Call:** https://us02web.zoom.us/j/85305980190<br>**Password:** eWRhSklVTjJjSnhTaURDcFZaU2ZzQT09
+
+Visit [here](https://github.com/dapr/community/blob/master/release-process.md) to learn more about the Dapr release process.
+
 ### Community meetings
 Every two weeks we host a community meeting to showcase new features, review upcoming milestones, and engage in a Q&A. For community calls, anyone from the Dapr community can participate, present a topic, or host. All are welcome! To present a specific topic on the next Dapr community call start by filling out this short form, [Dapr community call presenter sign-up form](https://forms.gle/Aa9L8iK32J4MBkxj7).  
 
