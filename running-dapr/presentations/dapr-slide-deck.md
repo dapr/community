@@ -18,7 +18,6 @@ Find the link to the slide deck, open the slide in google drive and copy the pre
 - API overview
 - Hosting environments 
 - Closing slides
-- Advanced topics (service mesh)
 - Case Studies
 
 ### How to request updates this file:
