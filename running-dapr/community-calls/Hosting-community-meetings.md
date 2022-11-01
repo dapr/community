@@ -16,7 +16,7 @@ First stage of running a community meeting is to finalize an agenda. For each co
 After the agenda is finalized, circulate the slide deck template to all speakers in the agenda. Have each speaker follow the template for their slides.
 
 #### Agenda confirmation checklist
-- [ ] **Create a ommunity call agenda issue.** If not created already, create a _Community Call Agenda_ issue in the [Dapr Community Repository](https://github.com/dapr/community). Date the issue to match when you'll be hosting.
+- [ ] **Create a community call agenda issue.** in the [Dapr Community Repository](https://github.com/dapr/community). Date the issue to match when you'll be hosting.
 - [ ] **Collaborate with community for agenda topics.** For agenda ideas, try: (1) checking for interesting dapr issues in popular repositories (proposals, discussions, PRs etc.), (2) present on a dapr-related topic and invite collaborators involved to speak, (3) ask existing hosts for speaker ideas, (4) request speaker topics on [Discord Community Call Chat channel](https://discord.com/invite/ptHhX6jc34), (5) ask existing host to check the [Dapr community call presenter sign-up form](https://forms.gle/Aa9L8iK32J4MBkxj7).
 - [ ] **Fit speakers to community call (45-50 minutes).** Make sure agenda accomidates each speaker's presentation timing and allot additional time for questions. If there isn't time for all speakers, either schedule overflow speakers for the next community call or shorten speaking times for each speaker.
 - [ ] **Confirm and finalize agenda.** As host, confirm final agenda for community call. Get sign-off on the agenda from either past community hosts or the community maintainers (@dapr/maintainers-community)
