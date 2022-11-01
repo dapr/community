@@ -16,7 +16,7 @@ Find the link to the slide deck, open the slide in google drive and copy the pre
 - Opening slides
 - Dapr overview
 - API overview
-- Hosting envoirnments 
+- Hosting environments 
 - Closing slides
 - Advanced topics (service mesh)
 - Case Studies
