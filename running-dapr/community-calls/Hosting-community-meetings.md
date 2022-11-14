@@ -35,6 +35,6 @@ On the day of the community meeting call, join using the link found on the main 
 #### Day-of hosting checklist
 - [ ] **Join community meeting link.** Join the community call 15 minutes early to confirm final details. Existing host or community maintainers should have already started the official Dapr Zoom account for you to join the meeting. Existing host list and information can be found here, [existing community call hosts](existing-hosts.md). 
 - [ ] **Confirm that slide deck is ready.** Check the slide deck for the community call to make sure it matches the agenda discussed on the _Community Call Agenda_ issue. Also check that each presenter followed the template.
-- [ ] **Record the call.** Ask existing host to start recording the zoom call. 
+- [ ] **Record the call.** Ask existing host to start recording the call. 
 - [ ] **Begin the community call.** Introduce yourself to the community (i.e., name, community role), review the agenss for the call and then hand off to speakers. 
 
