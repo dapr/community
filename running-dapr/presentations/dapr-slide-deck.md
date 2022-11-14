@@ -6,7 +6,7 @@ The Dapr project provides a slide deck that can be used for presentations on Dap
 2. Provide a core set of slides to use when presenting Dapr
 3. Act as a branding guideline and resource for Dapr 
 
-**NOTE:** You should customize this deck to your needs depending on the audience. 
+You should customize this deck to your needs depending on the audience. 
 
 ### Using the slide deck
 Find the link to the slide deck, open the slide in google drive and copy the presentation. Afte this you're free to decide which slides to to share for your presentation and which not to.  
