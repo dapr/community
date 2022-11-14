@@ -27,7 +27,7 @@ After the agenda is finalized, circulate the slide deck template to all speakers
 - [ ] **Create community call slide deck (from template).** Find the slide deck template here, [community call slide deck template](community-call-slide-deck-template.md). Add the community call agenda from the issue into the _Agenda_ slide within the template. Then add slides for each topic - one intro slide for each speaker's agenda topic, one slide for the speakers content. Make sure each presenter completed their slide before community call. 
 - [ ] Share slide deck with existing hosts. Make sure to share the slide deck link is shared with existing community hosts in the discord community call chat channel
 - [ ] Share community call links with presenters. Make sure all presenters have the link for the call, understand when the community meeting begins and to join the community meeting early. 
-- [ ] **Confirm zoom call details with existing hosts.** Confirm that an existing host is avilable to start and own the official Dapr Zoom account during the community meeting. 
+- [ ] **Confirm call details with existing hosts.** Confirm that an existing host is available to start and own the Dapr Zoom account during the community meeting. 
 
 ### Hosting community call (day-of)
 On the day of the community meeting zoom call, join using the link found on the main community page, [community meeting zoom links](https://github.com/dapr/community#community-meetings). Make sure all speakers are able to join, and that the slide deck is ready to go.
