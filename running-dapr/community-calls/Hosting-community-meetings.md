@@ -30,7 +30,7 @@ After the agenda is finalized, circulate the slide deck template to all speakers
 - [ ] **Confirm call details with existing hosts.** Confirm that an existing host is available to start and own the Dapr Zoom account during the community meeting. 
 
 ### Hosting community call (day-of)
-On the day of the community meeting zoom call, join using the link found on the main community page, [community meeting zoom links](https://github.com/dapr/community#community-meetings). Make sure all speakers are able to join, and that the slide deck is ready to go.
+On the day of the community meeting call, join using the link found on the main community page, [community meeting zoom links](https://github.com/dapr/community#community-meetings). Make sure all speakers are able to join, and that the slide deck is ready to go.
 
 #### Day-of hosting checklist
 - [ ] **Join community meeting zoom link.** Join the community call 15 minutes early to confirm final details (i.e., 8:45 PT). Existing host or community maintainers should have already started the official Dapr zoom account for you to join the meeting. If Zoom call hasn't been started, ping an existing host. Existing host list and information can be found here, [existng community call hosts](existing-hosts.md). 
