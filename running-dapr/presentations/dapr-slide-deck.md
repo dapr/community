@@ -2,9 +2,9 @@
 The Dapr project provides a slide deck that can be used for presentations on Dapr. The full presentation slide deck can be found here, [Dapr Presentation Slide Deck](https://docs.google.com/presentation/d/1U8PY2j0ew10n1yXKxF9lTLTRJ6OLSscn/edit?usp=sharing&ouid=115924791314872397226&rtpof=true&sd=true).
 
 #### This presentation serves three purposes:
-1. Act as a branding guideline and resource for Dapr
+1. Provide additional slides for deep-dive presentations
 2. Provide a core set of slides to use when presenting Dapr
-3. Provide additional slides for deep-dive presentations. 
+3. Act as a branding guideline and resource for Dapr 
 
 **NOTE:** You should customize this deck to your needs depending on the audience. 
 
