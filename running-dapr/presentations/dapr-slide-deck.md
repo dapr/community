@@ -23,6 +23,4 @@ Find the link to the slide deck, open the slide in google drive and copy the pre
 ### How to request updates this file:
 Create an issue and submit a PR in https://github.com/dapr/community with details on what you’d like to add/update
 
-### Contribute your presentation to the community
-The Dapr community is always interested in how others are using Dapr. Contribute your presentation back to the community by doing your presentation for the Dapr community on one the bi-weekly [Community Calls](https://github.com/dapr/community). 
 
