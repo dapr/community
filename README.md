@@ -88,6 +88,10 @@ Every week, we meet to plan and sync on the progress for the milestone's release
 **Password:** Ask @maintainers in our Discord server<br>
 **Schedule:** Tuesdays at 9am and 9pm Pacific Time.
 
+#### JavaScript SDK Milestone Sync 
+
+Every week, the JavaScript maintainers meet to plan and sync on the progress for the SDK's milestone release. These meetings are open to the entire Dapr community. More information about the weekly JavaScript sync can be found here: [Community engagement - dapr/js-sdk Wiki](https://github.com/dapr/js-sdk/wiki/Community-engagement)
+
 ### Dapr blog
 The [Dapr blog](https://blog.dapr.io/posts) has regular posts on releases, technical articles and upcoming events. If you would like to author a post, reach out to us with a suggestion. 
 
