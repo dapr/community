@@ -43,7 +43,7 @@ Every Tuesday at 9 a.m. PST, one-hour release meetings are held by the release l
 
 | Asset | Link        |
 |:-----------|:------------|
-| 🔗 Meeting Link & Password | **Zoom Call:** https://us02web.zoom.us/j/85305980190<br>**Password:** eWRhSklVTjJjSnhTaURDcFZaU2ZzQT09
+| 🔗 Meeting Link & Password | **Zoom Call:** https://zoom.us/j/92337656846?pwd=R0dHRE9NRXlLalpXRXNhblBsOG1LUT09<br>**Password:** 815623
 
 Visit [here](https://github.com/dapr/community/blob/master/release-process.md) to learn more about the Dapr release process.
 
