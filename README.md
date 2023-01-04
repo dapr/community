@@ -58,7 +58,7 @@ To accomodate different timezones, we schedule community calls at different time
 
 | Asset | Link        |
 |:-----------|:------------|
-| 🔗 Meeting Link & Password | **Zoom Call:** https://us02web.zoom.us/j/85305980190<br>**Password:** eWRhSklVTjJjSnhTaURDcFZaU2ZzQT09
+| 🔗 Meeting Link & Password | **Zoom Call:** https://zoom.us/j/92337656846?pwd=R0dHRE9NRXlLalpXRXNhblBsOG1LUT09<br>**Password:** 815623
 | 🎥 Meeting Recordings | http://aka.ms/dapr-recordings
 
 **Upcoming meetings**:
@@ -84,7 +84,7 @@ https://cn.dapr.io/meeting/
 
 Every week, we meet to plan and sync on the progress for the milestone's release. This meeting includes maintainers and active contributors and usually lasts for about 30-60 minutes. If you would like to **actively contribute** towards a milestone, ask a maintainer for the meeting's password.
 
-**Zoom Call:** https://us02web.zoom.us/j/81902234964<br>
+**Zoom Call:** https://zoom.us/j/91940016938?pwd=bGNRVmlPK094a0tQZWRlTTJIZUl6UT09<br>
 **Password:** Ask @maintainers in our Discord server<br>
 **Schedule:** Tuesdays at 9am and 9pm Pacific Time.
 
