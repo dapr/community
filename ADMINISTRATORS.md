@@ -25,7 +25,7 @@ An administrator might perform the following duties without requiring approval f
 
 0. As a pre-requisite, an administrator candidate **must first become a maintainer** of at least one repository in [Dapr](https://github.com/dapr). Being a maintainer in [dapr-sandbox](https://github.com/dapr-sandbox) does not qualify.
 
-1. Then, the candidate can self-nominate via a [new issue in the Community repository](https://github.com/dapr/community/issues/new), stating which repositories candidate currently maintains.
+1. Then self-nominate via a [new issue in the community repository](https://github.com/dapr/community/issues/new) stating which repositories you currently maintain and the reasons why you want to be an administrator.
 
 2. In addition, candidate should add a link to the new issue asking it to be voted in the next STC meeting. Agenda for STC meetings are discussed in [issues in the Community repository](https://github.com/dapr/community/issues). Alternatively, candidate can request one STC member to seek approval via e-mail instead of waiting for the next STC meeting.
 
