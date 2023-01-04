@@ -19,7 +19,7 @@ An administrator might perform the following duties without requiring approval f
 
 * Add or remove approvers, maintainers or administrators
 * Create, graduate or archive projects in [dapr-sandbox](https://github.com/dapr-sandbox)
-* Sign up to a new (free or paid) service or cloud provider
+* Sign up to a new (free or paid) service, cloud provider or a service results in creating new credentials
 
 ## Process to become an administrator
 
