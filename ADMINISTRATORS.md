@@ -47,7 +47,7 @@ The administrator role is permanently removed in case any of the following:
 
 ## Suspension
 
-In order to de-risk potential misuse of power or suspicion of leaked credentials, at any moment, any STC member can temporarily suspend administrator role from any individual - revoking all prioviledge access - for any reason, without requiring an STC meeting. Reinstating administrator role requires the same process as becoming one in the first place.
+In order to de-risk potential misuse of power or suspicion of leaked credentials, at any moment, any STC member can temporarily suspend administrator role from any individual - revoking all privilege  access - for any reason, without requiring an STC meeting. Reinstating administrator role requires the same process as becoming one in the first place.
 
 ## Current Administrators
 
