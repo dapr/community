@@ -33,7 +33,7 @@ The governance of Dapr is an open, living document, and continues to evolve as t
 1. Define, evolve, and promote the vision, values, and mission of the Dapr project.
 1. Set the overall technical direction and roadmap of the Dapr project.
 1. Define and evolve project governance structures and policies, including
-   project roles and how collaborators become members, approvers and maintainers and the responsibilities of the release team.
+   project roles and how collaborators become members, approvers, maintainers and admistrators and the responsibilities of the release team.
 1. Steward, control access, delegate access, and establish processes regarding
    all Dapr project resources and has the final say in the disposition of
    those resources.
