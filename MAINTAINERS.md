@@ -2,12 +2,10 @@
 
 This is the list of maintainers for all Dapr repositories, in alphabetical order:
 
-- Aaron Crawfis (Microsoft) [@AaronCrawfis](https://github.com/aaronCrawfis)
-- Abhilash Chandran (Bahag AG) [@abhilash-chandran](https://github.com/abhilash-chandran)
 - Amulya Varote (Microsoft) [@amulyavarote](https://github.com/amulyavarote)
 - Artur Souza (Microsoft) [@artursouza](https://github.com/artursouza)
 - Bernd Verst (Microsoft) [@berndverst](https://github.com/berndverst)
-- Charlie Stanley (Robinhood) [@wcs1only](https://github.com/wcs1only)
+- Hannah Hunter (Microsoft) [@hhunter-ms](https://github.com/hhunter-ms)
 - Hal Spang (Microsoft) [@halspang](https://github.com/halspang)
 - Long Dai (Intel) [@daixiang0](https://github.com/daixiang0)
 - Mark Fussell (Diagrid) [@msfussell](https://github.com/msfussell)
@@ -17,5 +15,5 @@ This is the list of maintainers for all Dapr repositories, in alphabetical order
 - Rob Landers (Automattic) [@withinboredom](https://github.com/withinboredom)
 - Ryan Nowak (Microsoft) [@rynowak](https://github.com/rynowak)
 - Shubham Sharma (Microsoft) [@shubham1172](https://github.com/shubham1172)
-- Xavier Geernick (Tinx.AI & M18X) [@XavierGeerinck](https://github.com/XavierGeerinck)
+- Xavier Geernick (Proximus) [@XavierGeerinck](https://github.com/XavierGeerinck)
 - Yaron Schneider (Diagrid) [@yaron2](https://github.com/yaron2)
