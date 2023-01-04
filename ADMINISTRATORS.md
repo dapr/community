@@ -4,6 +4,12 @@
 
 Administrators have access to credentials equivalent to members of the steering and technical commitee (STC) and are responsible to perform pre-approved routine maintenance duties and ad-hoc tasks delegated by the STC without making isolated decisions. This document outlines a list of pre-approved duties and some that require STC approval - when in doubt, the administrator should seek guidance from one STC member.
 
+## Granted access
+
+Administrators have the following access:
+* Owner of Dapr organization in GitHub
+* Access to STC and Maintaners vaults in Dapr's 1Password
+
 ### Pre-approved duties
 
 An administrator might perform the following duties without requiring approval from any STC member:
@@ -29,7 +35,7 @@ An administrator might perform the following duties without requiring approval f
 
 2. Add a link to the new issue in the next STC meeting agenda, asking it to be voted on. The agenda for STC meetings can be found in [issues in the Community repository](https://github.com/dapr/community/issues). Alternatively, candidate can request one STC member to seek approval via e-mail instead of waiting for the next STC meeting and have this recorded in the issue. 
 
-3. Finally, a maintainer will become an administrator after STC approves the request with a 3/5 majority.
+3. Administrators are approved with an STC voting simple majority.
 
 ## Limits and Expiration
 
@@ -42,7 +48,7 @@ To minimize the number of people with access to shared credentials, there can on
 The administrator role is permanently removed in case any of the following:
 * Expiration of the 6 months term as administrator
 * Administrator is no longer a maintainer in Dapr
-* STC votes with 3/5 majority to remove administrator
+* STC votes with simple majority to remove administrator
 * Administrator joins as an STC member
 
 ## Suspension
