@@ -38,15 +38,6 @@ Reach out with any questions you may have and we'll make sure to answer them as 
 | 💬 Discord (preferred) | [![Discord widget](https://discord.com/api/guilds/778680217417809931/widget.png?style=banner2)](https://aka.ms/dapr-discord)<br />https://aka.ms/dapr-discord
 | 🐤 Twitter | [@daprdev](https://twitter.com/daprdev)
 
-### Release planning meetings
-Every Tuesday at 9 a.m. PST, one-hour release meetings are held by the release leads. The leads will send reminders on the Discord announcements channel. Use the following link to join the release calls:
-
-| Asset | Link        |
-|:-----------|:------------|
-| 🔗 Meeting Link & Password | **Zoom Call:** https://zoom.us/j/93426437624?pwd=OTlyVW8rcXpHNXNRR3RKS0h6ajFLdz09<br>**Password:** 188332
-
-Visit [here](https://github.com/dapr/community/blob/master/release-process.md) to learn more about the Dapr release process.
-
 ### Community meetings
 Every two weeks we host a community meeting to showcase new features, review upcoming milestones, and engage in a Q&A. For community calls, anyone from the Dapr community can participate, present a topic, or host. All are welcome! To present a specific topic on the next Dapr community call start by filling out this short form, [Dapr community call presenter sign-up form](https://forms.gle/Aa9L8iK32J4MBkxj7).  
 
@@ -58,14 +49,13 @@ To accomodate different timezones, we schedule community calls at different time
 
 | Asset | Link        |
 |:-----------|:------------|
-| 🔗 Meeting Link & Password | **Zoom Call:** https://zoom.us/j/92337656846?pwd=R0dHRE9NRXlLalpXRXNhblBsOG1LUT09<br>**Password:** 815623
+| 🔗 Meeting Link & Password | **Zoom Call:** https://zoom.us/j/92337656846<br>**Passcode:** 815623
 | 🎥 Meeting Recordings | http://aka.ms/dapr-recordings
 
 **Upcoming meetings**:
 
 Use the upcoming calendar events below to add the community call events to your calendar.
 
-- Wednesday Dec 14<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T09&p1=234&msg=Dapr+Community+Call)
 - Wednesday Jan 11<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T09&p1=234&msg=Dapr+Community+Call)
 - Wednesday Jan 25<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T09&p1=234&msg=Dapr+Community+Call)
 - Wednesday Feb 8<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T09&p1=234&msg=Dapr+Community+Call)
@@ -84,9 +74,11 @@ https://cn.dapr.io/meeting/
 
 Every week, we meet to plan and sync on the progress for the milestone's release. This meeting includes maintainers and active contributors and usually lasts for about 30-60 minutes. If you would like to **actively contribute** towards a milestone, ask a maintainer for the meeting's password.
 
-**Zoom Call:**https://zoom.us/j/91940016938?pwd=bGNRVmlPK094a0tQZWRlTTJIZUl6UT09<br>
-**Password:** Ask @maintainers in our Discord server<br>
+**Zoom Call:**https://zoom.us/j/93426437624<br>
+**Passcode:** Ask @maintainers in our Discord server<br>
 **Schedule:** Tuesdays at 9am and 9pm Pacific Time.
+
+Visit [here](https://github.com/dapr/community/blob/master/release-process.md) to learn more about the Dapr release process.
 
 #### JavaScript SDK Milestone Sync 
 
