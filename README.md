@@ -72,10 +72,10 @@ https://cn.dapr.io/meeting/
 
 ### Milestone sync meetings
 
-Every week, we meet to plan and sync on the progress for the milestone's release. This meeting includes maintainers and active contributors and usually lasts for about 30-60 minutes. If you would like to **actively contribute** towards a milestone, ask a maintainer for the meeting's password.
+Every week, we meet to plan and sync on the progress for the milestone's release. This meeting includes maintainers and active contributors and usually lasts for about 30-60 minutes. If you would like to **actively contribute** towards a milestone, you are welcome to join that meeting too.
 
-**Zoom Call:** https://zoom.us/j/93426437624<br>
-**Passcode:** 152697<br>
+**Zoom Call:** https://zoom.us/j/92337656846<br>
+**Passcode:** 815623<br>
 **Schedule:** Tuesdays at 9am and 9pm Pacific Time.
 
 Visit [here](https://github.com/dapr/community/blob/master/release-process.md) to learn more about the Dapr release process.
