@@ -56,11 +56,11 @@ To accomodate different timezones, we schedule community calls at different time
 
 Use the upcoming calendar events below to add the community call events to your calendar.
 
-- Wednesday Jan 11<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T09&p1=234&msg=Dapr+Community+Call)
-- Wednesday Jan 25<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T09&p1=234&msg=Dapr+Community+Call)
-- Wednesday Feb 8<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T09&p1=234&msg=Dapr+Community+Call)
-- Wednesday Feb 22<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T09&p1=234&msg=Dapr+Community+Call)
-- Wednesday March 8<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T09&p1=234&msg=Dapr+Community+Call)
+- Wednesday Jan 25<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T09&p1=234&msg=Dapr+Community+Call)
+- Wednesday Feb 8<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T09&p1=234&msg=Dapr+Community+Call)
+- Wednesday Feb 22<sup>nd</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T09&p1=234&msg=Dapr+Community+Call)
+- Wednesday March 8<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T09&p1=234&msg=Dapr+Community+Call)
+- Wednesday March 22<sup>nd</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T09&p1=234&msg=Dapr+Community+Call)
 
 #### China Community Meetings
 
@@ -74,8 +74,9 @@ https://cn.dapr.io/meeting/
 
 Every week, we meet to plan and sync on the progress for the milestone's release. This meeting includes maintainers and active contributors and usually lasts for about 30-60 minutes. If you would like to **actively contribute** towards a milestone, you are welcome to join that meeting too.
 
-**Zoom Call:** https://zoom.us/j/92337656846<br>
-**Passcode:** 815623<br>
+**Zoom Call:** https://zoom.us/j/91940016938<br>
+**Meeting ID:** 919 4001 6938<br>
+**Passcode:** 152697<br>
 **Schedule:** Tuesdays at 9am and 9pm Pacific Time.
 
 Visit [here](https://github.com/dapr/community/blob/master/release-process.md) to learn more about the Dapr release process.
