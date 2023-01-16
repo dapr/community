@@ -50,7 +50,7 @@ To accomodate different timezones, we schedule community calls at different time
 <!--
 !!!REMINDER!!!
 
-DO NOT ADD PASSWORD TO THE MEETING URL TO AVOID ZOOM-BOMBING (yes, we had that before).
+Do not add passcode to the Zoom URL. 
 -->
 | Asset | Link        |
 |:-----------|:------------|
