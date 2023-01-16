@@ -89,7 +89,7 @@ Every week, we meet to plan and sync on the progress for the milestone's release
 <!--
 We are using a different link from Community Call because the Community Call requires the host to admit each person. In the weekly syncs, we "never" login with the host account.
 -->
-**Zoom Call:** https://zoom.us/j/91940016938<br> <!-- DO NOT ADD PASSWORD TO THE MEETING URL TO AVOID ZOOM-BOMBING (yes, we had that before). -->
+**Zoom Call:** https://zoom.us/j/91940016938<br> <!-- Do not add password to the Zoom URL. -->
 **Meeting ID:** 919 4001 6938<br>
 **Passcode:** 152697<br> <!-- If we get Zoom-bombing, generate a new one and only share on request, not here>
 **Schedule:** Tuesdays at 9am and 9pm Pacific Time.
