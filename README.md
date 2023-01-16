@@ -91,7 +91,7 @@ We are using a different link from Community Call because the Community Call req
 -->
 **Zoom Call:** https://zoom.us/j/91940016938<br> <!-- Do not add password to the Zoom URL. -->
 **Meeting ID:** 919 4001 6938<br>
-**Passcode:** 152697<br> <!-- If we get Zoom-bombing, generate a new one and only share on request, not here>
+**Passcode:** 152697<br> 
 **Schedule:** Tuesdays at 9am and 9pm Pacific Time.
 
 Visit [here](https://github.com/dapr/community/blob/master/release-process.md) to learn more about the Dapr release process.
