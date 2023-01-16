@@ -5,7 +5,7 @@ Welcome to the Dapr community. This is the starting point for becoming a contrib
 - [Introduction](#introduction)
 - [Dapr authors](#dapr-authors)
 - [Community engagements](#community-meetings)
-- [How can I get involved?](#how-can-i-get-involved?)
+- [How can I get involved?](#how-can-i-get-involved)
 - [Questions and issues](#questions-and-issues)
 
 Other Documents
