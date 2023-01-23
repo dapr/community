@@ -100,6 +100,15 @@ Visit [here](https://github.com/dapr/community/blob/master/release-process.md) t
 
 Every week, the JavaScript maintainers meet to plan and sync on the progress for the SDK's milestone release. These meetings are open to the entire Dapr community. More information about the weekly JavaScript sync can be found here: [Community engagement - dapr/js-sdk Wiki](https://github.com/dapr/js-sdk/wiki/Community-engagement)
 
+#### Maintainers Only Sync Meeting
+
+Every Monday at 9 am US/Pacific maintainers meet privately to discuss project priorities and concerns. New maintainers will receive access to the **Maintainers** channel in our Discord server where the meeting passcode will be shared.
+
+**Zoom Call:** https://zoom.us/j/91911083168<br> <!-- Do not add password to the Zoom URL. -->
+**Meeting ID:** 919 1108 3168<br>
+**Passcode:** *Shared in **Maintainers** Discord channel<br> 
+**Schedule:** Mondays at 9am US/Pacific Time.
+
 ### Dapr blog
 The [Dapr blog](https://blog.dapr.io/posts) has regular posts on releases, technical articles and upcoming events. If you would like to author a post, reach out to us with a suggestion. 
 
