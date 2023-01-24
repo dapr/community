@@ -57,8 +57,10 @@ In order to de-risk potential misuse of power or suspicion of leaked credentials
 
 ## Current Administrators
 
-| Name | Handle | Company | Status | Timezone | Term Start | Term End |
-| - | - | -  | - | - | - | -
+| Name | GitHub Handle | Discord Handle | Company | Status | Timezone | Term Start | Term End |
+| - | - | -  | - | - | - | - | -
+| Artur Souza | [@artursouza](https://github.com/artursouza) | artursouza#5141 | Diagrid | Active | PST | Jan 16th, 2023 | Jun 15th, 2023
+
 
 ### Statuses
    * Active: has full access and can perform administrator duties.
