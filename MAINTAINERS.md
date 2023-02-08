@@ -3,7 +3,7 @@
 This is the list of maintainers for all Dapr repositories, in alphabetical order:
 
 - Amulya Varote (Microsoft) [@amulyavarote](https://github.com/amulyavarote)
-- Artur Souza (Microsoft) [@artursouza](https://github.com/artursouza)
+- Artur Souza (Diagrid) [@artursouza](https://github.com/artursouza)
 - Bernd Verst (Microsoft) [@berndverst](https://github.com/berndverst)
 - Hannah Hunter (Microsoft) [@hhunter-ms](https://github.com/hhunter-ms)
 - Hal Spang (Microsoft) [@halspang](https://github.com/halspang)
