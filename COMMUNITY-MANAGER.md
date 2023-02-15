@@ -12,20 +12,16 @@ A Community Manager can perform the following duties:
 * Review and publish Dapr blog posts submitted by the community.
 * Plan, manage and host Dapr community calls.
 * Can propose and submit changes to the Dapr website for STC approval.
-* Manage analytics tools including Google Analytics, CommonRoom.io and Scarf.
+* Manage analytics tools including Google Analytics, CommonRoom.io and Scarf.sh.
 
 ### Duties that require STC approval
 
 * Update the Dapr website
 * Add new analytics tools
 
-## Process to become an Community Managers
+## Process to become a Community Manager
 
-1. Self-nominate via a [new issue in the community repository](https://github.com/dapr/community/issues/new) stating why you want to be an Community Manager. Recommended to have approvals from at least 2 maintainers or approvers in the nomination.
-
-2. Add a link to the above issue in the next STC meeting agenda, asking it to be voted on. The agenda for STC meetings can be found in [issues in the Community repository](https://github.com/dapr/community/issues). Alternatively, candidate can request one STC member to seek approval via e-mail instead of waiting for the next STC meeting and have this recorded in the issue. 
-
-3. Community Managers are approved with an STC voting simple majority.
+Self-nominate via a [new issue in the community repository](https://github.com/dapr/community/issues/new) stating why you want to be an Community Manager, or alternatively contact an STC member. A community manager needs approval from 3 or more STC members. 
 
 ## Limits and Expiration
 
@@ -43,7 +39,6 @@ The Community Manager role is permanently removed in case any of the following:
 | - | - | -  | - | - | - | - | -
 | Marc Duiker | [@marcduiker](https://github.com/marcduiker) | MarcDuiker#2929 | Diagrid | Active | PST | Feb 15th, 2023 | Feb 15th, 2024
 | Nyemade Uversky  | [@nyemade-uversky](https://github.com/nyemade-uversky) | nuversky#2099 | Microsoft | Active | PST | Feb 15th, 2023 | Feb 15th, 2024
-
 
 ### Statuses
    * Active: Currently an active Community Manager.
