@@ -80,7 +80,7 @@ The current membership of the STC is:
 | <img width="30px" src="https://github.com/jaczhao.png">        | Qingjie Zhao     | Alibaba       | [@jackzhao](https://github.com/jaczhao)             | Bootstrap  | Nov 30th 2023     |
 | <img width="30px" src="https://github.com/cvictory.png">       | Victory Cao      | Alibaba       | [@cvictory](https://github.com/cvictory)            | Bootstrap  | Nov 30th 2023     |
 | <img width="30px" src="https://github.com/forrest-zhao.png">   | Forrest Zhao     | Intel         | [@forrest-zhao](https://github.com/forrest-zhao)    | Bootstrap  | Nov 30th 2023     |
-| <img width="30px" src="https://github.com/artursouza.png">     | Artur Souza      | Microsoft     | [@artursouza](https://github.com/artursouza)        | Bootstrap  | Nov 30th 2023     |
+| <img width="30px" src="https://github.com/johnewart.png">      | John Ewart       | Microsoft     | [@johnewart](https://github.com/johnewart)          | Bootstrap  | Nov 30th 2023     |
 | <img width="30px" src="https://github.com/paulyuk.png">        | Paul Yuknewicz   |  Microsoft    | [@paulyuk](https://github.com/paulyuk)              | Bootstrap  | Nov 30th 2023     |
 
 ## Decision process
