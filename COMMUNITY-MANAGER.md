@@ -33,7 +33,7 @@ The community manager role expires 12 months from the date it was approved. Reap
 The community manager role is removed in case of the following:
 * Expiration of the 12 months term.
 * STC votes with simple majority to remove Community Manager.
-* An organization manager can ask to have the person removed from the role. 
+* The community manager can ask to have themselves removed from the role. 
 
 ## Current Community Managers
 The following community managers have been approved by the STC:
