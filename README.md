@@ -70,7 +70,6 @@ When adding new scheduled meetings to this list:
 -->
 - Wednesday Jan 25<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T09&p1=234&msg=Dapr+Community+Call)
 - Wednesday Feb 8<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T09&p1=234&msg=Dapr+Community+Call)
-- Wednesday Feb 22<sup>nd</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T09&p1=234&msg=Dapr+Community+Call)
 - Wednesday March 8<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T09&p1=234&msg=Dapr+Community+Call)
 - Wednesday March 22<sup>nd</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T09&p1=234&msg=Dapr+Community+Call)
 
