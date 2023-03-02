@@ -2,6 +2,7 @@
 
 This is the list of maintainers for all Dapr repositories, in alphabetical order:
 
+- Alessandro Segala (Microsoft) [@ItalyPaleAle](https://github.com/ItalyPaleAle)
 - Amulya Varote (Microsoft) [@amulyavarote](https://github.com/amulyavarote)
 - Artur Souza (Diagrid) [@artursouza](https://github.com/artursouza)
 - Bernd Verst (Microsoft) [@berndverst](https://github.com/berndverst)
