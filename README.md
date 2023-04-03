@@ -4,18 +4,14 @@ Welcome to the Dapr community. This is the starting point for becoming a contrib
 
 - [Introduction](#introduction)
 - [Dapr authors](#dapr-authors)
-- [Community engagements](#community-meetings)
-- [How can I get involved?](#how-can-i-get-involved)
 - [Questions and issues](#questions-and-issues)
-
-Other Documents
-
-- [Contributing to Dapr](https://docs.dapr.io/contributing/) - guidelines and advice on becoming a contributor
-- [Steering and Technical Committee (STC)](steering-and-technical-committee-charter.md) - describes the steering and technical committee governing body for Dapr and its charter.
-- [Community membership](community-membership.md) - describes the various responsibilities of contributor roles in the Dapr community
-- [Developer Guide](https://github.com/dapr/dapr/tree/master/docs/development) - describes how to get involved with Dapr development
-- [DaprCon 2022 details](DaprCon/2022/proposal-submission-form.md) - describes how to participate in DaprCon this year as a speaker 
-- [Dapr release process](release-process.md) - describes the Dapr release process and cadence
+- [Communication and Discord](#communication-and-discord)
+- [Community meetings](#community-meetings)
+- [Upcoming dates](#upcoming-dates)
+- [Dapr Blog](#dapr-blog)
+- [Roles](#roles)
+- [How can I get involved?](#how-can-i-get-involved)
+- [Other documents](#other-documents)
 
 ## Introduction
 The Distributed Application Runtime, Dapr, is a portable, serverless, event-driven runtime that makes it easy for developers to build resilient, stateless and stateful microservices that run on the cloud and edge and embraces the diversity of languages and developer frameworks.
@@ -25,10 +21,10 @@ Dapr codifies the best practices for building microservice applications into ope
 Visit [dapr.io](https://dapr.io) for information about Dapr.
 
 ## Dapr authors
-Dapr is an open source project with an active development community. The project was started at Microsoft.
+Dapr is an open source project with an active development community.
 
-## Communication
-We want your contributions and suggestions! One of the easiest ways to contribute is to participate in discussions, chat on IM or join the bi-weekly community calls.
+## Communication and Discord
+We would greatly appreciate your contributions and suggestions! One of the easiest ways to contribute is to participate in Discord discussions, chat on Discord IM or join the bi-monthly community calls.
 
 ### Questions and issues
 Reach out with any questions you may have and we'll make sure to answer them as soon as possible and as a community member feel free to jump in and answer questions.
@@ -39,17 +35,19 @@ Reach out with any questions you may have and we'll make sure to answer them as 
 | 🐤 Twitter | [@daprdev](https://twitter.com/daprdev)
 
 ### Community meetings
-Every two weeks we host a community meeting to showcase new features, review upcoming milestones, and engage in a Q&A. For community calls, anyone from the Dapr community can participate, present a topic, or host. All are welcome! To present a specific topic on the next Dapr community call start by filling out this short form, [Dapr community call presenter sign-up form](https://forms.gle/Aa9L8iK32J4MBkxj7).  
+Every two weeks we host a community meeting to showcase new features, review upcoming milestones, and engage in a Q&A. For community calls, anyone from the Dapr community can participate, present a topic, or host. All are welcome! 
 
-The next 3 upcoming community meetings are pinned as issues in this repository and can be used to enter in suggestions for the meeting. To speak about a dapr-related topic on a community call just your topic to the agenda issue marked for the date you would like to present on. Alternatively, you're also welcomed to use the the Discord Community Call Chat channel to talk about future agenda topics. The meeting agenda for each call is finalized by the community call host.
+<!--To present a specific topic on the next Dapr community call start by filling out this short form, [Dapr community call presenter sign-up form](https://forms.gle/Aa9L8iK32J4MBkxj7).  
+-->
+
+Issues in the community repo are used to suggest topics for a Dapr community. The next three upcoming community meetings are pinned as issues in this repository and can be used to enter in suggestions for the meeting. To speak about a Dapr related topic on a community call just enter your topic to the agenda issue marked for the date you would like to present on. Alternatively, you're also welcomed to use the the Discord Community Call Chat channel to talk about future agenda topics. The meeting agenda for each call is finalized by the community call host.
 
 Community members (members of the Dapr GitHub org) can nominate themselves via an issue on the dapr/community repository to be a community call host. Members become approved community call hosts when two or more existing community hosts approve their request, similar to how members and approvers get accepted today.
 
-To accomodate different timezones, we schedule community calls at different times zone. See below for the time of each call (note you can always catch up offline by watching the recordings on the Dapr YouTube channel) 
+You can always catch up offline by watching the recordings on the Dapr YouTube channel.
 
 <!--
 !!!REMINDER!!!
-
 Do not add passcode to the Zoom URL. 
 -->
 | Asset | Link        |
@@ -57,7 +55,7 @@ Do not add passcode to the Zoom URL.
 | 🔗 Meeting Link & Password | **Zoom Call:** https://zoom.us/j/92337656846<br>**Passcode:** 815623 
 | 🎥 Meeting Recordings | http://aka.ms/dapr-recordings
 
-**Upcoming meetings**:
+**Upcoming dates**:
 
 Use the upcoming calendar events below to add the community call events to your calendar.
 
@@ -68,10 +66,12 @@ When adding new scheduled meetings to this list:
 * make sure to update the URL for each entry too. The `iso` param should be updated following the `YYYYMMDD` format.
 * make sure the suffix is correct for the numeral: `st`, `nd`, `th` so it reads right like `22nd` and not `22th`
 -->
-- Wednesday Jan 25<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T09&p1=234&msg=Dapr+Community+Call)
-- Wednesday Feb 8<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T09&p1=234&msg=Dapr+Community+Call)
-- Wednesday March 8<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T09&p1=234&msg=Dapr+Community+Call)
-- Wednesday March 22<sup>nd</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T09&p1=234&msg=Dapr+Community+Call)
+- Wednesday April 5th<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T09&p1=234&msg=Dapr+Community+Call)
+- Wednesday May 3rd<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T09&p1=234&msg=Dapr+Community+Call)
+- Wednesday May 17th<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T09&p1=234&msg=Dapr+Community+Call)
+- Wednesday May 31st<sup>nd</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T09&p1=234&msg=Dapr+Community+Call)
+- Wednesday June 14th<sup>nd</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T09&p1=234&msg=Dapr+Community+Call)
+- Wednesday June 28th<sup>nd</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T09&p1=234&msg=Dapr+Community+Call)
 
 #### China Community Meetings
 
@@ -81,7 +81,7 @@ https://cn.dapr.io/meeting/
 
 每两周我们也将举行一次 Dapr 中国社区会议，会议语言为中文，欢迎参加。请点击上面的链接进入 Dapr 中国社区网站获取会议的详细信息。
 
-### Milestone sync meetings
+### Milestone and design discussion meetings
 
 Every week, we meet to plan and sync on the progress for the milestone's release. This meeting includes maintainers and active contributors and usually lasts for about 30-60 minutes. If you would like to **actively contribute** towards a milestone, you are welcome to join that meeting too.
 
@@ -108,8 +108,6 @@ Every Monday at 9 am US/Pacific maintainers meet privately to discuss project pr
 
 Every week, the JavaScript maintainers meet to plan and sync on the progress for the SDK's milestone release. These meetings are open to the entire Dapr community. More information about the weekly JavaScript sync can be found here: [Community engagement - dapr/js-sdk Wiki](https://github.com/dapr/js-sdk/wiki/Community-engagement)
 
-### Dapr blog
-The [Dapr blog](https://blog.dapr.io/posts) has regular posts on releases, technical articles and upcoming events. If you would like to author a post, reach out to us with a suggestion. 
 
 ### Dapr China Community
 
@@ -119,9 +117,33 @@ https://cn.dapr.io/
 
 为了让中国区的 Dapr 用户和开发者更好的相互交流，我们组建了 Dapr 中国社区。更多详情，请点击上述链接进入 Dapr 中国社区网站。
 
+## Dapr blog
+The [Dapr blog](https://blog.dapr.io/posts) has regular posts on releases, technical articles and upcoming events. If you would like to author a post, reach out to us with a suggestion. 
+
+## Roles
+
+There are a several different roles that are available in the community.
+
+### Community membership
+There are various contributor roles in the Dapr community that you are strongly encouraged to be part of. Read [Community membership](community-membership.md)
+for more information.
+
+### Release team
+At the start of a milestone a release team is chosen. The release team has the responsibility of enforcing processes to ensure the release is successfully delivered.  Read about the [Release process](https://github.com/dapr/community/blob/master/release-process.md#release-team)
+for more information.
+
+### Steering committee member
+The Dapr project has a single governance body called the Steering and Technical Committee (STC). The STC is responsible for the health of the Dapr community and for overall technical oversight. Read [Steering and Technical Committee (STC)](steering-and-technical-committee-charter.md)for more information.
+
+### Administrator Role
+Administrators have access to credentials equivalent to members of the steering and technical commitee (STC) and are responsible to perform pre-approved routine maintenance duties and ad-hoc tasks delegated by the STC without making isolated decisions. Read [Administrator Role](ADMINISTRATORS.md) for more information.
+
+### Community Manager Role
+Community managers are responsible for managing many aspects of the Dapr community. The role is to engage and promote the Dapr community and have someone that the community can reach out to for guidance. Read [Community Manager](COMMUNITY-MANAGER.md) for more information.
+
 ## How can I get involved?
 
-One of the easiest ways to contribute is to participate in discussions at community engagements.
+One of the easiest ways to contribute is to participate in discussions at community engagements or write a blog entry.
 
 If you're looking for something to work on, read the [contribution guidelines](https://docs.dapr.io/contributing/) and then you start by looking for GitHub issues, marked with "Good First Issue" or the "Help Wanted" labels:
 
@@ -133,6 +155,17 @@ If you're looking for something to work on, read the [contribution guidelines](h
 And, we can always use more testing, have more and improved docs, or just write a blog post on what you have discovered whilst using Dapr.
 
 If you're a developer, read the [development guide](https://github.com/dapr/dapr/tree/master/docs/development) for help on how to get started.
+
+Finally consider achieving one of the many [roles](#roles) that are in the Dapr project.
+
+## Other Documents
+
+Related documents 
+- [Release process](release-process.md) - describes the Dapr release process and cadence
+- [Contributing to Dapr](https://docs.dapr.io/contributing/) - guidelines and advice on becoming a contributor
+- [Steering and Technical Committee (STC)](steering-and-technical-committee-charter.md) - describes the steering and technical committee governing body for Dapr and its charter.
+- [Community membership](community-membership.md) - describes the various responsibilities of contributor roles in the Dapr community
+- [Developer Guide](https://github.com/dapr/dapr/tree/master/docs/development) - describes how to get involved with Dapr development
 
 ## Code of Conduct
 This project has adopted the [Contributor Covenant Code of Conduct](CODE-OF-CONDUCT.md)

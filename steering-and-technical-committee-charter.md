@@ -56,18 +56,16 @@ The governance of Dapr is an open, living document, and continues to evolve as t
 
 ## Committee meetings
 
-STC meets monthly. Meetings are open to public and held online.
+The STC meets monthly and the notes are made public.
 
-Given the private nature of some of these discussions, for example privacy, private
-emails to the committee, code of conduct violations, escalations, disputes
-between members, security reports, some meetings are held in private. Committee meetings can be made closed by a simple majority vote of the STC members, but closed meetings do not count towards the required meeting frequency. The governance committee will inform the community if a particular meeting is closed, as well as the general reasons for this, prior to the meeting taking place.
+Given the private nature of some of these discussions, for example privacy, private emails to the committee, code of conduct violations, escalations, disputes between members, security reports, meetings are held in private. 
 
-Meetings are recorded with the [recordings made available on Dapr YouTube](https://www.youtube.com/channel/UCtpSQ9BLB_3EXdWAUQYwnRA) and [meeting notes in the community repository](./steering-and-technical-committee-meetings/readme.md) both being publicly available. If a member misses more than 50% of all meetings held within a six month period then they will be removed from the committee and a special election will be held. 
+A member of the STC is required to take meeting notes. Meetings notes are updated into the STC monthly issue after the meeting and made publicly available along with future action items. If a member misses more than 50% of all meetings held within a six month period then they will be removed from the committee and a special election will be held. 
 
 Questions and proposals for changes to governance are posted as [issues in the community repository](https://github.com/Dapr/community/issues), and the STC invites your feedback there. See [Getting in touch](#getting-in-touch) for other options.
 
 ## Committee members
-To bootstrap the STC 5 individuals were identified to provide the initial process that can bootstrap the remainder of the process.The bootstrap committee will be replaced by an elected Dapr Committee.  A committee member is given;
+To bootstrap the STC 5 individuals were identified to provide the initial process that can bootstrap the remainder of the process. The bootstrap committee will be replaced by an elected Dapr Committee.  A committee member is given;
  - [owner role](https://github.com/orgs/dapr/people?query=role%3Aowner) in the Dapr org.
  - Admin role on the Dapr Discord server.
 
