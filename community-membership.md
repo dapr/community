@@ -132,7 +132,7 @@ The following apply to the subproject for which one would be an owner:
 
 ### Acceptance
 
-New maintainers can be added to the project by a super-majority (two-thirds / 66.66%) vote of the existing maintainers. A potential maintainer may be nominated by an existing maintainer from the relevant repository. A vote is conducted in private between the current maintainers over the course of a one week voting period. At the end of the week, votes are counted and a pull request is made on the repo adding the new maintainer to the CODEOWNERS file.
+New maintainers can be added to the project by a super-majority (two-thirds / 66.66%) vote of the existing maintainers of the relevant repository. A potential maintainer may be nominated by an existing maintainer from the relevant repository. A vote is conducted in private between the current maintainers over the course of a one week voting period. At the end of the week, votes are counted and a pull request is made on the repo adding the new maintainer to the CODEOWNERS file.
 
 Maintainers for new repositories can be nominated by any member of the steering committee and voted on in a steering committee meeting.
 Single maintainers of a repository can nominate a new maintainer and *MUST* inform the steering committee of their intention. The maintainer can be approved if no objections have been raised in a period of one week.
