@@ -89,9 +89,11 @@ The following apply to the part of the codebase for which one would be an approv
 - Reviewer for, or author of, at least 5 substantial PRs to the codebase,
   with the definition of substantial area to the maintainer's discretion
   (e.g. refactors/adds new functionality rather than one-line pulls)
-- Nominated by a maintainer from the relevant repository:
-  - With no objections from other repository maintainers
-  - Done through PR to update the `CODEOWNERS`
+- Nominated by a maintainer from the repository in which the nomination is applied to:
+  - With an approving vote of at least 2 maintainers from the repository maintainers. In the case of a repository with a solo maintainer, a single vote suffices
+  - With no objections from other repository maintainers for a period of one week
+  - Steering committee acts as the final resolution to any escalation
+  - Done through PR to update the `CODEOWNERS` 
 
 ### Responsibilities and privileges
 
@@ -132,7 +134,7 @@ The following apply to the subproject for which one would be an owner:
 
 ### Acceptance
 
-New maintainers can be added to the project by a super-majority (two-thirds / 66.66%) vote of the existing maintainers of the relevant repository. A potential maintainer may be nominated by an existing maintainer from the relevant repository. A vote is conducted in private between the current maintainers over the course of a one week voting period. At the end of the week, votes are counted and a pull request is made on the repo adding the new maintainer to the CODEOWNERS file.
+New maintainers can be added to the project by a super-majority (two-thirds / 66.66%) vote. Only the maintainers of the repository in which the nomination is applied to have a binding vote, while maintainers from other repositories are on an informed basis via a separate email thread. A potential maintainer may be nominated by an existing maintainer from the repository in which the nomination is applied to. A vote is conducted in private between the current maintainers over the course of a one week voting period. At the end of the week, votes are counted and a pull request is made on the repo adding the new maintainer to the CODEOWNERS file.
 
 Maintainers for new repositories can be nominated by any member of the steering committee and voted on in a steering committee meeting.
 Single maintainers of a repository can nominate a new maintainer and *MUST* inform the steering committee of their intention. The maintainer can be approved if no objections have been raised in a period of one week.
