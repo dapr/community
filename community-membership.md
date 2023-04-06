@@ -89,8 +89,8 @@ The following apply to the part of the codebase for which one would be an approv
 - Reviewer for, or author of, at least 5 substantial PRs to the codebase,
   with the definition of substantial area to the maintainer's discretion
   (e.g. refactors/adds new functionality rather than one-line pulls)
-- Nominated by a maintainer:
-  - With no objections from other maintainers
+- Nominated by a maintainer from the relevant repository:
+  - With no objections from other repository maintainers
   - Done through PR to update the `CODEOWNERS`
 
 ### Responsibilities and privileges
@@ -130,6 +130,12 @@ The following apply to the subproject for which one would be an owner:
 - Must have been active for 3 months or more for the given sub-project
 - Inactivity for more than 3 months leads to a removal vote by other maintainers and not an automatic removal
 
+### Acceptance
+
+New maintainers can be added to the project by a super-majority (two-thirds / 66.66%) vote of the existing maintainers. A potential maintainer may be nominated by an existing maintainer from the relevant repository. A vote is conducted in private between the current maintainers over the course of a one week voting period. At the end of the week, votes are counted and a pull request is made on the repo adding the new maintainer to the CODEOWNERS file.
+
+A maintainer may step down by submitting an issue stating their intent.
+
 ### Responsibilities and privileges
 
 The following apply to the subproject(repos) for which one would be an owner:
@@ -145,4 +151,6 @@ The following apply to the subproject(repos) for which one would be an owner:
   - Tests are passing reliably (i.e. not flaky) and are fixed when they fail
 - Ensure a healthy process for discussion and decision making is in place
 - Work with other maintainers to maintain the project's overall health and success holistically
+
+Maintainers *MUST* remain active. If they are unresponsive for >3 months, they will be automatically removed unless a super-majority of the other repository maintainers agrees to extend the period to be greater than 3 months.
 
