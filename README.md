@@ -66,12 +66,15 @@ When adding new scheduled meetings to this list:
 * make sure to update the URL for each entry too. The `iso` param should be updated following the `YYYYMMDD` format.
 * make sure the suffix is correct for the numeral: `st`, `nd`, `th` so it reads right like `22nd` and not `22th`
 -->
-- Wednesday April 5th<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T09&p1=234&msg=Dapr+Community+Call)
-- Wednesday May 3rd<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T09&p1=234&msg=Dapr+Community+Call)
-- Wednesday May 17th<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T09&p1=234&msg=Dapr+Community+Call)
-- Wednesday May 31st<sup>nd</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T09&p1=234&msg=Dapr+Community+Call)
-- Wednesday June 14th<sup>nd</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T09&p1=234&msg=Dapr+Community+Call)
-- Wednesday June 28th<sup>nd</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T09&p1=234&msg=Dapr+Community+Call)
+
+| Date & time | Host | Agenda
+| - | - | -
+| Wednesday May 17<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T09&p1=234&msg=Dapr+Community+Call) | Mark | dapr/community#302
+| Wednesday May 31<sup>st</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T09&p1=234&msg=Dapr+Community+Call) | Marc | dapr/community#305
+| Wednesday June 14<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T09&p1=234&msg=Dapr+Community+Call) | Nyemade |
+| Wednesday June 28<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T09&p1=234&msg=Dapr+Community+Call) | Mark |
+| Wednesday July 12<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T09&p1=234&msg=Dapr+Community+Call) | Marc |
+| Wednesday July 26<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T09&p1=234&msg=Dapr+Community+Call) | Nyemade |
 
 #### China Community Meetings
 
