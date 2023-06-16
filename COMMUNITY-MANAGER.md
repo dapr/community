@@ -25,6 +25,8 @@ A community manager can perform the following duties:
 
 Self-nominate via a [new issue in the community repository](https://github.com/dapr/community/issues/new) stating why you want to be an community manager, or alternatively contact an STC member. A community manager needs approval from 3 or more STC members. 
 
+Once a community manager is approved they are added to the [MAINTAINERS.md](./MAINTAINERS.md) file including a non-voting statement to indicate the community manager does not have voting rights as the regular maintainers do.
+
 ## Limits and Expiration
 
 The community manager role expires 12 months from the date it was approved. Reapproval is then required. To minimize the number of people to coordinate between, there can a maximum of 3 active community manager. 
