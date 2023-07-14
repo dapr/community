@@ -55,7 +55,7 @@ Do not add passcode to the Zoom URL.
 | 🔗 Meeting Link & Password | **Zoom Call:** https://zoom.us/j/92337656846<br>**Passcode:** 815623 
 | 🎥 Meeting Recordings | http://aka.ms/dapr-recordings
 
-**Upcoming dates**:
+#### Upcoming dates
 
 Use the upcoming calendar events below to add the community call events to your calendar.
 
@@ -69,11 +69,10 @@ When adding new scheduled meetings to this list:
 
 | Date & time | Host | Agenda
 | - | - | -
-| Wednesday May 31<sup>st</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T09&p1=234&msg=Dapr+Community+Call) | Mark | dapr/community#305
-| Wednesday June 14<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T09&p1=234&msg=Dapr+Community+Call) | Nyemade | dapr/community#314
-| Wednesday June 28<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T09&p1=234&msg=Dapr+Community+Call) | Marc | dapr/community#315
-| Wednesday July 12<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T09&p1=234&msg=Dapr+Community+Call) | Nyemade |
-| Wednesday July 26<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T09&p1=234&msg=Dapr+Community+Call) | Mark |
+| Wednesday July 26<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T09&p1=234&msg=Dapr+Community+Call) | Marc | dapr/community#330
+| Wednesday August 9<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T09&p1=234&msg=Dapr+Community+Call) | Mark | dapr/community#331
+| Wednesday August 23<sup>rd</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T09&p1=234&msg=Dapr+Community+Call) | Nyemade | dapr/community#332
+| Wednesday September 6<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T09&p1=234&msg=Dapr+Community+Call) | Marc | dapr/community#333
 
 #### China Community Meetings
 
