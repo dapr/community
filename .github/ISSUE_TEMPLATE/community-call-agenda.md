@@ -8,7 +8,7 @@ assignees: ''
 
 ## 📞 Dapr Community Meeting
 
-Every two weeks we host a [community meeting](../../README.MD#community-meetings) to highlight community created content, showcase new features, review upcoming milestones, and engage in Q&A with the Dapr community - all are welcome, and we encourage participation.
+Every two weeks we host a [community meeting](../#community-meetings) to highlight community created content, showcase new features, review upcoming milestones, and engage in Q&A with the Dapr community - all are welcome, and we encourage participation.
 
 The purpose of this thread is to form a discussion amongst the Dapr community on potential topics to highlight during the meeting. If you have a topic you wish to present or learn more about, please comment and be sure to include your name and a short description of the topic.
 
