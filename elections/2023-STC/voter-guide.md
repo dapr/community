@@ -11,7 +11,7 @@ This election will shape the future of Dapr as a community and project. More inf
 
 ## Eligibility
 
-Please refer to the [SC Election Charter] for:
+Please refer to the STC Election Charter for:
 
 - [Eligibility for candidacy](https://github.com/dapr/community/blob/master/steering-and-technical-committee-charter.md#candidate-eligibility).
 - [Eligibility for voting](https://github.com/dapr/community/blob/master/steering-and-technical-committee-charter.md#eligibility-to-vote).
@@ -38,7 +38,7 @@ have been asked by the Steering Committee to run this election:
 
 - [George Stevens](https://github.com/georgestevens99)
 
-You can reach George on [Discord](https://aka.ms/dapr-discord) via the handle `georgestevens`.
+You can reach George on [Discord](https://aka.ms/dapr-discord) via the handle `georgestevens99`.
 
 ## Candidacy Process
 
@@ -88,7 +88,7 @@ The election page will, among other things, tell you if you are eligible to vote
 via a button at the top of the screen. Due to limitations in our contributor
 data, many contributors may have been unfairly missed; if you are one of these,
 please file a voting exception by the deadline listed above so that we can
-enfranchise you.
+enfranchise you. Exceptions can be filed by contacting the Election Officer `georgestevens99` directly on [Discord](https://aka.ms/dapr-discord).
 
 As candidates file their candidate statements in the community repo, they will
 become visible in the [Elekto](https://elekto.dev/) UI.  You may click through to any candidate
