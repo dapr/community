@@ -16,7 +16,7 @@ Please refer to the STC Election Charter for:
 - [Eligibility for candidacy](https://github.com/dapr/community/blob/master/steering-and-technical-committee-charter.md#candidate-eligibility).
 - [Eligibility for voting](https://github.com/dapr/community/blob/master/steering-and-technical-committee-charter.md#eligibility-to-vote).
 
-The list of eligible voters is stored [in the community repository](./voters.yaml).
+The list of eligible voters will be updated [in the community repository](./voters.yaml) by November 6, 2023.
 
 If you believe you have contributed to the project in ways that go beyond code commits and are not showing up in the list of eligable voters, please contact election officer George Stevens via [Discord](https://aka.ms/dapr-discord). (handle - `georgestevens`).
 
@@ -52,6 +52,9 @@ filename format:
 ```
 candidate-githubid.md
 ```
+
+Your GitHub ID is the username you use when logging into GitHub. For example, for a GitHub user with the GitHub username of “happycoder2” the following filename should be used: 
+candidate-happycoder2.md
 
 The PR contents should include:
 
