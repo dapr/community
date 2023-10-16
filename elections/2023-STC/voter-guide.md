@@ -18,7 +18,7 @@ Please refer to the STC Election Charter for:
 
 The list of eligible voters will be updated [in the community repository](./voters.yaml) by November 6, 2023.
 
-If you believe you have contributed to the project in ways that go beyond code commits and are not showing up in the list of eligable voters, please contact election officer George Stevens via [Discord](https://aka.ms/dapr-discord). (handle - `georgestevens`).
+If you believe you have contributed to the project in ways that go beyond code commits and are not showing up in the list of eligable voters, please contact election officer George Stevens via [Discord](https://aka.ms/dapr-discord). (handle - `georgestevens99`).
 
 ## Schedule
 
