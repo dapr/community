@@ -53,6 +53,9 @@ filename format:
 candidate-githubid.md
 ```
 
+Your GitHub ID is the username you use when logging into GitHub. For example, for a GitHub user with the GitHub username of “happycoder2” the following filename should be used: 
+candidate-happycoder2.md
+
 The PR contents should include:
 
 * Your name
