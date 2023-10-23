@@ -20,6 +20,4 @@ Also, he participates in various events and big conferences, such as KuebeCon, D
 
 #### Why he is running
 
-He loves Dapr very much.
-
-He hopes to see more users and customers all over the world.
+Loong has a deep passion for Dapr and brings a unique experience in networking, performance optimization and security. In addition, he intends to invest in improving Dapr's integration with WASM and help oversee the technical direction of the project for the benefit of all users.
