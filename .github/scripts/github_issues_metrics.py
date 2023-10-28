@@ -106,7 +106,7 @@ not_triaged_bugs = []
 
 for repo in my_repos:
     # discover milestone project
-    issues = [i for i in g.get_repo('dapr/' + repo).get_issues(labels=['kind/bug'], since=issues_since) if i.created_at >= issues_since]
+    issues = [i for i in g.get_repo('dapr/' + repo).get_issues(labels=['kind/bug'], since=issues_since) if i.created_at >= issues_since.astimezone(i.created_at.tzinfo)]
     total_count += len(issues)
 
     for issue in issues:
@@ -119,9 +119,9 @@ for repo in my_repos:
                 if canonical_label not in first_label_events:
                     first_label_events[canonical_label] = event.created_at
         triaged_time = get_triaged_time(first_label_events)
-        time_to_triage = triaged_time - issue.created_at
+        time_to_triage = triaged_time.astimezone(issue.created_at.tzinfo) - issue.created_at
         expected_total_time_to_triage += time_to_triage
-        age_str = humanize.naturaldelta(now - issue.created_at)
+        age_str = humanize.naturaldelta(now.astimezone(issue.created_at.tzinfo) - issue.created_at)
         bug = {
                 'url': issue.html_url,
                 'age': age_str,
