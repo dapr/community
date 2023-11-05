@@ -20,8 +20,8 @@ I interact daily with Dapr users on GitHub and Discord, as well as new and exist
 #### Why you are running
 
 I believe that Dapr is taking on one of the most substantial challenges in the cloud-native world: that of fragmentation. An explosion of cloud services, frameworks and libraries force developers to become experts in too many things that are not their code business.
-I am extremely passionate about improving developer experience and would like to ensure Dapr continues to evolve with the times, stay relevant and solve wahtever challenges developers are facing.
+I am extremely passionate about improving developer experience and would like to ensure Dapr continues to evolve with the times, stay relevant and solve whatever challenges developers are facing.
 It has always been important for me to ensure Dapr remains a vendor-neutral project that runs and operates well on all clouds, and I will continue to invest my time and effort in that direction.
 
-I intend to make Dapr easier to ramp on to and improve the developer experience and tooling in addition to designing the next-generation of APIs and features that users expect, with the highest possibe quality.
+I intend to make Dapr easier to ramp on to and improve the developer experience and tooling in addition to designing the next-generation of APIs and features that users expect, with the highest possible quality.
 It is also crucial that Dapr is contributor friendly and allows for newcomers to onboard quickly. There is a lot to be done on that front, from contribution guides to automated systems and more.
