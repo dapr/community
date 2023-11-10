@@ -6,8 +6,8 @@ no_winners: 2
 allow_no_opinion: True
 delete_after: True
 show_candidate_fields:
-  - affiliation
-  - owners
+  - employer
+  - discord
 election_officers:
   - georgestevens99
 eligibility: All Dapr contributors with equal or greater than 20 contributions are eligible to vote
