@@ -2,7 +2,7 @@ name: Dapr 2023 STC Election
 organization: Dapr
 start_datetime: 2023-11-16 11:00:00
 end_datetime: 2023-11-17 16:00:00
-no_winners: 7
+no_winners: 2
 allow_no_opinion: True
 delete_after: True
 show_candidate_fields:
