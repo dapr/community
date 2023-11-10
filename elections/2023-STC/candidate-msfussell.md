@@ -1,3 +1,11 @@
+-------------------------------------------------------------
+name: Mark Fussell
+ID: @msfussell
+info:
+  - employer: Diagrid
+  - discord: mfussell
+-------------------------------------------------------------
+
 #### Name
 Mark Fussell
 

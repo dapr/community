@@ -1,3 +1,11 @@
+-------------------------------------------------------------
+name: Yaron Schneider
+ID: @yaron2
+info:
+  - employer: Diagrid
+  - discord: yaron2
+-------------------------------------------------------------
+
 #### Name
 Yaron Schneider
 
