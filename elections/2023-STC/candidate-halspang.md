@@ -1,3 +1,11 @@
+-------------------------------------------------------------
+name: Hal Spang
+ID: halspang
+info:
+  - employer: Microsoft
+  - discord: Pundil
+-------------------------------------------------------------
+
 #### Name
 Hal Spang
 
@@ -8,17 +16,14 @@ Microsoft
 I have been working on the Dapr project since before the initial 1.0 release, starting at 0.11. Initially starting off with whatever was needed to help get Dapr to its first stable release, 
 I transitioned to focus primarily on two main areas. 
 
-First, being the actor space in general where I worked on bugs/issues across the space and added in the Reentrancy feature. This work included implementing/assisting in the implementation of
- Reentrancy across several SDKs. Following that, I also added in the ability to specify actor configuration on a per actor type basis.
+First, being the actor space in general where I worked on bugs/issues across the space and added in the Reentrancy feature. This work included implementing/assisting in the implementation of Reentrancy across several SDKs. Following that, I also added in the ability to specify actor configuration on a per actor type basis.
 
 Following my work on Actors, my next major transition was into the Resiliency space. Having worked on that from the design phase through to the implementation. 
- This work touched almost all of the Dapr runtime as it applied to almost everything Dapr does (aside from some of the management that the control plane does).
+This work touched almost all of the Dapr runtime as it applied to almost everything Dapr does (aside from some of the management that the control plane does).
 
-Admist this, I was also working with the former .NET SDK maintainer to ramp-up and take over responsibilities there. I became an official maintainer in early 2022 and have continued 
- to keep the SDK up to date with modern features as well as bringing in additional people to work on the SDK. The SDK is currently one of the most used SDKs.
+Admist this, I was also working with the former .NET SDK maintainer to ramp-up and take over responsibilities there. I became an official maintainer in early 2022 and have continued to keep the SDK up to date with modern features as well as bringing in additional people to work on the SDK. The SDK is currently one of the most used SDKs.
 
-Outside of the OSS world, I have also been working on how Dapr interacts with Azure. Working directly with various Azure teams to help make sure that the Dapr experience is good when using
- Azure infrastructure and helping to bring modern Dapr features to more users.
+Outside of the OSS world, I have also been working on how Dapr interacts with Azure. Working directly with various Azure teams to help make sure that the Dapr experience is good when using Azure infrastructure and helping to bring modern Dapr features to more users.
 
 I have also long been active in the Discord, focusing primarily on helping people with questions in the .NET channel or anywhere else I may have some expertise.
 

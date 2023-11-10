@@ -1,3 +1,11 @@
+-------------------------------------------------------------
+name: Paul Yuknewicz
+ID: @paulyuk
+info:
+  - employer: Microsoft
+  - discord: paulyuk
+-------------------------------------------------------------
+
 #### Name
 Paul Yuknewicz
 
