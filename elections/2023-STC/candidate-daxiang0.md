@@ -1,3 +1,11 @@
+-------------------------------------------------------------
+name: Loong Dai
+ID: @daxiang0
+info:
+  - employer: Intel
+  - discord: loong
+-------------------------------------------------------------
+
 #### Name
 
 Nominator: Forrest Zhao (@forrest-zhao)
