@@ -1,6 +1,6 @@
 -------------------------------------------------------------
 name: Victory Cao
-ID: @cvictory
+ID: cvictory
 info:
   - employer: Alibaba
   - discord: cvictory

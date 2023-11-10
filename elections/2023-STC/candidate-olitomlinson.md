@@ -1,6 +1,6 @@
 -------------------------------------------------------------
 name: Oliver Tomlinson
-ID: @olitomlinson
+ID: olitomlinson
 info:
   - employer: Dotmatics
   - discord: Oli

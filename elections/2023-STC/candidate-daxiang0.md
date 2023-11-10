@@ -1,6 +1,6 @@
 -------------------------------------------------------------
 name: Loong Dai
-ID: @daxiang0
+ID: daxiang0
 info:
   - employer: Intel
   - discord: loong
