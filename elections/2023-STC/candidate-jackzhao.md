@@ -1,6 +1,6 @@
 -------------------------------------------------------------
 name: Qingjie (Jack) Zhao
-ID: @jackzhao
+ID: jackzhao
 info:
   - employer: Alibaba
   - discord: N/A

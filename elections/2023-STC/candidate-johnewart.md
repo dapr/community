@@ -1,6 +1,6 @@
 -------------------------------------------------------------
 name: John Ewart
-ID: @johnewart
+ID: johnewart
 info:
   - employer: Microsoft
   - discord: eloquentzombie
