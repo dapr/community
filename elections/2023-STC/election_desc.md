@@ -15,14 +15,12 @@ All Dapr contributors with 20 or more contributions over the last year are eligi
 
 ### Schedule
 
-| Date         | Event                    |
-| ------------ | ------------------------ |
-| October 16   | Announcement of Election, call for nominations, exceptions |
-| November 6   | All candidate nominations due by 23:59 UTC (3:59pm Pacific) |
-| November 13  | Election Begins via Elekto UI |
-| November 25  | Call for voter exceptions is closed by 23:59 UTC (3:59pm Pacific) |
-| November 27  | Election Closes by 23:59 UTC (3:59pm Pacific) |
-| November 30   | Announcement of Results |
+* October 16  - Announcement of Election, call for nominations, exceptions
+* November 6  - All candidate nominations due by 23:59 UTC (3:59pm Pacific)
+* November 13 - Election Begins via Elekto UI
+* November 25 - Call for voter exceptions is closed by 23:59 UTC (3:59pm Pacific)
+* November 27 - Election Closes by 23:59 UTC (3:59pm Pacific)
+* November 30 - Announcement of Results
 
 ## Changing Your Vote
 
