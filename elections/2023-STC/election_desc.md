@@ -7,7 +7,7 @@ Each elected member will serve a two (2) year term.
 
 This election will shape the future of Dapr as a community and project. More information on the role of the STC can be found [here](https://github.com/dapr/community/blob/master/steering-and-technical-committee-charter.md#charter).
 
-This is a brief summary of the election; for more details, visit the [voters guide](voter-guide.md).
+This is a brief summary of the election; for more details, visit the [voters guide](https://github.com/dapr/community/blob/master/elections/2023-STC/voter-guide.md).
 
 ## Eligibility
 
