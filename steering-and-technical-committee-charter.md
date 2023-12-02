@@ -65,30 +65,31 @@ A member of the STC is required to take meeting notes. Meetings notes are update
 Questions and proposals for changes to governance are posted as [issues in the community repository](https://github.com/Dapr/community/issues), and the STC invites your feedback there. See [Getting in touch](#getting-in-touch) for other options.
 
 ## Committee members
-To bootstrap the STC 5 individuals were identified to provide the initial process that can bootstrap the remainder of the process. The bootstrap committee will be replaced by an elected Dapr Committee.  A committee member is given;
+The committee is voted on every 2 years.  A committee member is given;
  - [owner role](https://github.com/orgs/dapr/people?query=role%3Aowner) in the Dapr org.
  - Admin role on the Dapr Discord server.
+
+The current committee consists of 7 members. The committee can expand up to 11 seats.
 
 The current membership of the STC is:
 
 | &nbsp;                                                         | Member           | Organization  | Profile                                              | Term Start | Term End |
 | -------------------------------------------------------------- | ---------------- | ------------  | ---------------------------------------------------- | ---------- | --------
-| <img width="30px" src="https://github.com/yaron2.png">         | Yaron Schneider  | Diagrid       | [@yaron2](https://github.com/yaron2)                | Bootstrap  | Nov 30th 2023     |
-| <img width="30px" src="https://github.com/msfussell.png">      | Mark Fussell     | Diagrid       | [@msfussell](https://github.com/msfussell)          | Bootstrap  | Nov 30th 2023     |
-| <img width="30px" src="https://github.com/jaczhao.png">        | Qingjie Zhao     | Alibaba       | [@jackzhao](https://github.com/jaczhao)             | Bootstrap  | Nov 30th 2023     |
-| <img width="30px" src="https://github.com/cvictory.png">       | Victory Cao      | Alibaba       | [@cvictory](https://github.com/cvictory)            | Bootstrap  | Nov 30th 2023     |
-| <img width="30px" src="https://github.com/forrest-zhao.png">   | Forrest Zhao     | Intel         | [@forrest-zhao](https://github.com/forrest-zhao)    | Bootstrap  | Nov 30th 2023     |
-| <img width="30px" src="https://github.com/johnewart.png">      | John Ewart       | Microsoft     | [@johnewart](https://github.com/johnewart)          | Bootstrap  | Nov 30th 2023     |
-| <img width="30px" src="https://github.com/paulyuk.png">        | Paul Yuknewicz   |  Microsoft    | [@paulyuk](https://github.com/paulyuk)              | Bootstrap  | Nov 30th 2023     |
+| <img width="30px" src="https://github.com/yaron2.png">         | Yaron Schneider  | Diagrid       | [@yaron2](https://github.com/yaron2)             | 1st Dec 2023  | Nov 30th 2025     |
+| <img width="30px" src="https://github.com/msfussell.png">      | Mark Fussell     | Diagrid       | [@msfussell](https://github.com/msfussell)          | 1st Dec 2023  | Nov 30th 2025     |
+| <img width="30px" src="https://github.com/daxiang0.png">       | Loong Dai        | Intel         | [@daxiang0](https://github.com/daxiang0)            | 1st Dec 2023  | Nov 30th 2025     |
+| <img width="30px" src="https://github.com/cvictory.png">       | Victory Cao      | Alibaba       | [@cvictory](https://github.com/cvictory)            | 1st Dec 2023  | Nov 30th 2025     |
+| <img width="30px" src="https://github.com/olitomlinson.png">   | Oli Tomlinson    | Dotmatics     | [@olitomlinson](https://github.com/olitomlinson)        | 1st Dec 2023  | Nov 30th 2025     |
+| <img width="30px" src="https://github.com/johnewart.png">      | John Ewart       | Microsoft     | [@johnewart](https://github.com/johnewart)           | 1st Dec 2023  | Nov 30th 2025     |
+| <img width="30px" src="https://github.com/paulyuk.png">        | Paul Yuknewicz   |  Microsoft    | [@paulyuk](https://github.com/paulyuk)             | 1st Dec 2023  | Nov 30th 2025     |
 
 ## Decision process
 
 The steering and technical committee desires to always reach consensus.
    
-Decisions requiring a vote include: issuing written governance policy, amending existing written governance policy, all spending, official responses to publicly raised issues, or any other decisions that at least half the members present decide require a vote.
+Decisions requiring a vote include: issuing written governance policy, amending existing written governance policy, all spending, official responses to publicly raised issues, roles such as community manager, administrators, moving projects from sandbox or any other decisions that at least half the members present decide require a vote.
 
-Decisions are made in meetings when a quorum of the members are present and may
-pass with at least half the members of the committee supporting it.
+Decisions are made in meetings when a quorum of the members are present and may pass with at least half the members of the committee supporting it.
 
 Quorum is considered reached when at least half of the members are present.
 
@@ -186,11 +187,9 @@ election. Eligibility will not be redetermined at the time of the special
 election. Any replacement STC member will serve out the remainder of the term for
 the person they are replacing, regardless of the length of that remainder.
 
-## Bootstrap and transition
+## Election date
 
-In order to bootstrap the STC, 5 seats are allocated in September 2021. Two for Microsoft, two for Alibaba and one for Intel committee members as the current active companies to the project. In the bootstrap period, an organization can choose to nominate new committee members if their existing committee members leave the company and the number of committee members remains uneven. This can expand up to 11 seats maximum over the coming years.
-
-The next election will be held in November 2023 for all currently filled seats at that time.  
+The last election was held in Nov 2023. The next election will be held in November 2025 for all currently filled seats at that time.  
 
 ## Changes to the charter
 
