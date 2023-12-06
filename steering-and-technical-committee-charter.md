@@ -69,7 +69,7 @@ The committee is voted on every 2 years.  A committee member is given;
  - [owner role](https://github.com/orgs/dapr/people?query=role%3Aowner) in the Dapr org.
  - Admin role on the Dapr Discord server.
 
-The current committee consists of 7 members. The committee can expand up to 11 seats.
+The current committee consists of 7 members. The committee can expand up to 11 seats always maintaining an odd number.
 
 The current membership of the STC is:
 
@@ -82,6 +82,16 @@ The current membership of the STC is:
 | <img width="30px" src="https://github.com/olitomlinson.png">   | Oli Tomlinson    | Dotmatics     | [@olitomlinson](https://github.com/olitomlinson)        | 1st Dec 2023  | Nov 30th 2025     |
 | <img width="30px" src="https://github.com/johnewart.png">      | John Ewart       | Microsoft     | [@johnewart](https://github.com/johnewart)           | 1st Dec 2023  | Nov 30th 2025     |
 | <img width="30px" src="https://github.com/paulyuk.png">        | Paul Yuknewicz   |  Microsoft    | [@paulyuk](https://github.com/paulyuk)             | 1st Dec 2023  | Nov 30th 2025     |
+
+## Emeritus members
+The following emeritus members are recognized for their previous role on the STC. 
+
+| &nbsp;                                                         | Member           | Organization  | Profile                                          |
+| -------------------------------------------------------------- | ---------------- | ------------  | --------------------------------------------------| 
+|
+| <img width="30px" src="https://github.com/jaczhao.png">        | Qingjie Zhao     | Alibaba       | [@jackzhao](https://github.com/jaczhao)             |
+| <img width="30px" src="https://github.com/forrest-zhao.png">   | Forrest Zhao     | Intel         | [@forrest-zhao](https://github.com/forrest-zhao)    |
+
 
 ## Decision process
 
