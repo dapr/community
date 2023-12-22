@@ -75,23 +75,21 @@ The current membership of the STC is:
 
 | &nbsp;                                                         | Member           | Organization  | Profile                                              | Term Start | Term End |
 | -------------------------------------------------------------- | ---------------- | ------------  | ---------------------------------------------------- | ---------- | --------
-| <img width="30px" src="https://github.com/yaron2.png">         | Yaron Schneider  | Diagrid       | [@yaron2](https://github.com/yaron2)             | 1st Dec 2023  | Nov 30th 2025     |
-| <img width="30px" src="https://github.com/msfussell.png">      | Mark Fussell     | Diagrid       | [@msfussell](https://github.com/msfussell)          | 1st Dec 2023  | Nov 30th 2025     |
-| <img width="30px" src="https://github.com/daxiang0.png">       | Loong Dai        | Intel         | [@daxiang0](https://github.com/daxiang0)            | 1st Dec 2023  | Nov 30th 2025     |
-| <img width="30px" src="https://github.com/cvictory.png">       | Victory Cao      | Alibaba       | [@cvictory](https://github.com/cvictory)            | 1st Dec 2023  | Nov 30th 2025     |
-| <img width="30px" src="https://github.com/olitomlinson.png">   | Oli Tomlinson    | Dotmatics     | [@olitomlinson](https://github.com/olitomlinson)        | 1st Dec 2023  | Nov 30th 2025     |
-| <img width="30px" src="https://github.com/johnewart.png">      | John Ewart       | Microsoft     | [@johnewart](https://github.com/johnewart)           | 1st Dec 2023  | Nov 30th 2025     |
-| <img width="30px" src="https://github.com/paulyuk.png">        | Paul Yuknewicz   |  Microsoft    | [@paulyuk](https://github.com/paulyuk)             | 1st Dec 2023  | Nov 30th 2025     |
+| <img width="30px" src="https://github.com/yaron2.png">         | Yaron Schneider  | Diagrid       | [@yaron2](https://github.com/yaron2)                 | 1st Dec 2023  | Nov 30th 2025  |
+| <img width="30px" src="https://github.com/msfussell.png">      | Mark Fussell     | Diagrid       | [@msfussell](https://github.com/msfussell)           | 1st Dec 2023  | Nov 30th 2025  |
+| <img width="30px" src="https://github.com/daxiang0.png">       | Loong Dai        | Intel         | [@daxiang0](https://github.com/daxiang0)             | 1st Dec 2023  | Nov 30th 2025  |
+| <img width="30px" src="https://github.com/jaczhao.png">        | Qingjie Zhao     | Alibaba       | [@jackzhao](https://github.com/jaczhao)              | 1st Dec 2023  | Nov 30th 2025  |
+| <img width="30px" src="https://github.com/olitomlinson.png">   | Oli Tomlinson    | Dotmatics     | [@olitomlinson](https://github.com/olitomlinson)     | 1st Dec 2023  | Nov 30th 2025  |
+| <img width="30px" src="https://github.com/johnewart.png">      | John Ewart       | Microsoft     | [@johnewart](https://github.com/johnewart)           | 1st Dec 2023  | Nov 30th 2025  |
+| <img width="30px" src="https://github.com/paulyuk.png">        | Paul Yuknewicz   | Microsoft     | [@paulyuk](https://github.com/paulyuk)               | 1st Dec 2023  | Nov 30th 2025  |
 
 ## Emeritus members
 The following emeritus members are recognized for their previous role on the STC. 
 
 | &nbsp;                                                         | Member           | Organization  | Profile                                          |
-| -------------------------------------------------------------- | ---------------- | ------------  | --------------------------------------------------| 
-|
-| <img width="30px" src="https://github.com/jaczhao.png">        | Qingjie Zhao     | Alibaba       | [@jackzhao](https://github.com/jaczhao)             |
-| <img width="30px" src="https://github.com/forrest-zhao.png">   | Forrest Zhao     | Intel         | [@forrest-zhao](https://github.com/forrest-zhao)    |
-
+| -------------------------------------------------------------- | ---------------- | ------------  | -------------------------------------------------| 
+| <img width="30px" src="https://github.com/cvictory.png">       | Victory Cao      | Alibaba       | [@cvictory](https://github.com/cvictory)         |
+| <img width="30px" src="https://github.com/forrest-zhao.png">   | Forrest Zhao     | Intel         | [@forrest-zhao](https://github.com/forrest-zhao) |
 
 ## Decision process
 
