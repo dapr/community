@@ -13,7 +13,6 @@ This is the list of maintainers for all Dapr repositories, in alphabetical order
 - Mark Fussell (Diagrid) [@msfussell](https://github.com/msfussell)
 - Mukundan Sundararajan (Microsoft) [@mukundansundar](https://github.com/mukundansundar)
 - Nick Greenfield (Microsoft) [@greenie-msft](https://github.com/greenie-msft)
-- Nyemade Uversky (Microsoft) [@nyemade-uversky](https://github.com/nyemade-uversky) (non voting)
 - Paul Yuknewicz (Microsoft) [@paulyuk](https://github.com/paulyuk)
 - Rob Landers (Automattic) [@withinboredom](https://github.com/withinboredom)
 - Ryan Nowak (Microsoft) [@rynowak](https://github.com/rynowak)
