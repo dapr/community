@@ -34,14 +34,7 @@ The _Community Sync_ DM group is used by community managers to discuss moderatio
 
 ### Twitter
 
-The [Dapr Twitter](https://twitter.com/daprdev) account is used for:
-
-- Asking the community for community call topics.
-- Announcing community calls (one day before and one hour before the call).
-- Announcing that the recording of the community call is available on YouTube.
-- Announcing new Dapr releases.
-- Announcing new Dapr blog posts or CNCF case studies.
-- Reposting relevant Dapr tweets from the community.
+The [Dapr Twitter](https://twitter.com/daprdev) account is used for posting important updates and reposting relevant tweets from the community. See the list of [community manager responsibilities](COMMUNITY-MANAGER.md#responsibilities).
 
 The Dapr Twitter credentials can be found in the Dapr 1Password account.
 

@@ -23,7 +23,13 @@ A community manager has the following responsibilities:
 * Report on community health, growth trends, and top issues to maintainers and STC.
 * Propose new partnerships with other adjacent communities to STC and manage them.
 * Manage community analytics tools, including Google Analytics, CommonRoom.io and Scarf.sh.
-* Manage the [@daprdev](https://twitter.com/daprdev) Twitter account.
+* Manage the [@daprdev](https://twitter.com/daprdev) Twitter account:
+   * Asking the community for community call topics.
+   * Announcing community calls (one day before and one hour before the call).
+   * Announcing that the recording of the community call is available on YouTube.
+   * Announcing new Dapr releases.
+   * Announcing new Dapr blog posts or CNCF case studies.
+   * Reposting relevant Dapr tweets from the community.
 * Manage the [@daprdev](https://www.youtube.com/@daprdev) YouTube account.
 
 ### Duties that require STC approval
