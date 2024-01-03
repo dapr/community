@@ -12,7 +12,7 @@ The following information is needed from the new community manager:
 
 ### Update the Dapr Maintainers & Community Managers doc
 
-Add the community manager to the _Dapr Maintainers & Community Managers_ document on the Dapr Google Drive.
+Add the community manager to the [_Dapr Maintainers & Community Managers_ document](https://docs.google.com/document/d/1FRTKgEih_lWlTM5e5ZeTSwPxIwvWyWZhtWr8KCx8CXo) on the Dapr Google Drive.
 
 ### Update the Maintainers.md
 
@@ -26,16 +26,20 @@ The format should be:
 
 ### Update the CNCF project-maintainers.csv
 
-In order to get access to the CNCF service desk, the community manager needs to be added to the [project-maintainers.csv](
+In order to get access to the CNCF service desk and receive emails from CNCF, two actions need to be done:
+
+1. The community manager needs to be added to the [project-maintainers.csv](
 https://github.com/cncf/foundation/blob/main/project-maintainers.csv).
 
-- Create a PR to add the community manager to the project-maintainers.csv file.
+     - Create a PR to add the community manager to the project-maintainers.csv file.
 
-The format of the entry should be:
+    The format of the entry should be:
 
-```
-,,<Full name>,<Company>,<GitHub username>,
-```
+    ```csv
+    ,,<Full name>,<Company>,<GitHub username>,
+    ```
+
+1. An email need to be sent to _cncf-maintainer-changes@cncf.io_ with the name and email of the new community manager.
 
 ### 1Password
 
@@ -48,11 +52,11 @@ The community manager requires access to these logins in 1Password:
 - Send an invite to the new Community Manager to join the Dapr 1Password account:
   - In the 1Password menu go to Invitations -> Invite by email.
 
-### Dapr Community repo
+### GitHub access
 
-The community manager needs to add issues and edit them in the [community repo](https://github.com/dapr/community) for planning and managing community calls.
+The community manager requires access to the [community](https://github.com/dapr/community) and [blog](https://github.com/dapr/blog) repositories to merge pull requests and edit issues.
 
-- Add the community manager to the Dapr community repo as a collaborator.
+- Add the community manager to the _Community Manager_ access role.
 
 ### Discord
 
