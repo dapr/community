@@ -141,7 +141,7 @@ for repo in my_repos:
                 issue.html_url, age_str, humanize.naturaldelta(time_to_triage)))
         bugs.append(bug)
 
-average_days_to_triage = (total_time_to_triage / triaged_count).total_seconds() / ONE_DAY.total_seconds()
+average_days_to_triage = (total_time_to_triage / triaged_count).total_seconds() / ONE_DAY.total_seconds() if triaged_count != 0 else 30
 expected_average_days_to_triage = (expected_total_time_to_triage / total_count).total_seconds() / ONE_DAY.total_seconds()
 triaged_under_5_days_ratio = triaged_under_5_days_count / total_count
 
