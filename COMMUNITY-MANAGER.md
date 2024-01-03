@@ -17,6 +17,8 @@ A community manager has the following responsibilities:
    * Organize and monitor Discord channels.
    * Ensure community rules are being followed.
    * Help new Discord users find the right channels & answers.
+   * Announce new Dapr releases and events.
+* Review issues & pull requests in the community repository.
 * Review and publish Dapr blog posts submitted by the community.
 * Report on community health, growth trends, and top issues to maintainers and STC.
 * Propose new partnerships with other adjacent communities to STC and manage them.

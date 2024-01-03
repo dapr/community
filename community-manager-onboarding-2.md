@@ -1,6 +1,8 @@
 ## Community Manager Onboarding (for community managers)
 
-This document contains information about the tools that are used by the Dapr community managers.
+This document contains information about the tools and processes that are used by the Dapr community managers.
+
+Community managers are encouraged to update this file to improve the onboarding process.
 
 ### 1Password
 
@@ -8,11 +10,19 @@ Dapr uses 1Password that contains credentials for the various accounts that are 
 
 The community manager will receive an email from on of the project maintainers with an invite to join the Dapr 1Password account.
 
-### Dapr Community repo
+### Planning community calls
 
-For planning and managing community calls, the community manager adds issues and edit them in the [community repo](https://github.com/dapr/community)
+For planning and managing community calls, the community manager adds issues and edit them in the [community repo](https://github.com/dapr/community).
 
 Once new community calls have been planned, update the community repo [README.md](README.md) with the new dates.
+
+### Hosting community calls
+
+Zoom is used for the Dapr community calls which are hosted by the community manager.
+
+Join the call 15 minutes before the start of the call and have the other speakers join early as well so they can test their audio and screen sharing.
+
+Zoom credentials can be found in the Dapr 1password account.
 
 ### Discord
 
@@ -31,6 +41,7 @@ The [Dapr Twitter](https://twitter.com/daprdev) account is used for:
 - Announcing that the recording of the community call is available on YouTube.
 - Announcing new Dapr releases.
 - Announcing new Dapr blog posts or CNCF case studies.
+- Reposting relevant Dapr tweets from the community.
 
 The Dapr Twitter credentials can be found in the Dapr 1Password account.
 
@@ -69,11 +80,3 @@ Google Drive is used for storing the Dapr community call slides.
 - Share the deck (with edit rights) with the speakers and in the _Community Sync_ Discord group.
 
 The Dapr Google credentials can be found in the Dapr 1Password account.
-
-### Zoom
-
-Zoom is used for the Dapr community calls which are hosted by the community manager.
-
-Join the call 15 minutes before the start of the call and have the other speakers join early as well so they can test their audio and screen sharing.
-
-Zoom credentials can be found in the Dapr 1password account.
