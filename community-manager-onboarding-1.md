@@ -54,17 +54,22 @@ The community manager requires access to these logins in 1Password:
 
 ### GitHub access
 
-The community manager requires access to the [community](https://github.com/dapr/community) and [blog](https://github.com/dapr/blog) repositories to merge pull requests and edit issues.
+The community manager requires maintainer access to the [community](https://github.com/dapr/community) and [blog](https://github.com/dapr/blog) repositories.
 
-- Add the community manager to the _Community Manager_ access role.
+Add the community manager to these Dapr org teams on GitHub:
+
+- maintainers-community
+- maintainers-blog
+
+The community manager is mostly likely not a member of the Dapr org on GitHub. By adding them to the above org teams they will receive an invite to join the Dapr org.
 
 ### Discord
 
 The community manager requires access to perform management and moderation tasks on the Dapr Discord server.
 
 - [Invite](https://bit.ly/dapr-discord) the community manager to the Dapr Discord server.
-- Add the community manager to the _Community Manager_ role on Discord:
+- Add the community manager to the _Community Manager_, _release observers_, and _maintainers_ roles on Discord:
 
-  - In Discord go to Server Settings -> Roles -> Community Manager ->  Manage Members -> Add Member.
+  - In Discord go to Server Settings -> Roles -> [Role] ->  Manage Members -> Add Member.
 
 - Add the community manager to the _Community Sync_ DM group on Discord.
