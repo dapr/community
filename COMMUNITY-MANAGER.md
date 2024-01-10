@@ -58,8 +58,10 @@ The following community managers have been approved by the STC:
 
 | Name | GitHub Handle | Discord Handle | Company | Status | Timezone | Term Start | Term End |
 | - | - | -  | - | - | - | - | -
-| Marc Duiker | [@marcduiker](https://github.com/marcduiker) | MarcDuiker#2929 | Diagrid | Active | UTC+1/CET | Feb 15th, 2023 | Feb 15th, 2024
-| Nyemade Uversky  | [@nyemade-uversky](https://github.com/nyemade-uversky) | nuversky#2099 | Microsoft | Inactive | PST | Feb 15th, 2023 | Feb 15th, 2024
+| Annu Singh | [@AnnuCode](https://github.com/annucode) | annusingh | Nirmata | Active | UTC+5.30/IST | Jan 1st, 2024 | Jan 1st, 2025
+| Cecil Phillip | [@cecilphillip](https://github.com/cecilphillip) | cecilphillip | Stripe | Active | UTC-5/EST | Jan 1st, 2024 | Jan 1st, 2025
+| Marc Duiker | [@marcduiker](https://github.com/marcduiker) | marcduiker | Diagrid | Active | UTC+1/CET | Feb 15th, 2023 | Feb 15th, 2024
+| Nyemade Uversky  | [@nyemade-uversky](https://github.com/nyemade-uversky) | nuversky#2099 | Microsoft | Inactive | UTC-8/PST | Feb 15th, 2023 | Feb 15th, 2024
 
 ### Statuses
    * Active: Currently an active community manager.
