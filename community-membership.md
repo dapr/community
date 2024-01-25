@@ -137,10 +137,10 @@ The following apply to the subproject for which one would be an owner:
 
 New Core-maintainers can be added to the project by a super-majority (two-thirds / 66.66%) vote. Only the Core-maintainers of the repository in which the nomination is applied to have a binding vote, while Core-maintainers from other repositories are on an informed basis via a separate email thread. A potential Core-maintainer may be nominated by an existing Core-maintainer from the repository in which the nomination is applied to. A vote is conducted in private between the current Core-maintainers over the course of a one week voting period. At the end of the week, votes are counted and a pull request is made on the repo adding the new core-maintainer to the CODEOWNERS file.
 
-Core-maintainers for new repositories can be nominated by any member of the steering committee and voted on in a steering committee meeting.
-Single Core-maintainers of a repository can nominate a new Core-maintainer and *MUST* inform the steering committee of their intention. The Core-maintainer can be approved if no objections have been raised in a period of one week.
+Core-Maintainers for new repositories can be nominated by any member of the steering committee and voted on in a steering committee meeting.
+Single Core-Maintainers of a repository can nominate a new Core-Maintainer and *MUST* inform the steering committee of their intention. The Core-Maintainer can be approved if no objections have been raised in a period of one week.
 
-A Core-maintainer may step down by submitting an issue stating their intent.
+A Core-Maintainer may step down by submitting an issue stating their intent.
 
 ### Responsibilities and privileges
 
@@ -169,10 +169,10 @@ files.
 
 ### Requirements
 
-The following apply to the sub area(ex: building block API/ Control plane service/ Component provider) for which one would be a Feature-maintainer:
+The following apply to the area(ex: building block API/ Control plane service/ Component provider) for which one would be a Feature-maintainer:
 
-- Deep understanding of the technical goals and direction of the sub area.
-- Deep understanding of the technical domain (specifically the language) of the sub area
+- Deep understanding of the technical goals and direction of the area.
+- Deep understanding of the technical domain (specifically the language) of the area
 - Sustained contributions to design and direction by doing all of:
   - Authoring and reviewing proposals
   - Initiating, contributing and resolving discussions  For example Discord discussions,  GitHub issues, meetings)
@@ -184,43 +184,37 @@ The following apply to the sub area(ex: building block API/ Control plane servic
 
 ### Acceptance
 
-  New Feature-Maintainers can be added to the project by a super-majority (two-thirds / 66.66%) vote. Only the maintainers of the repository in which the nomination is applied have a binding vote, while maintainers from other repositories are on an informed basis via a separate email thread.
+  New Feature-Maintainers can be added to the project by a super-majority (two-thirds / 66.66%) vote. Only the Core-maintainers of the repository in which the nomination is applied have a binding vote, while maintainers from other repositories are on an informed basis via a separate email thread.
 
-  A potential feature-maintainer may be nominated by an existing maintainer from the repository in which the nomination is applied to. A vote is conducted in private between the current maintainers over the course of a one week voting period. At the end of the week, votes are counted, and a pull request is made on the repo adding the new feature-maintainer to the feature-maintainers.md file.
+  A potential feature-maintainer may be nominated by an existing Core-Maintainer from the repository in which the nomination is applied to. A vote is conducted in private between the current maintainers over the course of a one week voting period. At the end of the week, votes are counted, and a pull request is made on the repo adding the new feature-maintainer to the feature-maintainers.md file.
 
-  Feature-maintainers MUST remain active. If they are unresponsive for >3 months, they will be automatically removed unless a super-majority of the other repository maintainers agrees to extend the period to be greater than 3 months.
+  Feature-Maintainers MUST remain active. If they are unresponsive for >3 months, they will be automatically removed unless a super-majority of the other repository maintainers agrees to extend the period to be greater than 3 months.
 
   A feature-maintainer may step down by submitting an issue stating their intent.
 
 ### Example of Feature Maintainers in DAPR Runtime repo:
-Sub Area
-Person Name
-Workflow
-Chris Gillum
-Control Plane Service(mTLS)
-Josh V
 
-| **Subarea**   | **Name**                                  |
-| ---------- | ---------------------------------------------| 
-| Workflow    | Chris Gilum                                 | 
-| Control Plane Service(mTLS)| Josh V |
+| **Subarea**   | **Name**                                  |**GH Handle**|
+| ---------- | ---------------------------------------------|-------------| 
+| Workflow    | Chris Gilum                                 |cgillum      | 
+| Control Plane Service(mTLS)| Josh V                       |JoshVanL     |
 
 ### Responsibilities and privileges
 
-The following applies to the sub area(ex: building block API/ Control plane service/ Component provider) for which the feature-maintainer would be an owner:
+The following applies to the area(ex: building block API/ Control plane service/ Component provider) for which the feature-maintainer would be an owner:
 
-- Make and approve technical design decisions for the sub area
-- Set technical direction and priorities for the sub area.
+- Make and approve technical design decisions for the area
+- Set technical direction and priorities for the area.
 - Define milestones and releases working along with the maintainers
 - Decides on when PRs are merged to control the release scope
-- Mentor and guide approvers and contributors of the sub area
+- Mentor and guide approvers and contributors of the area
 - Escalate approver and maintainer workflow concerns. (For example responsiveness, availability, and general contributor community health) to the STC
-- Ensure continued health of sub area:
+- Ensure continued health of area:
 - Adequate test coverage to confidently release
 - Tests are passing reliably (not flaky) and are fixed when they fail.
 - Work with other feature-maintainers & Core-maintainers to maintain the project's overall health and success holistically.
-- Membership tracked in feature-maintainer.md entry and scoped to a sub area.
-- MUST maintain components, review, and approve proposals for enhancing areas falling under the user sub area.
+- Membership tracked in feature-maintainer.md entry and scoped to a area.
+- Must maintain components, review, and approve proposals for enhancing areas falling under the user area.
 - Actively participate in issue triages and PR reviews
-- Set milestone priorities for the sub areas or delegate the responsibility to repo maintainers.
+- Set milestone priorities for the areas working with the repo maintainers.
 - Ensure a healthy process for discussion and decision making is in place
