@@ -17,11 +17,19 @@ A community manager has the following responsibilities:
    * Organize and monitor Discord channels.
    * Ensure community rules are being followed.
    * Help new Discord users find the right channels & answers.
+   * Announce new Dapr releases and events.
+* Review issues & pull requests in the community repository.
 * Review and publish Dapr blog posts submitted by the community.
 * Report on community health, growth trends, and top issues to maintainers and STC.
 * Propose new partnerships with other adjacent communities to STC and manage them.
 * Manage community analytics tools, including Google Analytics, CommonRoom.io and Scarf.sh.
-* Manage the [@daprdev](https://twitter.com/daprdev) Twitter account.
+* Manage the [@daprdev](https://twitter.com/daprdev) Twitter account:
+   * Asking the community for community call topics.
+   * Announcing community calls (one day before and one hour before the call).
+   * Announcing that the recording of the community call is available on YouTube.
+   * Announcing new Dapr releases.
+   * Announcing new Dapr blog posts or CNCF case studies.
+   * Reposting relevant Dapr tweets from the community.
 * Manage the [@daprdev](https://www.youtube.com/@daprdev) YouTube account.
 
 ### Duties that require STC approval
@@ -50,8 +58,10 @@ The following community managers have been approved by the STC:
 
 | Name | GitHub Handle | Discord Handle | Company | Status | Timezone | Term Start | Term End |
 | - | - | -  | - | - | - | - | -
-| Marc Duiker | [@marcduiker](https://github.com/marcduiker) | MarcDuiker#2929 | Diagrid | Active | UTC+1/CET | Feb 15th, 2023 | Feb 15th, 2024
-| Nyemade Uversky  | [@nyemade-uversky](https://github.com/nyemade-uversky) | nuversky#2099 | Microsoft | Inactive | PST | Feb 15th, 2023 | Feb 15th, 2024
+| Annu Singh | [@AnnuCode](https://github.com/annucode) | annusingh | Nirmata | Active | UTC+5.30/IST | Jan 1st, 2024 | Jan 1st, 2025
+| Cecil Phillip | [@cecilphillip](https://github.com/cecilphillip) | cecilphillip | Stripe | Active | UTC-5/EST | Jan 1st, 2024 | Jan 1st, 2025
+| Marc Duiker | [@marcduiker](https://github.com/marcduiker) | marcduiker | Diagrid | Active | UTC+1/CET | Feb 15th, 2023 | Feb 15th, 2024
+| Nyemade Uversky  | [@nyemade-uversky](https://github.com/nyemade-uversky) | nuversky#2099 | Microsoft | Inactive | UTC-8/PST | Feb 15th, 2023 | Feb 15th, 2024
 
 ### Statuses
    * Active: Currently an active community manager.
