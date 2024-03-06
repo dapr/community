@@ -77,7 +77,7 @@ The current membership of the STC is:
 | -------------------------------------------------------------- | ---------------- | ------------  | ---------------------------------------------------- | ---------- | --------
 | <img width="30px" src="https://github.com/yaron2.png">         | Yaron Schneider  | Diagrid       | [@yaron2](https://github.com/yaron2)                 | 1st Dec 2023  | Nov 30th 2025  |
 | <img width="30px" src="https://github.com/msfussell.png">      | Mark Fussell     | Diagrid       | [@msfussell](https://github.com/msfussell)           | 1st Dec 2023  | Nov 30th 2025  |
-| <img width="30px" src="https://github.com/daxiang0.png">       | Loong Dai        | Intel         | [@daxiang0](https://github.com/daxiang0)             | 1st Dec 2023  | Nov 30th 2025  |
+| <img width="30px" src="https://github.com/daixiang0.png">      | Loong Dai        | Intel         | [@daixiang0](https://github.com/daixiang0)             | 1st Dec 2023  | Nov 30th 2025  |
 | <img width="30px" src="https://github.com/jaczhao.png">        | Qingjie Zhao     | Alibaba       | [@jackzhao](https://github.com/jaczhao)              | 1st Dec 2023  | Nov 30th 2025  |
 | <img width="30px" src="https://github.com/olitomlinson.png">   | Oli Tomlinson    | Dotmatics     | [@olitomlinson](https://github.com/olitomlinson)     | 1st Dec 2023  | Nov 30th 2025  |
 | <img width="30px" src="https://github.com/johnewart.png">      | John Ewart       | Microsoft     | [@johnewart](https://github.com/johnewart)           | 1st Dec 2023  | Nov 30th 2025  |
