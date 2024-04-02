@@ -69,9 +69,9 @@ When adding new scheduled meetings to this list:
 
 | Date & time | Agenda
 | - | -
-| Wednesday January 10<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240110T09&p1=234&msg=Dapr+Community+Call) | dapr/community#375
-| Wednesday January 24<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240124T09&p1=234&msg=Dapr+Community+Call) | dapr/community#376
-| Wednesday February 7<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240207T09&p1=234&msg=Dapr+Community+Call) | dapr/community#377
+| Wednesday Apr 3<sup>rd</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240403T09&p1=234&msg=Dapr+Community+Call) | dapr/community#375
+| Wednesday Apr 17<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240417T09&p1=234&msg=Dapr+Community+Call) | dapr/community#376
+| Wednesday May 1<sup>st</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240501T09&p1=234&msg=Dapr+Community+Call) | dapr/community#377
 
 #### China Community Meetings
 
