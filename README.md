@@ -24,18 +24,18 @@ Visit [dapr.io](https://dapr.io) for information about Dapr.
 Dapr is an open source project with an active development community.
 
 ## Communication and Discord
-We would greatly appreciate your contributions and suggestions! One of the easiest ways to contribute is to participate in Discord discussions, chat on Discord IM or join the bi-monthly community calls.
+We would greatly appreciate your contributions and suggestions! One of the easiest ways to contribute is to participate in Discord discussions, or join the bi-monthly [community calls](#community-calls).
 
 ### Questions and issues
 Reach out with any questions you may have and we'll make sure to answer them as soon as possible and as a community member feel free to jump in and answer questions.
 
 | Platform  | Link        |
 |:----------|:------------|
-| 💬 Discord (preferred) | [![Discord widget](https://discord.com/api/guilds/778680217417809931/widget.png?style=banner2)](https://aka.ms/dapr-discord)<br />https://aka.ms/dapr-discord
+| 💬 Discord (preferred) | [![Discord widget](https://discord.com/api/guilds/778680217417809931/widget.png?style=banner2)](http://bit.ly/dapr-discord)<br />http://bit.ly/dapr-discord
 | 🐤 Twitter | [@daprdev](https://twitter.com/daprdev)
 
 ### Community calls
-Every two weeks we live stream a community call on [YouTube](https://www.youtube.com/@daprdev) to showcase new features, highlight client cases studies, review upcoming milestones, and engage in a Q&A. For these community calls, anyone from the Dapr community can participate, present a topic, or host. All are welcome!
+Every two weeks we live stream a community call on [YouTube](https://www.youtube.com/@daprdev) to showcase new features, highlight client case studies, review upcoming milestones, and engage in a Q&A. For these community calls, anyone from the Dapr community can participate, present a topic, or host. All are welcome!
 
 [Issues in this community repo](https://github.com/dapr/community/issues) are used to plan the community calls and suggest topics. The next three upcoming calls are pinned as issues in this repository and can be used to submit suggestions for the call. To speak about a Dapr related topic on a community call, comment on the issue for the date you would like to present on. Alternatively, you're also welcome to use the #general channel in the [Dapr Discord server](https://bit.ly/dapr-discord) to talk about future agenda topics. The meeting agenda for each call is finalized by the community call host.
 
