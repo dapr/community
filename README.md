@@ -6,7 +6,7 @@ Welcome to the Dapr community. This is the starting point for becoming a contrib
 - [Dapr authors](#dapr-authors)
 - [Questions and issues](#questions-and-issues)
 - [Communication and Discord](#communication-and-discord)
-- [Community meetings](#community-meetings)
+- [Community calls](#community-calls)
 - [Upcoming dates](#upcoming-dates)
 - [Dapr Blog](#dapr-blog)
 - [Roles](#roles)
@@ -34,26 +34,14 @@ Reach out with any questions you may have and we'll make sure to answer them as 
 | 💬 Discord (preferred) | [![Discord widget](https://discord.com/api/guilds/778680217417809931/widget.png?style=banner2)](https://aka.ms/dapr-discord)<br />https://aka.ms/dapr-discord
 | 🐤 Twitter | [@daprdev](https://twitter.com/daprdev)
 
-### Community meetings
-Every two weeks we host a community meeting to showcase new features, review upcoming milestones, and engage in a Q&A. For community calls, anyone from the Dapr community can participate, present a topic, or host. All are welcome! 
+### Community calls
+Every two weeks we live stream a community call on [YouTube](https://www.youtube.com/@daprdev) to showcase new features, highlight client cases studies, review upcoming milestones, and engage in a Q&A. For these community calls, anyone from the Dapr community can participate, present a topic, or host. All are welcome!
 
-<!--To present a specific topic on the next Dapr community call start by filling out this short form, [Dapr community call presenter sign-up form](https://forms.gle/Aa9L8iK32J4MBkxj7).  
--->
-
-Issues in the community repo are used to suggest topics for a Dapr community. The next three upcoming community meetings are pinned as issues in this repository and can be used to enter in suggestions for the meeting. To speak about a Dapr related topic on a community call just enter your topic to the agenda issue marked for the date you would like to present on. Alternatively, you're also welcomed to use the the Discord Community Call Chat channel to talk about future agenda topics. The meeting agenda for each call is finalized by the community call host.
+[Issues in this community repo](https://github.com/dapr/community/issues) are used to plan the community calls and suggest topics. The next three upcoming calls are pinned as issues in this repository and can be used to submit suggestions for the call. To speak about a Dapr related topic on a community call, comment on the issue for the date you would like to present on. Alternatively, you're also welcome to use the #general channel in the [Dapr Discord server](https://bit.ly/dapr-discord) to talk about future agenda topics. The meeting agenda for each call is finalized by the community call host.
 
 Community members (members of the Dapr GitHub org) can nominate themselves via an issue on the dapr/community repository to be a community call host. Members become approved community call hosts when two or more existing community hosts approve their request, similar to how members and approvers get accepted today.
 
-You can always catch up offline by watching the recordings on the Dapr YouTube channel.
-
-<!--
-!!!REMINDER!!!
-Do not add passcode to the Zoom URL. 
--->
-| Asset | Link        |
-|:-----------|:------------|
-| 🔗 Meeting Link & Password | **Zoom Call:** https://zoom.us/j/92337656846<br>**Passcode:** 815623 
-| 🎥 Meeting Recordings | http://aka.ms/dapr-recordings
+You can watch community calls live on our [YouTube stream](https://www.youtube.com/@DaprDev/streams) or rewatch the recording later on the [Dapr YouTube channel](https://www.youtube.com/@daprdev).
 
 #### Upcoming dates
 
