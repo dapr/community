@@ -16,3 +16,4 @@ This file contains links to Dapr presentations given by community members. This 
 | Name | GitHub handle | Event & Year | Title & link
 | - | - | - | -
 | Marc Duiker | @marcduiker | CloudBrew 2023 | [Lights, Camera, Action! Building distributed applications with Dapr Actors](https://marcduiker.dev/articles/speaking-at-cloudbrew-2023)
+| Florian van Dillen | @fvandillen | Futuretech 2024 | [Dapr and .NET Aspire: A royal wedding](https://fvandillen.github.io/posts/speaking-at-futuretech-2024/)
