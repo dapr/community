@@ -19,7 +19,8 @@ A community manager has the following responsibilities:
    * Help new Discord users find the right channels & answers.
    * Announce new Dapr releases and events.
 * Review issues & pull requests in the community repository.
-* Review and publish Dapr blog posts submitted by the community.
+* Review and publish [Dapr blog posts](https://github.com/dapr/blog) submitted by the community.
+* Review community contributions to [presentations](presentations/README.md) and [blog posts](blogposts/README.md) and award contributors with digital badges.
 * Report on community health, growth trends, and top issues to maintainers and STC.
 * Propose new partnerships with other adjacent communities to STC and manage them.
 * Manage community analytics tools, including Google Analytics, CommonRoom.io and Scarf.sh.
@@ -60,7 +61,7 @@ The following community managers have been approved by the STC:
 | - | - | -  | - | - | - | - | -
 | Annu Singh | [@AnnuCode](https://github.com/annucode) | annusingh | Nirmata | Active | UTC+5.30/IST | Jan 1st, 2024 | Jan 1st, 2025
 | Cecil Phillip | [@cecilphillip](https://github.com/cecilphillip) | cecilphillip | Stripe | Active | UTC-5/EST | Jan 1st, 2024 | Jan 1st, 2025
-| Marc Duiker | [@marcduiker](https://github.com/marcduiker) | marcduiker | Diagrid | Active | UTC+1/CET | Feb 15th, 2023 | Feb 15th, 2024
+| Marc Duiker | [@marcduiker](https://github.com/marcduiker) | marcduiker | Diagrid | Active | UTC+1/CET | Apr 18th, 2024 | Apr 18th, 2025
 | Nyemade Uversky  | [@nyemade-uversky](https://github.com/nyemade-uversky) | nuversky#2099 | Microsoft | Inactive | UTC-8/PST | Feb 15th, 2023 | Feb 15th, 2024
 
 ### Statuses
