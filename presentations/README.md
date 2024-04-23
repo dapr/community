@@ -13,7 +13,8 @@ This file contains links to Dapr presentations given by community members. This 
 3. Create a pull request to [dapr/community](https://github.com/dapr/community) with the updated table.
 4. One of the Dapr community managers will check your PR, merge it, and reward you with a [Dapr Presenter badge](https://www.holopin.io/sticker/clt3egohs11570gjnanpizv28).
 
-| Name | GitHub handle | Event & Year | Title & link
-| - | - | - | -
-| Marc Duiker | @marcduiker | CloudBrew 2023 | [Lights, Camera, Action! Building distributed applications with Dapr Actors](https://marcduiker.dev/articles/speaking-at-cloudbrew-2023)
-| Florian van Dillen | @fvandillen | Futuretech 2024 | [Dapr and .NET Aspire: A royal wedding](https://fvandillen.github.io/posts/speaking-at-futuretech-2024/)
+| Name               | GitHub handle | Event & Year    | Title & link                                                                                                                                      |
+| ------------------ | ------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Marc Duiker        | @marcduiker   | CloudBrew 2023  | [Lights, Camera, Action! Building distributed applications with Dapr Actors](https://marcduiker.dev/articles/speaking-at-cloudbrew-2023)          |
+| Florian van Dillen | @fvandillen   | Futuretech 2024 | [Dapr and .NET Aspire: A royal wedding](https://fvandillen.github.io/posts/speaking-at-futuretech-2024/)                                          |
+| Eduard Keilholz    | @nikneem      | Futuretech 2024 | [Microservices Orchestration with Azure Container Apps](https://sessionize.com/s/eduard/microservices-orchestration-with-azure-container-a/87011) |
