@@ -12,3 +12,4 @@ This file contains links to Dapr blog posts written by community members. This f
 | Name | GitHub handle |  Title & link
 | - | - | -
 | Marc Duiker | @marcduiker | [Creating the Dapr game](https://marcduiker.dev/articles/dapr-game)
+| Nico Vermeir | @nicovermeir | [Getting started with the Dapr .NET SDK](https://nicovermeir.be/dapr/2024/04/03/dapr-dotnet-sdk-getting-started.html)
