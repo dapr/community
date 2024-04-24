@@ -14,3 +14,12 @@ This file contains links to Dapr blog posts written by community members. This f
 | Marc Duiker     | @marcduiker   | [Creating the Dapr game](https://marcduiker.dev/articles/dapr-game)                                                   |
 | Nico Vermeir    | @nicovermeir  | [Getting started with the Dapr .NET SDK](https://nicovermeir.be/dapr/2024/04/03/dapr-dotnet-sdk-getting-started.html) |
 | Eduard Keilholz | @nikneem      | [Azure Container Apps and Dapr](https://hexmaster.nl/posts/azure-container-apps-and-dapr/)                            |
+| Jose M. Flores  | @jmfloreszazo | [Dapr Workflows](https://jmfloreszazo.com/dapr-workflows/)                                                            |
+| Jose M. Flores  | @jmfloreszazo | [Dapr Tip 1#: POCO to Protobuff](https://jmfloreszazo.com/dapr-tip-1-poco-to-protobuff/)                              |
+| Jose M. Flores  | @jmfloreszazo | [Dapr Middleware](https://jmfloreszazo.com/net-6-dapr-middlewares/)                                                   |
+| Jose M. Flores  | @jmfloreszazo | [.Net6 Dapr ¿gRPC o Http](https://jmfloreszazo.com/net-6-dapr-grpc-o-http/)                                           |
+| Jose M. Flores  | @jmfloreszazo | [.Net6 Dapr Microservices: Metadata](https://jmfloreszazo.com/net-6-dapr-microservices-metadata/)                     |
+| Jose M. Flores  | @jmfloreszazo | [.Net6 Dapr: Test de Integración Azure EventHub](https://jmfloreszazo.com/net-6-dapr-test-de-integracion-azure-eventhub/) |
+| Jose M. Flores  | @jmfloreszazo | [.Net6 Dapr: Bindings](https://jmfloreszazo.com/net_dapr_microservices_bindings/)                                     |
+| Jose M. Flores  | @jmfloreszazo | [.Net6 Dapr: Patron Pub/Sub](https://jmfloreszazo.com/net-6-dapr-microservices-con-patron-pub-sub/)                   |
+| Jose M. Flores  | @jmfloreszazo | [.Net6 Dapr: Invocación Http](https://jmfloreszazo.com/net-6-dapr-microservices-con-invocacion-http/)                 |
