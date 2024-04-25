@@ -23,3 +23,5 @@ This file contains links to Dapr blog posts written by community members. This f
 | Jose M. Flores  | @jmfloreszazo | [.Net6 Dapr: Bindings](https://jmfloreszazo.com/net_dapr_microservices_bindings/)                                     |
 | Jose M. Flores  | @jmfloreszazo | [.Net6 Dapr: Patron Pub/Sub](https://jmfloreszazo.com/net-6-dapr-microservices-con-patron-pub-sub/)                   |
 | Jose M. Flores  | @jmfloreszazo | [.Net6 Dapr: Invocación Http](https://jmfloreszazo.com/net-6-dapr-microservices-con-invocacion-http/)                 |
+| Sergio Parra Guerra  | @sparraguerra | [YARP y Dapr Creando un ApiGateway para nuestros microservicios](https://www.compartimoss.com/revistas/numero-55/yarp-y-dapr-creando-un-apigateway-para-nuestros-microservicios/) |
+| Sergio Parra Guerra  | @sparraguerra | [Integrando tu Azure Notification Hub con Dapr (Http Output Binding)](https://www.compartimoss.com/revistas/numero-56/integrando-tu-azure-notification-hub-con-dapr/) |
