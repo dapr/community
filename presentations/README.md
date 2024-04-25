@@ -18,3 +18,4 @@ This file contains links to Dapr presentations given by community members. This 
 | Marc Duiker        | @marcduiker   | CloudBrew 2023  | [Lights, Camera, Action! Building distributed applications with Dapr Actors](https://marcduiker.dev/articles/speaking-at-cloudbrew-2023)          |
 | Florian van Dillen | @fvandillen   | Futuretech 2024 | [Dapr and .NET Aspire: A royal wedding](https://fvandillen.github.io/posts/speaking-at-futuretech-2024/)                                          |
 | Eduard Keilholz    | @nikneem      | Futuretech 2024 | [Microservices Orchestration with Azure Container Apps](https://sessionize.com/s/eduard/microservices-orchestration-with-azure-container-a/87011) |
+| Jose M. Flores     | @jmflorezzazo | MicUp 2022 | [Arquitectura de servicios con DAPR](https://jmfloreszazo.com/arquitectura-de-servicios-con-dapr/) |
