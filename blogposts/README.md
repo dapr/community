@@ -2,12 +2,15 @@
 
 This file contains links to Dapr blog posts written by community members. This file is used to award community members with a [Dapr Writer digital badge](https://www.holopin.io/sticker/clt3emu6c189400fjtk3prlisi).
 
+![Writer Badge](../images/dapr-writer-badge.png)
+
 ## Adding your Dapr blog post
 
 1. [Fork this repository](https://github.com/dapr/community/fork).
 2. Add a new row to the table below with your name, GitHub handle, and a markdown link to your Dapr blog post.
-3. Create a pull request to [dapr/community](https://github.com/dapr/community) with the updated table.
-4. One of the Dapr community managers will check your blog post, merge your PR, and reward you with a [Dapr Writer badge](https://www.holopin.io/sticker/clt3emu6c189400fjtk3prlisi).
+3. **Ensure to sign-off your commit**, see [Developer Certificate of Origin (DCO)](https://docs.dapr.io/contributing/contributing-overview/#developer-certificate-of-origin-signing-your-work) in the Dapr docs.
+4. Create a pull request to [dapr/community](https://github.com/dapr/community) with the updated table.
+5. One of the Dapr community managers will check your blog post, merge your PR, and reward you with a [Dapr Writer badge](https://www.holopin.io/sticker/clt3emu6c189400fjtk3prlisi).
 
 | Name            | GitHub handle | Title & link                                                                                                          |
 | --------------- | ------------- | --------------------------------------------------------------------------------------------------------------------- |

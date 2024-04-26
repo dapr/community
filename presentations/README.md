@@ -2,6 +2,8 @@
 
 This file contains links to Dapr presentations given by community members. This file is used to award community members with a [Dapr Presenter digital badge](https://www.holopin.io/sticker/clt3egohs11570gjnanpizv28).
 
+![Presenter Badge](../images/dapr-presenter-badge.png)
+
 ## Adding your Dapr presentation
 
 1. [Fork this repository](https://github.com/dapr/community/fork).
@@ -10,8 +12,9 @@ This file contains links to Dapr presentations given by community members. This 
    - your (online) slide deck
    - an event page with session details
    - a blog post that shows you spoke about Dapr at an event.
-3. Create a pull request to [dapr/community](https://github.com/dapr/community) with the updated table.
-4. One of the Dapr community managers will check your PR, merge it, and reward you with a [Dapr Presenter badge](https://www.holopin.io/sticker/clt3egohs11570gjnanpizv28).
+3. **Ensure to sign-off your commit**, see [Developer Certificate of Origin (DCO)](https://docs.dapr.io/contributing/contributing-overview/#developer-certificate-of-origin-signing-your-work) in the Dapr docs.
+4. Create a pull request to [dapr/community](https://github.com/dapr/community) with the updated table.
+5. One of the Dapr community managers will check your PR, merge it, and reward you with a [Dapr Presenter badge](https://www.holopin.io/sticker/clt3egohs11570gjnanpizv28).
 
 | Name               | GitHub handle | Event & Year    | Title & link                                                                                                                                      |
 | ------------------ | ------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
