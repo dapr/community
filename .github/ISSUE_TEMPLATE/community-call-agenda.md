@@ -1,14 +1,14 @@
 ---
-name: Community Call Meeting Agenda Issue
+name: Community Call Agenda Issue
 about: Create a new community call agenda
-title: '<date>, Community Meeting Agenda'
+title: '<date>, Community Call Agenda'
 assignees: ''
 
 ---
 
-## 📞 Dapr Community Meeting
+## 📞 Dapr Community Call Live Stream
 
-Every two weeks we host a [community meeting](../#community-meetings) to highlight community created content, showcase new features, review upcoming milestones, and engage in Q&A with the Dapr community - all are welcome, and we encourage participation.
+Every two weeks we live-stream a [community call](../#community-meetings) to highlight community created content, showcase new features, review upcoming milestones, and engage in Q&A with the Dapr community - everyone is welcome, and we encourage you to attend or give a session!
 
 The purpose of this thread is to form a discussion amongst the Dapr community on potential topics to highlight during the meeting. If you have a topic you wish to present or learn more about, please comment and be sure to include your name and a short description of the topic.
 
@@ -21,7 +21,7 @@ The purpose of this thread is to form a discussion amongst the Dapr community on
 
 The conversations in this thread will directly influence the meeting agenda for the community call on <Date>, at 9 AM PST ([See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=YYYYMMDDT09&p1=234&msg=Dapr+Community+Call)). The meeting agenda is finalized by a Community Call Host prior to the meeting.
 
-See you at the community call! 👋
+We'll be live-streaming to [YouTube](https://www.youtube.com/@DaprDev/streams). See you at the community call! 👋
 
 ## Agenda
 
@@ -63,7 +63,6 @@ See you at the community call! 👋
 
 ### After the meeting
 
-- [ ] Upload the meeting to YouTube
 - [ ] Add chapters to the video
 - [ ] Add links to the video description
   - [ ] Read-only link to slides
