@@ -39,14 +39,14 @@ An administrator might perform the following duties without requiring approval f
 
 ## Limits and Expiration
 
-The administrator role expires 6 months from the date it was approved. The process for renewal is the same as to become an administrator in the first place.
+The administrator role expires 2 years from the date it was approved. The process for renewal is the same as to become an administrator in the first place.
 
 To minimize the number of people with access to shared credentials, there can only be 3 active or suspended administrators. Adding one more requires the STC to remove another.
 
 ## Removal
 
 The administrator role is permanently removed in case any of the following:
-* Expiration of the 6 months term as administrator
+* Expiration of the term as administrator
 * Administrator is no longer a maintainer in Dapr
 * STC votes with simple majority to remove administrator
 * Administrator joins as an STC member
