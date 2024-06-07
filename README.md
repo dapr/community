@@ -1,5 +1,18 @@
 # Dapr Community
 
+[![License: Apache 2.0][apache-badge]][apache-url] [![Good First Issues][gfi-badge]][gfi-url] [![discord][discord-badge]][discord-url] [![YouTube][youtube-badge]][youtube-link] [![X/Twitter][x-badge]][x-link]
+
+[apache-badge]: https://img.shields.io/github/license/dapr/dapr?style=flat&label=License&logo=github
+[apache-url]: https://github.com/dapr/dapr/blob/master/LICENSE
+[gfi-badge]:https://img.shields.io/github/issues-search/dapr/community?query=type%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22&label=Good%20first%20issues&style=flat&logo=github
+[gfi-url]:https://github.com/dapr/community/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+[discord-badge]: https://img.shields.io/discord/778680217417809931?label=Discord&style=flat&logo=discord
+[discord-url]: http://bit.ly/dapr-discord
+[youtube-badge]:https://img.shields.io/youtube/channel/views/UCtpSQ9BLB_3EXdWAUQYwnRA?style=flat&label=YouTube%20views&logo=youtube
+[youtube-link]:https://youtube.com/@daprdev
+[x-badge]:https://img.shields.io/twitter/follow/daprdev?logo=x&style=flat
+[x-link]:https://twitter.com/daprdev
+
 Welcome to the Dapr community. This is the starting point for becoming a contributor, improving the code and docs, giving presentations and all the goodness of helping out on the project. We are a friendly, collaborative group and look forward to working together.
 
 - [Introduction](#introduction)
@@ -35,31 +48,18 @@ Reach out with any questions you may have and we'll make sure to answer them as 
 | 🐤 Twitter | [@daprdev](https://twitter.com/daprdev)
 
 ### Community calls
+
+> You can watch our community calls live on our [YouTube stream](https://www.youtube.com/@DaprDev/streams) or rewatch the recording later on the [Dapr YouTube channel](https://www.youtube.com/@daprdev).
+
 Every two weeks we live stream a community call on [YouTube](https://www.youtube.com/@daprdev) to showcase new features, highlight client case studies, review upcoming milestones, and engage in a Q&A. For these community calls, anyone from the Dapr community can participate, present a topic, or host. All are welcome!
 
 [Issues in this community repo](https://github.com/dapr/community/issues) are used to plan the community calls and suggest topics. The next three upcoming calls are pinned as issues in this repository and can be used to submit suggestions for the call. To speak about a Dapr related topic on a community call, comment on the issue for the date you would like to present on. Alternatively, you're also welcome to use the #general channel in the [Dapr Discord server](https://bit.ly/dapr-discord) to talk about future agenda topics. The meeting agenda for each call is finalized by the community call host.
 
 Community members (members of the Dapr GitHub org) can nominate themselves via an issue on the dapr/community repository to be a community call host. Members become approved community call hosts when two or more existing community hosts approve their request, similar to how members and approvers get accepted today.
 
-You can watch community calls live on our [YouTube stream](https://www.youtube.com/@DaprDev/streams) or rewatch the recording later on the [Dapr YouTube channel](https://www.youtube.com/@daprdev).
+#### Upcoming community call dates
 
-#### Upcoming dates
-
-Use the upcoming calendar events below to add the community call events to your calendar.
-
-<!--
-!!!REMINDER!!!
-
-When adding new scheduled meetings to this list:
-* make sure to update the URL for each entry too. The `iso` param should be updated following the `YYYYMMDD` format.
-* make sure the suffix is correct for the numeral: `st`, `nd`, `th` so it reads right like `22nd` and not `22th`
--->
-
-| Date & time | Agenda
-| - | -
-| Wednesday Apr 3<sup>rd</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240403T09&p1=234&msg=Dapr+Community+Call) | dapr/community#375
-| Wednesday Apr 17<sup>th</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240417T09&p1=234&msg=Dapr+Community+Call) | dapr/community#376
-| Wednesday May 1<sup>st</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240501T09&p1=234&msg=Dapr+Community+Call) | dapr/community#377
+Use this [issue query](https://github.com/dapr/community/issues?q=is%3Aissue+is%3Aopen+label%3A%22community+call%22) to check the date and agenda for the upcoming community calls.
 
 #### China Community Meetings
 
@@ -141,8 +141,6 @@ If you're looking for something to work on, read the [contribution guidelines](h
 - [Quickstarts repo](https://github.com/dapr/quickstarts/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
 And, we can always use more testing, have more and improved docs, or just write a blog post on what you have discovered whilst using Dapr.
-
-If you're a developer, read the [development guide](https://github.com/dapr/dapr/tree/master/docs/development) for help on how to get started.
 
 Finally consider achieving one of the many [roles](#roles) that are in the Dapr project.
 
