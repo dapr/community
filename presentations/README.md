@@ -28,3 +28,5 @@ This file contains links to Dapr presentations given by community members. This 
 | Laurent Kempé      | @laurentkempe | DevApps Meetup June 2021 | [Présentation de Dapr, Distributed Application Runtime, .NET SDK](https://www.youtube.com/watch?v=XtASb2tmo5c&t=119s&ab_channel=DevApps) (French)                       |
 | Christophe Gigax      | @christophegigax | DevCon #3 2022 | [Façonner les architectures du futur avec Dapr](https://www.youtube.com/watch?v=PRbcJDlLMQI) (French)                       |
 | Christophe Gigax      | @christophegigax | Cloud Nord 2023 | [Façonner les architectures du futur avec Dapr](https://www.youtube.com/watch?v=bjkW2MnBCwg) (French)                       |
+| Mathieu Benoit  | @mathieu-benoit | Dapr Community Call - Jan 10th (#96) | [Dapr + Score + Humanitec demo](https://www.youtube.com/watch?v=4gT0Y6QxinU&t=140s) |
+| Mathieu Benoit  | @mathieu-benoit | PlatformCon 2024 | [Dapr + Score: Crafting and improving your developers experience](https://platformcon.com/talks/dapr-score-crafting-and-improving-your-developers-experience) |
