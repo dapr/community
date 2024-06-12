@@ -28,3 +28,4 @@ This file contains links to Dapr blog posts written by community members. This f
 | Jose M. Flores  | @jmfloreszazo | [.Net6 Dapr: Invocación Http](https://jmfloreszazo.com/net-6-dapr-microservices-con-invocacion-http/)                 |
 | Sergio Parra Guerra  | @sparraguerra | [YARP y Dapr Creando un ApiGateway para nuestros microservicios](https://www.compartimoss.com/revistas/numero-55/yarp-y-dapr-creando-un-apigateway-para-nuestros-microservicios/) |
 | Sergio Parra Guerra  | @sparraguerra | [Integrando tu Azure Notification Hub con Dapr (Http Output Binding)](https://www.compartimoss.com/revistas/numero-56/integrando-tu-azure-notification-hub-con-dapr/) |
+| Mathieu Benoit  | @mathieu-benoit | [Dapr with Score and Humanitec — Improving the Developer Experience of your Platform, on steroids!](https://medium.com/@mabenoit/dapr-with-score-and-humanitec-developer-experience-with-your-platform-on-steroids-a848f2de0a5a) |
