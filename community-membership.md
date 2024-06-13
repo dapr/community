@@ -3,15 +3,21 @@
 
 This doc outlines the responsibilities of contributor roles in Dapr. The Dapr project is subdivided into sub-projects under (predominantly, but not exclusively) runtime (dapr), components-contrib, CLI, quickstarts, docs and language-specific SDKs. Responsibilities for roles are scoped to these sub-projects (repos).
 
+All roles are expected to follow to the [Code of Conduct](CODE-OF-CONDUCT.md).
+
 | **Role**   | **Responsibilities**                                  | **Requirements**                                             | **Defined by**                                               |
 | ---------- | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Contributor | Contribute source code, documentation or blog posts | At least one merged PR in one of the Dapr repositories. | GtiHub contributors listed per repository
 | Member     | Active contributor in the community.  Reviewer of PRs | Sponsored by two approvers or maintainers. Multiple contributions to the project. | Dapr GitHub org member                           |
 | Approver   | Approve accepting contributions                       | Highly experienced and active reviewer and contributor to a subproject. | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in GitHub |
 | Maintainer | Set direction and priorities for a subproject         | Demonstrated responsibility and excellent technical judgement for the subproject. | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners), GitHub Team and repo ownership in GitHub |
+| Administrator | Administers the GitHub Dapr org and related infrastructure         | Highly experienced Dapr maintainer | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners), GitHub Team and repo ownership in GitHub |
 
 > Note: The Steering & Technical Committee (STC) referred to in this document is described [here](./steering-and-technical-committee-charter.md)
 
 ## New contributors
+
+Everyone is welcome to contribute to Dapr. Contribution can take many forms, it could be contributing source code to the many repositories, updating documentation, writing blog posts, or helping the community by answering questions on Discord or other social channels.
 
 New contributors should be welcomed to the community by existing members, helped
 with PR workflow, and directed to relevant documentation and communication
@@ -21,12 +27,11 @@ channels.
 
 Established community members are expected to demonstrate their adherence to the
 principles in this document, familiarity with project organization, roles, policies, procedures, conventions, etc., and technical and/or writing ability.
-Role-specific expectations, responsibilities, and requirements are enumerated
-below.
+Role-specific expectations, responsibilities, and requirements are enumerated below.
 
 ## Member
 
-Members are continuously active contributors in the community. They can have issues and PRs assigned to them. Members are expected to participate in community discussions and remain active contributors to the community.  
+Members are continuously active contributors in the community. They can have issues and PRs assigned to them. Members are expected to participate in community discussions and remain active contributors to the community. 
 
 Defined by: Member of the Dapr GitHub organization
 
@@ -93,7 +98,7 @@ The following apply to the part of the codebase for which one would be an approv
   - With an approving vote of at least 2 maintainers from the repository maintainers. In the case of a repository with a solo maintainer, a single vote suffices
   - With no objections from other repository maintainers for a period of one week
   - Steering committee acts as the final resolution to any escalation
-  - Done through PR to update the `CODEOWNERS` 
+  - Done through PR to update the `CODEOWNERS`
 
 ### Responsibilities and privileges
 
@@ -139,7 +144,7 @@ New maintainers can be added to the project by a super-majority (two-thirds / 66
 Maintainers for new repositories can be nominated by any member of the steering committee and voted on in a steering committee meeting.
 Single maintainers of a repository can nominate a new maintainer and *MUST* inform the steering committee of their intention. The maintainer can be approved if no objections have been raised in a period of one week.
 
-A maintainer may step down by submitting an issue stating their intent.
+A maintainer may step down by submitting an issue to the stating their intent.
 
 ### Responsibilities and privileges
 
@@ -159,3 +164,17 @@ The following apply to the subproject(repos) for which one would be an owner:
 
 Maintainers *MUST* remain active. If they are unresponsive for >3 months, they will be automatically removed unless a super-majority of the other repository maintainers agrees to extend the period to be greater than 3 months.
 
+## Administrator
+
+An administrator is a highly experienced Dapr maintainer who has been granted additional permissions to administer the GitHub Dapr org, credentials, and CI/CD infrastructure.
+
+Administrators have access to credentials equivalent to members of the steering and technical commitee (STC). Read [Administrator Role](ADMINISTRATORS.md) for more information.
+
+### Requirements
+
+An administrator must be an active Dapr maintainer for a longer time and has deep understanding of the technologies used in Dapr and the CI/CD infrastructure.
+
+### Responsibilities and privileges
+
+- Administer the GitHub Dapr org and related CI/CD infrastructure.
+- Perform pre-approved routine maintenance duties and ad-hoc tasks delegated by the STC without making isolated decisions.
