@@ -1,10 +1,10 @@
 # Dapr Roadmap
 
-This document outlines the high-level roadmap for the Dapr project. The roadmap is subject to change and is not a commitment to deliver any specific features or timelines.
-
-[GitHub milestones](https://github.com/dapr/dapr/milestones) are created for each release and are named after the release version. GitHub issues are assigned to a milestone to track the scope and progress of a release.
+This document outlines the high-level roadmap for the Dapr project. The roadmap is subject to change and is not a commitment to deliver any specific features or timelines. The roadmap is updated every quarter, after a release.
 
 ## Releases
+
+[GitHub milestones](https://github.com/dapr/dapr/milestones) are created for each release and are named after the release version. GitHub issues are assigned to a milestone to track the scope and progress of a release.
 
 ### Current Release
 
