@@ -116,7 +116,7 @@ There are a several different roles that are available in the community.
 
 Everyone is welcome to contribute to Dapr. Contribution can take many forms, it could be contributing source code to the many repositories, updating documentation, writing blog posts, or helping the community by answering questions on Discord or other social channels.
 
-These are the various roles that are available in the Dapr community:
+These are the various contributor roles that are available in the Dapr community:
 
 - Contributor
 - Member
