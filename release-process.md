@@ -1,11 +1,25 @@
 # Release cycle and cadence 
-The Dapr project aims to release four updates in a yearly time period, typically one in each quarter (every 3 months). For example in 2022 the minor releases were Jan (1.6.0), April (1.7.0), July (1.8.0), Oct (1.9.0) and the same is expected for 2023.
+The Dapr project aims to release four updates in a yearly time period, typically one in each quarter (every 3 months). For example in 2022 the minor releases were Jan (1.6.0), April (1.7.0), July (1.8.0), Oct (1.9.0).
 
 
 <img src="images/release-cycle-diagram.png?raw=true">
 
 
-This cadence provides a balance between regular feature releases and bug fixes, giving end users time to adopt a release and providing contributors clarity on releases they can contribute towards. By having a regular “train” of releases end users and contributors can plan ahead. 
+This cadence provides a balance between regular feature releases and bug fixes, giving end users time to adopt a release and providing contributors clarity on releases they can contribute towards. By having a regular “train” of releases end users and contributors can plan ahead.
+
+Although this is the desired candence, imbalance between scope and availability of contributors and maintainers might impact the number of releases in a given year. Maintainers might decide to reduce the number of releases in order to have more time to finish high priority improvements.
+
+## Versioning, tagging and branching
+
+All release artifacts must follow [Semantic Versioning](https://semver.org). Each release milestone increments the minor version. In exceptional cases, the major version can be increased too.
+
+See our documentation on [versioning policy](https://docs.dapr.io/operations/support/support-versioning).
+
+At code freeze of a release milestone, the master (or main) branch is forked into a branch named `release-<MAJOR>.<MINOR>`, which lives forever. To trigger a release candidate or a release, tagging should happen in the correspondig release branch. For example, to release version `1.2.3`, the tag `v1.2.3` must be cut out of the `release-1.2` branch.
+
+Hotfixes should also be applied directly into each of the impacted release branches. Then, the fix can be merged back into master (or main) branch or cherry-picked.
+
+Ideally, a release should be 100% automated and require only the tag to be pushed upstream.
 
 ## Release milestone
 The Dapr project is under continuous development addressing issues for both bugs on existing features and new features. Features go through a lifecycle from proposal, design, code, test, docs, and often quickstart and SDKs deliverables. Feature proposals can be raised and reviewed by the community and maintainers at any time. 
@@ -39,8 +53,7 @@ On assignment, the release team lead and shadow(s) are included into the Github 
 - [ ] Communicating status to the community on an on-going basis.
 
 
-[
-- Read about the K8s release team selection [here](https://github.com/kubernetes/sig-release/blob/master/release-team/release-team-selection.md#selection-criteria)]
+As a reference, find the K8s release team selection [here](https://github.com/kubernetes/sig-release/blob/master/release-team/release-team-selection.md#selection-criteria)
 
 ## Feature definition phase (~2 weeks)
 With ongoing feature definition, some set of issues will bubble up as targeting a given release. In this phase, a set of feature proposals and significant design changes to existing features are reviewed where contributors are able to dedicate time to completing the issue or starting an issue for a future release. 
