@@ -1,6 +1,5 @@
 # Release cycle and cadence 
-The Dapr project aims to release four updates in a yearly time period, typically one in each quarter (every 3 months). For example in 2022 the minor releases were Jan (1.6.0), April (1.7.0), July (1.8.0), Oct (1.9.0) and the same is expected for 2023.
-
+The Dapr project aims to release four updates in a yearly time period, typically one in each quarter (every 3 months).
 
 <img src="images/release-cycle-diagram.png?raw=true">
 
@@ -39,8 +38,7 @@ On assignment, the release team lead and shadow(s) are included into the Github 
 - [ ] Communicating status to the community on an on-going basis.
 
 
-[
-- Read about the K8s release team selection [here](https://github.com/kubernetes/sig-release/blob/master/release-team/release-team-selection.md#selection-criteria)]
+Read about the K8s release team selection [here](https://github.com/kubernetes/sig-release/blob/master/release-team/release-team-selection.md#selection-criteria).
 
 ## Feature definition phase (~2 weeks)
 With ongoing feature definition, some set of issues will bubble up as targeting a given release. In this phase, a set of feature proposals and significant design changes to existing features are reviewed where contributors are able to dedicate time to completing the issue or starting an issue for a future release. 
