@@ -1,7 +1,6 @@
 # Release cycle and cadence 
 The Dapr project aims to release four updates in a yearly time period, typically one in each quarter (every 3 months).
 
-
 <img src="images/release-cycle-diagram.png?raw=true">
 
 
