@@ -1,5 +1,5 @@
 # Release cycle and cadence 
-The Dapr project aims to release four updates in a yearly time period, typically one in each quarter (every 3 months). For example in 2022 the minor releases were Jan (1.6.0), April (1.7.0), July (1.8.0), Oct (1.9.0).
+The Dapr project aims to release four updates in a yearly time period, typically one in each quarter (every 3 months).
 
 
 <img src="images/release-cycle-diagram.png?raw=true">
