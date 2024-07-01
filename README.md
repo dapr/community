@@ -112,21 +112,35 @@ The [Dapr blog](https://blog.dapr.io/posts) has regular posts on releases, techn
 
 There are a several different roles that are available in the community.
 
-### Community membership
-There are various contributor roles in the Dapr community that you are strongly encouraged to be part of. Read [Community membership](community-membership.md)
-for more information.
+### Community membership roles
 
-### Release team
+Everyone is welcome to contribute to Dapr. Contribution can take many forms, it could be contributing source code to the many repositories, updating documentation, writing blog posts, or helping the community by answering questions on Discord or other social channels.
+
+These are the various contributor roles that are available in the Dapr community:
+
+- Contributor
+- Member
+- Approver
+- Maintainer
+- Administrator
+
+These roles are described in detail in [Community membership](community-membership.md).
+
+### Special roles
+
+Outside of the regular contributor roles, there are a few special roles that are available in the Dapr project.
+
+#### Release team
+
 At the start of a milestone a release team is chosen. The release team has the responsibility of enforcing processes to ensure the release is successfully delivered.  Read about the [Release process](https://github.com/dapr/community/blob/master/release-process.md#release-team)
 for more information.
 
-### Steering committee member
+#### Steering committee member
+
 The Dapr project has a single governance body called the Steering and Technical Committee (STC). The STC is responsible for the health of the Dapr community and for overall technical oversight. Read [Steering and Technical Committee (STC)](steering-and-technical-committee-charter.md)for more information.
 
-### Administrator Role
-Administrators have access to credentials equivalent to members of the steering and technical commitee (STC) and are responsible to perform pre-approved routine maintenance duties and ad-hoc tasks delegated by the STC without making isolated decisions. Read [Administrator Role](ADMINISTRATORS.md) for more information.
+#### Community manager
 
-### Community Manager Role
 Community managers are responsible for managing many aspects of the Dapr community. The role is to engage and promote the Dapr community and have someone that the community can reach out to for guidance. Read [Community Manager](COMMUNITY-MANAGER.md) for more information.
 
 ## How can I get involved?
