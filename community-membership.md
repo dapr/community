@@ -118,6 +118,12 @@ The following apply to the part of the codebase for which one would be an approv
 
 Feature-maintainers are the technical authority for a feature or specialized area of the project/repository in the Dapr org. They *MUST* have demonstrated both good judgement and responsibility towards the health of that space. Feature Maintainers can set technical direction and make or approve design decisions for their designated space.
 
+Feature-maintainers have binding vote only in proposals and changes that affect their designated space.
+
+Feature-maintainers don't have binding vote to grant or revoke approver or maintainer status.
+
+Feature-maintainers have binding vote to grant or revoke feature-maintainer status for others in their designated space.
+
 Defined by: GitHub write permission in repository and entry in `CODEOWNERS` files.
 
 ### Requirements
