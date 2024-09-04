@@ -14,6 +14,7 @@ This file contains links to Dapr blog posts written by community members. This f
 
 | Name            | GitHub handle | Title & link                                                                                                          |
 | --------------- | ------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Fernando Rocha  | @rochabr      | [Dapr and Service Meshes - Better Together](https://diagrid-dev.webflow.io/blog/dapr-service-mesh-what-are-they-how-do-they-complement-each-other-for-distributed-apps) |
 | Marc Duiker     | @marcduiker   | [Creating the Dapr game](https://marcduiker.dev/articles/dapr-game)                                                   |
 | Nico Vermeir    | @nicovermeir  | [Getting started with the Dapr .NET SDK](https://nicovermeir.be/dapr/2024/04/03/dapr-dotnet-sdk-getting-started.html) |
 | Eduard Keilholz | @nikneem      | [Azure Container Apps and Dapr](https://hexmaster.nl/posts/azure-container-apps-and-dapr/)                            |
