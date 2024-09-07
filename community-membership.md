@@ -9,8 +9,9 @@ All roles are expected to follow to the [Code of Conduct](CODE-OF-CONDUCT.md).
 | ---------- | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Contributor | Contribute source code, documentation or blog posts | At least one merged PR in one of the Dapr repositories. | GtiHub contributors listed per repository
 | Member     | Active contributor in the community.  Reviewer of PRs | Sponsored by two approvers or maintainers. Multiple contributions to the project. | Dapr GitHub org member                           |
-| Approver   | Approve accepting contributions                       | Highly experienced and active reviewer and contributor to a subproject. | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in GitHub |
-| Maintainer | Set direction and priorities for a subproject         | Demonstrated responsibility and excellent technical judgement for the subproject. | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners), GitHub Team and repo ownership in GitHub |
+| Approver   | Approve accepting contributions                       | Highly experienced and active reviewer and contributor to a subproject. | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners), GitHub Team and repository write access in GitHub |
+| Feature Maintainer | Set direction and priorities for a feature or a specialized area of project/repo         | Demonstrated responsibility and excellent technical judgement in the area. | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners), GitHub Team and repository write access in GitHub |
+| Maintainer | Set direction and priorities for a repository         | Demonstrated responsibility and excellent technical judgement for the repository's code base. | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners), GitHub Team and repository ownership in GitHub |
 | Administrator | Administers the GitHub Dapr org, credentials, and related infrastructure         | Highly experienced Dapr maintainer | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners), GitHub Team and repo ownership in GitHub |
 
 > Note: The Steering & Technical Committee (STC) referred to in this document is described [here](./steering-and-technical-committee-charter.md)
@@ -64,8 +65,7 @@ Defined by: Member of the Dapr GitHub organization
 ### Responsibilities and privileges
 
 - Responsive to issues and PRs assigned to them
-- Active owner of code contributed by them (unless ownership is explicitly
-  transferred)
+- Active owner of code contributed by them (unless ownership is explicitly transferred)
   - Code is well tested
   - Tests consistently pass
   - Addresses bugs or issues discovered after code is accepted
@@ -76,7 +76,7 @@ Defined by: Member of the Dapr GitHub organization
 
 ## Approver
 
-Code approvers are able to both review and approve code contributions, as well as help maintainers triage issues and do project management.
+Code approvers should review and approve code contributions, as well as help maintainers triage issues and do project management.
 
 While code review is focused on code quality and correctness, approval is
 focused on holistic acceptance of a contribution including: backwards/forwards
@@ -112,18 +112,86 @@ The following apply to the part of the codebase for which one would be an approv
 - Expected to be responsive to review requests (inactivity for more than 1 month may result in suspension until active again)
 - Mentor contributors and reviewers
 - May approve code contributions for acceptance
-- Inactivity for more than 3 months leads to a removal vote by other maintainers/approvers and not an automatic removal
+- Inactivity for more than 3 months leads to a removal vote by maintainers and not an automatic removal
+
+## Feature-maintainer
+
+Feature-maintainers are the technical authority for a feature or specialized area of the project/repository in the Dapr org. They *MUST* have demonstrated both good judgement and responsibility towards the health of that space. Feature Maintainers can set technical direction and make or approve design decisions for their designated space.
+
+Feature-maintainers have binding vote only in proposals and changes that affect their designated space.
+
+Feature-maintainers don't have binding vote to grant or revoke approver or maintainer status.
+
+Feature-maintainers have binding vote to grant or revoke feature-maintainer status for others in their designated space.
+
+Defined by: GitHub write permission in repository and entry in `CODEOWNERS` files.
+
+### Requirements
+
+The following apply to the area (ex: building block API/ Control plane service/ Component provider) for which one would be a feature-maintainer:
+
+- Deep understanding of the technical goals and direction of the area.
+- Deep understanding of the technical domain (specifically the language) of the area
+- Sustained contributions to design and direction by doing all of:
+  - Authoring and reviewing proposals
+  - Initiating, contributing and resolving discussions (Discord discussions, GitHub issues, meetings)
+  - Identifying subtle or complex issues in designs and implementation PRs
+- Directly contributed to the space through implementation and/or review
+- Must have been active for 3 months or more for the given space
+- Inactivity for more than 3 months leads to a removal vote by the repository maintainers and not an automatic removal.
+
+
+### Acceptance
+
+New feature-maintainers can be added to the project by a super-majority (two-thirds / 66.66%) vote. Only the maintainers (not feature-maintainers) of the repository in which the nomination is applied have a binding vote, while maintainers from other repositories are on an informed basis via a separate email thread.
+
+A potential feature-maintainer may be nominated by an existing maintainer (not feature-maintainers) from the repository in which the nomination is applied to. A vote is conducted in private between the current maintainers over the course of a one week voting period. At the end of the week, votes are counted, and a pull request is made on the repo adding the new feature-maintainer to the feature-maintainers.md file.
+
+Feature-maintainers MUST remain active. Inactivity for more than 3 months leads to a removal vote by maintainers and not an automatic removal
+
+A feature-maintainer may step down by submitting an issue stating their intent.
+
+Former feature-maintainers of a repository must be mentioned in the repository's README.md file, containing their name and GitHub handle under a section called "Emeritus feature-maintainers".
+
+### Example of feature areas in DAPR Runtime repo:
+
+- Workflow
+- Distributed Scheduler
+- Placement
+- Actors
+- PubSub
+- Tracing
+
+### Responsibilities and privileges
+
+The following applies to the area(ex: building block API/ Control plane service/ Component provider) for which the feature-maintainer would be an owner:
+
+- Make and approve technical design decisions for the area
+- Set technical direction and priorities for the area.
+- Define milestones and releases working along with the maintainers
+- Decides on when PRs are merged to control the release scope
+- Mentor and guide approvers and contributors of the area
+- Escalate approver and maintainer workflow concerns. (For example responsiveness, availability, and general contributor community health) to the STC
+- Ensure continued health of area:
+  - Adequate test coverage to confidently release
+  - Tests are passing reliably (not flaky) and are fixed when they fail.
+  - Work with other feature-maintainers & maintainers to maintain the project's overall health and success holistically.
+- Membership tracked in feature-maintainer.md entry and scoped to a area.
+- Must maintain components, review, and approve proposals for enhancing areas falling under the user area.
+- Actively participate in issue triages and PR reviews
+- Set milestone priorities for the areas working with the repo maintainers.
+- Ensure a healthy process for discussion and decision making is in place
 
 ## Maintainer
 
-Maintainers are the technical authority for a subproject in the Dapr org. They *MUST* have demonstrated both good judgement and responsibility towards the health of that subproject. Maintainers *MUST* set technical direction and make or approve design decisions for their subproject - either directly or through delegation of these responsibilities.
+Maintainers are the technical authority for a repository in the Dapr org. They *MUST* have demonstrated both good judgement and responsibility towards the health of that repository. Maintainers *MUST* set technical direction and make or approve design decisions for their repository - either directly or through delegation of these responsibilities to approvers or feature maintainers.
 
 Defined by: GitHub organization ownership, permissions and entry in `CODEOWNERS`
 files.
 
 ### Requirements
 
-The following apply to the subproject for which one would be an owner:
+The following apply to the repository for which one would be an owner:
 
 - Deep understanding of the technical goals and direction of the subproject
 - Deep understanding of the technical domain (specifically the language) of the
@@ -142,9 +210,11 @@ The following apply to the subproject for which one would be an owner:
 New maintainers can be added to the project by a super-majority (two-thirds / 66.66%) vote. Only the maintainers of the repository in which the nomination is applied to have a binding vote, while maintainers from other repositories are on an informed basis via a separate email thread. A potential maintainer may be nominated by an existing maintainer from the repository in which the nomination is applied to. A vote is conducted in private between the current maintainers over the course of a one week voting period. At the end of the week, votes are counted and a pull request is made on the repo adding the new maintainer to the CODEOWNERS file.
 
 Maintainers for new repositories can be nominated by any member of the steering committee and voted on in a steering committee meeting.
-Single maintainers of a repository can nominate a new maintainer and *MUST* inform the steering committee of their intention. The maintainer can be approved if no objections have been raised in a period of one week.
+Single maintainers of a repository can nominate a new maintainer and *MUST* inform the steering committee of their intention. A new maintainer can be approved if no objections have been raised in a period of one week.
 
 A maintainer may step down by submitting an issue to the stating their intent.
+
+Former maintainers of a repository must be mentioned in the repository's README.md file, containing their name and GitHub handle under a section called "Emeritus maintainers".
 
 ### Responsibilities and privileges
 
@@ -162,7 +232,7 @@ The following apply to the subproject(repos) for which one would be an owner:
 - Ensure a healthy process for discussion and decision making is in place
 - Work with other maintainers to maintain the project's overall health and success holistically
 
-Maintainers *MUST* remain active. If they are unresponsive for >3 months, they will be automatically removed unless a super-majority of the other repository maintainers agrees to extend the period to be greater than 3 months.
+Maintainers *MUST* remain active. If they are unresponsive for >3 months, a maintainer might start a removal voting process, requiring a super-majority of the other maintainers of the given repository or STC to approve removal.
 
 ## Administrator
 
