@@ -1,6 +1,6 @@
 # Dapr Roadmap
 
-This document outlines the high-level roadmap for the Dapr project. The roadmap is subject to change and is not a commitment to deliver any specific features or timelines. The roadmap is updated every quarter, after a release and during the planning phase.
+This document outlines the high-level roadmap for the Dapr project. The roadmap is subject to change and is not a commitment to deliver any specific features or timelines. The roadmap is updated after every release and during the planning phase.
 
 ## Releases
 
