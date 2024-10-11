@@ -36,7 +36,7 @@ Stable APIs are guaranteed to not be removed. During the transition from Alpha t
 
 ### Current Release
 
-The current Dapr release is v1.14. Details can be found in the [release notes](https://github.com/dapr/dapr/releases/tag/v1.13.0).
+The current Dapr release is v1.14. Details can be found in the [release notes](https://github.com/dapr/dapr/releases/tag/v1.14.0).
 
 ### Next Release
 
