@@ -23,6 +23,13 @@ The guidelines above are true for every repository in the Dapr org. The main del
 2. Security requirements - Dapr maintainers will audit the component to make sure all dependencies are aligned with our FOSSA requirements
 3. License requirements - Dapr maintainers will audit the component to ensure it has a compatible license that passes the project's license checks
 
+#### Removal of issues from the the roadmap
+
+Maintainers may remove issues from the milestone at any point due to the following:
+
+1. During the design and/or implementation phase of an item, an unexpected problem was found that would jeopordize the release. In such a case, the issue is moved to the next milestone.
+2. The assigned community member to resolve the issue is unable to complete the work until the milestone's code freeze deadline. If the item is labeled P1 or P2, it will be moved to the next milestone. If it is labeled a P0, maintainers will ensure the work is completed and the milestone deadline may be extended to support this.
+
 #### Feature removal for components
 
 A Dapr component may be removed if one or more of the following conditions are made true:
