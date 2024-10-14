@@ -2,7 +2,6 @@
 
 This is the list of maintainers for all Dapr repositories, in alphabetical order:
 
-- Alessandro Segala (Microsoft) [@ItalyPaleAle](https://github.com/ItalyPaleAle)
 - Annu Singh (Nirmata) [@annucode](https://github.com/annucode) (non voting)
 - Artur Souza (Diagrid) [@artursouza](https://github.com/artursouza)
 - Bernd Verst (Microsoft) [@berndverst](https://github.com/berndverst)
@@ -14,12 +13,11 @@ This is the list of maintainers for all Dapr repositories, in alphabetical order
 - Long Dai (Intel) [@daixiang0](https://github.com/daixiang0)
 - Marc Duiker (Diagrid) [@marcduiker](https://github.com/marcduiker) (non voting)
 - Mark Fussell (Diagrid) [@msfussell](https://github.com/msfussell)
+- Mauricio Salatino (Diagrid) [@salaboy](https://github.com/salaboy)
 - Mike Nguyen (Independent) [@mikeee](https://github.com/mikeee)
 - Mukundan Sundararajan (Microsoft) [@mukundansundar](https://github.com/mukundansundar)
 - Nick Greenfield (Microsoft) [@greenie-msft](https://github.com/greenie-msft)
 - Paul Yuknewicz (Microsoft) [@paulyuk](https://github.com/paulyuk)
 - Phillip Hoff (Microsoft) [@philliphoff](https://github.com/philliphoff)
 - Rob Landers (Automattic) [@withinboredom](https://github.com/withinboredom)
-- Shubham Sharma (Microsoft) [@shubham1172](https://github.com/shubham1172)
-- Xavier Geernick (Proximus) [@XavierGeerinck](https://github.com/XavierGeerinck)
 - Yaron Schneider (Diagrid) [@yaron2](https://github.com/yaron2)
