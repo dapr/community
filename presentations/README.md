@@ -32,3 +32,4 @@ This file contains links to Dapr presentations given by community members. This 
 | Christophe Gigax      | @christophegigax | Cloud Nord 2023 | [Façonner les architectures du futur avec Dapr](https://www.youtube.com/watch?v=bjkW2MnBCwg) (French)                       |
 | Mathieu Benoit  | @mathieu-benoit | Dapr Community Call - Jan 10th (#96) | [Dapr + Score + Humanitec demo](https://www.youtube.com/watch?v=4gT0Y6QxinU&t=140s) |
 | Mathieu Benoit  | @mathieu-benoit | PlatformCon 2024 | [Dapr + Score: Crafting and improving your developers experience](https://platformcon.com/talks/dapr-score-crafting-and-improving-your-developers-experience) |
+| Whit Waldo | @whitwaldo | Dapr Day - Fall 2024 | [Building Real-World Applications with Dapr: A Developer's Journey](https://www.youtube.com/live/9pjpDmIT-S0?si=iV8adLOeUkNNNXSH&t=13489) |
