@@ -20,4 +20,5 @@ This is the list of maintainers for all Dapr repositories, in alphabetical order
 - Paul Yuknewicz (Microsoft) [@paulyuk](https://github.com/paulyuk)
 - Phillip Hoff (Microsoft) [@philliphoff](https://github.com/philliphoff)
 - Rob Landers (Automattic) [@withinboredom](https://github.com/withinboredom)
+- Whit Waldo (Innovian) [@WhitWaldo](https://github.com/WhitWaldo)
 - Yaron Schneider (Diagrid) [@yaron2](https://github.com/yaron2)
