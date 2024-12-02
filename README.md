@@ -20,7 +20,7 @@ Welcome to the Dapr community. This is the starting point for becoming a contrib
 - [Questions and issues](#questions-and-issues)
 - [Communication and Discord](#communication-and-discord)
 - [Community calls](#community-calls)
-- [Upcoming dates](#upcoming-dates)
+- [Upcoming dates](#upcoming-community-call-dates)
 - [Dapr Blog](#dapr-blog)
 - [Roles](#roles)
 - [How can I get involved?](#how-can-i-get-involved)
