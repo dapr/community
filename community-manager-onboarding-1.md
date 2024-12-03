@@ -39,15 +39,11 @@ https://github.com/cncf/foundation/blob/main/project-maintainers.csv).
     ,,<Full name>,<Company>,<GitHub username>,
     ```
 
-1. An email need to be sent to _cncf-maintainer-changes@cncf.io_ with the name and email of the new community manager.
+2. Create a ticket at the [CNCF Service Desk](https://cncfservicedesk.atlassian.net/servicedesk/customer/portals), select the Program Management category and submit the name and email of the new community manager.
 
 ### 1Password
 
-The community manager requires access to these logins in 1Password:
-
-- Twitter
-- Google
-- Zoom (CNCF)
+The community manager requires access to the Community Outreach vault in 1Password.
 
 - Send an invite to the new Community Manager to join the Dapr 1Password account:
   - In the 1Password menu go to Invitations -> Invite by email.
