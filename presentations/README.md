@@ -35,4 +35,5 @@ This file contains links to Dapr presentations given by community members. This 
 | Mathieu Benoit  | @mathieu-benoit | PlatformCon 2024 | [Dapr + Score: Crafting and improving your developers experience](https://platformcon.com/talks/dapr-score-crafting-and-improving-your-developers-experience) |
 | Whit Waldo | @whitwaldo | Dapr Day - Fall 2024 | [Building Real-World Applications with Dapr: A Developer's Journey](https://www.youtube.com/live/9pjpDmIT-S0?si=iV8adLOeUkNNNXSH&t=13489) |
 | Harry Kimpel | @harrykimpel | Dapr Day - Fall 2024 | [Dapr and .NET Aspire – A New Era for Observability](https://youtu.be/9pjpDmIT-S0?t=8890) |
-| Whit Waldo | @whitwaldo | AppDeveloperCon NA 2024 | [Building Real-World Applications with Dapr: A Startup Developer's Journey](https://www.youtube.com/watch?v=w2DWTZE5ilU&list=PLj6h78yzYM2NtnoIEBYp6Kw1y1P2WaixQ&index=8) |
+| Whit Waldo | @whitwaldo | AppDeveloperCon NA 2024 | [Building Real-World Applications with Dapr: A Startup Developer's Journey](https://www.youtube.com/watch?v=w2DWTZE5ilU&list=PLj6h78yzYM2NtnoIEBYp6Kw1y1P2WaixQ&index=8) 
+| Marc Klefter | @marcklefter | NDC Oslo 2024 | [Dapr in Practice](https://www.youtube.com/watch?v=h96cj2DOZVE)
