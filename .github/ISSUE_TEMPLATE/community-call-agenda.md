@@ -3,7 +3,7 @@ name: Community Call Agenda Issue
 about: Create a new community call agenda
 title: '<date>, Community Call Agenda'
 assignees: ''
-label: 'community call'
+label: ["community call"]
 ---
 
 ## 📞 Dapr Community Call Live Stream
