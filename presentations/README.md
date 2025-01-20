@@ -37,3 +37,4 @@ This file contains links to Dapr presentations given by community members. This 
 | Harry Kimpel | @harrykimpel | Dapr Day - Fall 2024 | [Dapr and .NET Aspire – A New Era for Observability](https://youtu.be/9pjpDmIT-S0?t=8890) |
 | Whit Waldo | @whitwaldo | AppDeveloperCon NA 2024 | [Building Real-World Applications with Dapr: A Startup Developer's Journey](https://www.youtube.com/watch?v=w2DWTZE5ilU&list=PLj6h78yzYM2NtnoIEBYp6Kw1y1P2WaixQ&index=8) 
 | Marc Klefter | @marcklefter | NDC Oslo 2024 | [Dapr in Practice](https://www.youtube.com/watch?v=h96cj2DOZVE)
+| Manuel Zapf | @SantoDE | KCD Denkmark 2024 | [A Deep Dive into Cilium and Dapr Integration](https://www.youtube.com/watch?v=8_69ub3deD8)
