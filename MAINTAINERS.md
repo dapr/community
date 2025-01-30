@@ -7,6 +7,7 @@ This is the list of maintainers for all Dapr repositories, in alphabetical order
 - Bernd Verst (Microsoft) [@berndverst](https://github.com/berndverst)
 - Cecil Phillip (Stripe) [@cecilphillip](https://github.com/cecilphillip) (non voting)
 - Deepanshu Agarwal (Microsoft) [@DeepanshuA](https://github.com/DeepanshuA)
+- Elena Kolevska (Diagrid) [@elena-kolevska](https://github.com/elena-kolevska)
 - Hannah Hunter (Microsoft) [@hhunter-ms](https://github.com/hhunter-ms)
 - Hal Spang (Microsoft) [@halspang](https://github.com/halspang)
 - Josh van Leeuwen (Diagrid) [@JoshVanL](https://github.com/JoshVanL)
