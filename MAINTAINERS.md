@@ -5,6 +5,7 @@ This is the list of maintainers for all Dapr repositories, in alphabetical order
 - Annu Singh (Nirmata) [@annucode](https://github.com/annucode) (non voting)
 - Artur Souza (Diagrid) [@artursouza](https://github.com/artursouza)
 - Bernd Verst (Microsoft) [@berndverst](https://github.com/berndverst)
+- Cassie Coyle (Diagrid) [@cicoyle](https://github.com/cicoyle)
 - Cecil Phillip (Stripe) [@cecilphillip](https://github.com/cecilphillip) (non voting)
 - Deepanshu Agarwal (Microsoft) [@DeepanshuA](https://github.com/DeepanshuA)
 - Elena Kolevska (Diagrid) [@elena-kolevska](https://github.com/elena-kolevska)
