@@ -39,3 +39,4 @@ This file contains links to Dapr presentations given by community members. This 
 | Marc Klefter | @marcklefter | NDC Oslo 2024 | [Dapr in Practice](https://www.youtube.com/watch?v=h96cj2DOZVE)
 | Manuel Zapf | @SantoDE | KCD Denkmark 2024 | [A Deep Dive into Cilium and Dapr Integration](https://www.youtube.com/watch?v=8_69ub3deD8)
 | Walter Silvestre Coan | @waltercoan | Microsoft Reactor São Paulo  | [Connecting PLC using Modbus and Dapr to Azure IoT Operations](https://www.youtube.com/watch?v=77kdnWY5Mck) 
+| William Liebenberg | @william-liebenberg | Azure Builders Melbourne 2025 | [Dapr Transactional Outbox with ASP.NET applications](https://www.linkedin.com/posts/william-liebenberg_dapr-aspire-activity-7310259210594697216-QGK9)
