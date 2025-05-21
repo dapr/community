@@ -2,6 +2,7 @@
 
 This is the list of maintainers for all Dapr repositories, in alphabetical order:
 
+- Artur Ciocanu (Adobe Inc) [@artur-ciocanu](https://github.com/artur-ciocanu)
 - Artur Souza (Diagrid) [@artursouza](https://github.com/artursouza)
 - Bernd Verst (Microsoft) [@berndverst](https://github.com/berndverst)
 - Cassie Coyle (Diagrid) [@cicoyle](https://github.com/cicoyle)
