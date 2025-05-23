@@ -18,7 +18,6 @@ This is the list of maintainers for all Dapr repositories, in alphabetical order
 - Mark Fussell (Diagrid) [@msfussell](https://github.com/msfussell)
 - Mauricio Salatino (Diagrid) [@salaboy](https://github.com/salaboy)
 - Mike Nguyen (Independent) [@mikeee](https://github.com/mikeee)
-- Mukundan Sundararajan (Microsoft) [@mukundansundar](https://github.com/mukundansundar)
 - Nick Greenfield (Microsoft) [@greenie-msft](https://github.com/greenie-msft)
 - Paul Yuknewicz (Microsoft) [@paulyuk](https://github.com/paulyuk)
 - Phillip Hoff (Microsoft) [@philliphoff](https://github.com/philliphoff)
