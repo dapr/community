@@ -18,6 +18,7 @@ This file contains links to Dapr presentations given by community members. This 
 
 | Name               | GitHub handle | Event & Year    | Title & link                                                                                                                                      |
 | ------------------ | ------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Walter Silvestre Coan | @waltercoan   | devTEC 2025 - Tubarão/SC - Brazil  | [Building cloud native applications with Dapr](https://github.com/waltercoan/devtec2025-dapr-cncf-app) [📺](https://www.youtube.com/watch?v=Wb-5k_BSwmQ)          |
 | Roberto Rodriguez | @Cyb3rWard0g | Dapr Day 2024 | [Floki: Building Agentic Workflows with Dapr](https://www.canva.com/design/DAGTv8zBp5o/3x_pWYjjncCgIJbeCKahmA/edit?utm_content=DAGTv8zBp5o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 | Fernando Rocha    | @rochabr   | CNCF Vancoucer 2024  | [Building secure and reliable distributed applications with Dapr](https://community.cncf.io/events/details/cncf-vancouver-presents-2024-cloud-native-vancouver-kickoff/) |
 | Walter Silvestre Coan | @waltercoan   | The Developer's Conference 2024 - Florianópolis  | [How Dapr (Distributed Application Runtime) can simplify application development in microservices](https://github.com/waltercoan/tdcflorianopolis2024-dapr)          |
