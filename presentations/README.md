@@ -40,3 +40,5 @@ This file contains links to Dapr presentations given by community members. This 
 | Manuel Zapf | @SantoDE | KCD Denkmark 2024 | [A Deep Dive into Cilium and Dapr Integration](https://www.youtube.com/watch?v=8_69ub3deD8)
 | Walter Silvestre Coan | @waltercoan | Microsoft Reactor São Paulo  | [Connecting PLC using Modbus and Dapr to Azure IoT Operations](https://www.youtube.com/watch?v=77kdnWY5Mck) 
 | William Liebenberg | @william-liebenberg | Azure Builders Melbourne 2025 | [Dapr Transactional Outbox with ASP.NET applications](https://www.linkedin.com/posts/william-liebenberg_dapr-aspire-activity-7310259210594697216-QGK9)
+| Siri Varma Vegiraju | @siri-varma | Dapr Day - Fall 2024 | [Processing one million data points daily with Dapr](https://www.diagrid.io/videos/dapr-day-processing-one-million-data-points-daily-with-dapr)
+| Siri Varma Vegiraju | @siri-varma | Conf42 - Cloud Native | [Enhancing Workflow Reliability with Dapr](https://www.conf42.com/Cloud_Native_2025_Siri_Varma_Vegiraju_workflow_dapr_failure)

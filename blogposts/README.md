@@ -39,3 +39,5 @@ This file contains links to Dapr blog posts written by community members. This f
 | Simon Headley | @KrylixZA | [Building event-driven systems at scale in Kubernetes with Dapr — Part II: How does Dapr work?](https://headleysj.medium.com/building-event-driven-systems-at-scale-in-kubernetes-with-dapr-part-2-how-does-dapr-work-732ba7a0d652) |
 | Simon Headley | @KrylixZA | [Building event-driven systems at scale in Kubernetes with Dapr — Part III: What does “at scale” really mean?](https://headleysj.medium.com/building-event-driven-systems-at-scale-in-kubernetes-with-dapr-part-iii-what-does-at-scale-7c15dfa64338) |
 | Rakesh M R | @rakeshmr-message | [Dealing with the Complexity of Monolith to Microservices Migration using Dapr](https://medium.com/@rakesh.mr.0341/dealing-with-the-complexity-of-monolith-to-microservices-migration-using-dapr-25613215455c) |
+| Siri Varma Vegiraju | @siri-varma | [Curating Efficient Dapr Workflows](https://dzone.com/articles/curating-efficient-dapr-workflows) |
+| Siri Varma Vegiraju | @siri-varma | [Securing Conversations with LLM](https://dzone.com/articles/securing-conversations-with-llms) |
