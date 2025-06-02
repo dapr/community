@@ -43,3 +43,4 @@ This file contains links to Dapr presentations given by community members. This 
 | William Liebenberg | @william-liebenberg | Azure Builders Melbourne 2025 | [Dapr Transactional Outbox with ASP.NET applications](https://www.linkedin.com/posts/william-liebenberg_dapr-aspire-activity-7310259210594697216-QGK9)
 | Siri Varma Vegiraju | @siri-varma | Dapr Day - Fall 2024 | [Processing one million data points daily with Dapr](https://www.diagrid.io/videos/dapr-day-processing-one-million-data-points-daily-with-dapr)
 | Siri Varma Vegiraju | @siri-varma | Conf42 - Cloud Native | [Enhancing Workflow Reliability with Dapr](https://www.conf42.com/Cloud_Native_2025_Siri_Varma_Vegiraju_workflow_dapr_failure)
+| Whit Waldo | @whitwaldo | KCD Texas 2025 | [Harnessing Dapr Actors: Building Scalable Applications with Confidence](https://www.youtube.com/watch?v=mudomMIU4qM&list=PL4UW_RgvzVchEiE5b6GnVQP2paAKYIIu1&index=9) |
