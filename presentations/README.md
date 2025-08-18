@@ -50,3 +50,5 @@ This file contains links to Dapr presentations given by community members. This 
 | Carlos Mendible | @cmendible | dotNET Spain - June 2021 | [Event driven Microservices with Dapr and .NET](https://carlos.mendible.com/events/2021/06/22/dotnet2021/) (Spanish) |
 | Carlos Mendible | @cmendible | dotNET Spain - June 2024 | [Interactuando con la IA en el mundo real](https://carlos.mendible.com/events/2024/06/02/interactuando-ia-mundo-real/) (Spanish) |
 | Whit Waldo | @whitwaldo | KCD Texas - May 2025 | [Harnessing Dapr Actors: Building Scalable Applications with Confidence](https://www.youtube.com/watch?v=mudomMIU4qM&list=PL4UW_RgvzVchEiE5b6GnVQP2paAKYIIu1&index=9) |
+| Luis Rojas | @lrojasv | Global Azure 2025 Perú                             | [Construyendo aplicaciones cloud native con Dapr y Azure Container Apps](https://www.globalazureperu.com/#/home) |
+| Luis Rojas | @lrojasv | KCD Lima Perú 2025                            | [Orquestando patrones distribuidos con Dapr Workflow: de Sagas a Fan-out/Fan-in](https://kcd-lima-peru-2025.sessionize.com/session/931611) |
