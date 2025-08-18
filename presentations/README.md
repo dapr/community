@@ -7,7 +7,7 @@ This file contains links to Dapr presentations given by community members. This 
 ## Adding your Dapr presentation
 
 1. [Fork this repository](https://github.com/dapr/community/fork).
-2. Add a new row to the table below with your name, GitHub handle, event name and year, and a markdown link to either:
+2. Add a new row to **the bottom** of table below with your name, GitHub handle, event name and year, and a markdown link to either:
    - a YouTube recording of the Dapr presentation
    - your (online) slide deck
    - an event page with session details
@@ -45,4 +45,8 @@ This file contains links to Dapr presentations given by community members. This 
 | William Liebenberg | @william-liebenberg | Azure Builders Melbourne 2025                   | [Dapr Transactional Outbox with ASP.NET applications](https://www.linkedin.com/posts/william-liebenberg_dapr-aspire-activity-7310259210594697216-QGK9)
 | Siri Varma Vegiraju | @siri-varma | Dapr Day - Fall 2024                            | [Processing one million data points daily with Dapr](https://www.diagrid.io/videos/dapr-day-processing-one-million-data-points-daily-with-dapr)
 | Siri Varma Vegiraju | @siri-varma | Conf42 - Cloud Native                           | [Enhancing Workflow Reliability with Dapr](https://www.conf42.com/Cloud_Native_2025_Siri_Varma_Vegiraju_workflow_dapr_failure)
-| Whit Waldo | @whitwaldo | KCD Texas - May 2025                            | [Harnessing Dapr Actors: Building Scalable Applications with Confidence](https://www.youtube.com/watch?v=mudomMIU4qM&list=PL4UW_RgvzVchEiE5b6GnVQP2paAKYIIu1&index=9) |
+| Carlos Mendible | @cmendible | Netcoreconf - February 2021 | [Extending Azure Functions with Dapr](https://carlos.mendible.com/events/2021/02/27/virtual_net_core_conf/) (Spanish) |
+| Carlos Mendible | @cmendible | KCD Spain - June 2021 | [Event driven Microservices with Dapr and .NET](https://carlos.mendible.com/events/2021/05/18/kcd-spain-dapr/) (Spanish) |
+| Carlos Mendible | @cmendible | dotNET Spain - June 2021 | [Event driven Microservices with Dapr and .NET](https://carlos.mendible.com/events/2021/06/22/dotnet2021/) (Spanish) |
+| Carlos Mendible | @cmendible | dotNET Spain - June 2024 | [Interactuando con la IA en el mundo real](https://carlos.mendible.com/events/2024/06/02/interactuando-ia-mundo-real/) (Spanish) |
+| Whit Waldo | @whitwaldo | KCD Texas - May 2025 | [Harnessing Dapr Actors: Building Scalable Applications with Confidence](https://www.youtube.com/watch?v=mudomMIU4qM&list=PL4UW_RgvzVchEiE5b6GnVQP2paAKYIIu1&index=9) |
