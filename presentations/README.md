@@ -7,7 +7,7 @@ This file contains links to Dapr presentations given by community members. This 
 ## Adding your Dapr presentation
 
 1. [Fork this repository](https://github.com/dapr/community/fork).
-2. Add a new row to the table below with your name, GitHub handle, event name and year, and a markdown link to either:
+2. Add a new row to **the bottom** of table below with your name, GitHub handle, event name and year, and a markdown link to either:
    - a YouTube recording of the Dapr presentation
    - your (online) slide deck
    - an event page with session details
@@ -18,6 +18,8 @@ This file contains links to Dapr presentations given by community members. This 
 
 | Name               | GitHub handle | Event & Year                                    | Title & link                                                                                                                                      |
 | ------------------ | ------------- |-------------------------------------------------| ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Walter Silvestre Coan | @waltercoan   | SouJava - Java User Group - 2025 - Brazil | [Simplificando o desenvolvimento de microsserviços com o Dapr](https://github.com/waltercoan/soujava2025-dapr) [📺](https://www.youtube.com/live/CT_yrYaQoKI?si=Po9fN0pq5sYSiMjp&t=12048) |
+| Walter Silvestre Coan | @waltercoan   | The Developers Conference TDC 2025 - Florianópolis/SC - Brazil | [Integrando Microservices ao LLM com o Dapr](https://github.com/waltercoan/tdcfloripa2025-dapr-conversation)  |
 | Walter Silvestre Coan | @waltercoan   | devTEC 2025 - Tubarão/SC - Brazil               | [Building cloud native applications with Dapr](https://github.com/waltercoan/devtec2025-dapr-cncf-app) [📺](https://www.youtube.com/watch?v=Wb-5k_BSwmQ)          |
 | Roberto Rodriguez | @Cyb3rWard0g | Dapr Day 2024                                   | [Floki: Building Agentic Workflows with Dapr](https://www.canva.com/design/DAGTv8zBp5o/3x_pWYjjncCgIJbeCKahmA/edit?utm_content=DAGTv8zBp5o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 | Fernando Rocha    | @rochabr   | CNCF Vancoucer 2024                             | [Building secure and reliable distributed applications with Dapr](https://community.cncf.io/events/details/cncf-vancouver-presents-2024-cloud-native-vancouver-kickoff/) |
@@ -43,6 +45,10 @@ This file contains links to Dapr presentations given by community members. This 
 | William Liebenberg | @william-liebenberg | Azure Builders Melbourne 2025                   | [Dapr Transactional Outbox with ASP.NET applications](https://www.linkedin.com/posts/william-liebenberg_dapr-aspire-activity-7310259210594697216-QGK9)
 | Siri Varma Vegiraju | @siri-varma | Dapr Day - Fall 2024                            | [Processing one million data points daily with Dapr](https://www.diagrid.io/videos/dapr-day-processing-one-million-data-points-daily-with-dapr)
 | Siri Varma Vegiraju | @siri-varma | Conf42 - Cloud Native                           | [Enhancing Workflow Reliability with Dapr](https://www.conf42.com/Cloud_Native_2025_Siri_Varma_Vegiraju_workflow_dapr_failure)
-| Whit Waldo | @whitwaldo | KCD Texas - May 2025                            | [Harnessing Dapr Actors: Building Scalable Applications with Confidence](https://www.youtube.com/watch?v=mudomMIU4qM&list=PL4UW_RgvzVchEiE5b6GnVQP2paAKYIIu1&index=9) |
+| Carlos Mendible | @cmendible | Netcoreconf - February 2021 | [Extending Azure Functions with Dapr](https://carlos.mendible.com/events/2021/02/27/virtual_net_core_conf/) (Spanish) |
+| Carlos Mendible | @cmendible | KCD Spain - June 2021 | [Event driven Microservices with Dapr and .NET](https://carlos.mendible.com/events/2021/05/18/kcd-spain-dapr/) (Spanish) |
+| Carlos Mendible | @cmendible | dotNET Spain - June 2021 | [Event driven Microservices with Dapr and .NET](https://carlos.mendible.com/events/2021/06/22/dotnet2021/) (Spanish) |
+| Carlos Mendible | @cmendible | dotNET Spain - June 2024 | [Interactuando con la IA en el mundo real](https://carlos.mendible.com/events/2024/06/02/interactuando-ia-mundo-real/) (Spanish) |
+| Whit Waldo | @whitwaldo | KCD Texas - May 2025 | [Harnessing Dapr Actors: Building Scalable Applications with Confidence](https://www.youtube.com/watch?v=mudomMIU4qM&list=PL4UW_RgvzVchEiE5b6GnVQP2paAKYIIu1&index=9) |
 | Luis Rojas | @lrojasv | Global Azure 2025 Perú                             | [Construyendo aplicaciones cloud native con Dapr y Azure Container Apps](https://www.globalazureperu.com/#/home) |
 | Luis Rojas | @lrojasv | KCD Lima Perú 2025                            | [Orquestando patrones distribuidos con Dapr Workflow: de Sagas a Fan-out/Fan-in](https://kcd-lima-peru-2025.sessionize.com/session/931611) |
