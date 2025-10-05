@@ -52,3 +52,4 @@ This file contains links to Dapr presentations given by community members. This 
 | Whit Waldo | @whitwaldo | KCD Texas - May 2025 | [Harnessing Dapr Actors: Building Scalable Applications with Confidence](https://www.youtube.com/watch?v=mudomMIU4qM&list=PL4UW_RgvzVchEiE5b6GnVQP2paAKYIIu1&index=9) |
 | Luis Rojas | @lrojasv | Global Azure 2025 Perú                             | [Construyendo aplicaciones cloud native con Dapr y Azure Container Apps](https://www.globalazureperu.com/#/home) |
 | Luis Rojas | @lrojasv | KCD Lima Perú 2025                            | [Orquestando patrones distribuidos con Dapr Workflow: de Sagas a Fan-out/Fan-in](https://kcd-lima-peru-2025.sessionize.com/session/931611) |
+| Matheus Cruz | @mcruzdev | TDC São Paulo 2025 | [Dapr - Solving the challenges of Distributed Systems](https://thedevconf.com/tdc/2025/sao-paulo/trilha-ai-and-emerging-tech) |
