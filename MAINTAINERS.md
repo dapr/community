@@ -2,6 +2,8 @@
 
 This is the list of maintainers for all Dapr repositories, in alphabetical order:
 
+- Albert Callarisa (Diagrid) [@acroca](https://github.com/acroca)
+- Alice Gibbons (Diagrid) [alicejgibbons](https://github.com/alicejgibbons)
 - Artur Ciocanu (Adobe Inc) [@artur-ciocanu](https://github.com/artur-ciocanu)
 - Bernd Verst (Microsoft) [@berndverst](https://github.com/berndverst)
 - Cassie Coyle (Diagrid) [@cicoyle](https://github.com/cicoyle)
@@ -21,5 +23,7 @@ This is the list of maintainers for all Dapr repositories, in alphabetical order
 - Paul Yuknewicz (Microsoft) [@paulyuk](https://github.com/paulyuk)
 - Phillip Hoff (Microsoft) [@philliphoff](https://github.com/philliphoff)
 - Rob Landers (Automattic) [@withinboredom](https://github.com/withinboredom)
+- Samantha Coyle (Diagrid) [@sicoyle](https://github.com/sicoyle)
+- Siri Varma (Microsoft) [@siri-varma](https://github.com/siri-varma)
 - Whit Waldo (Innovian) [@WhitWaldo](https://github.com/WhitWaldo)
 - Yaron Schneider (Diagrid) [@yaron2](https://github.com/yaron2)
