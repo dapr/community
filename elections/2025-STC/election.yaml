@@ -1,0 +1,15 @@
+name: Dapr 2025 STC Election
+organization: Dapr
+start_datetime: 2025-11-16 00:00:01
+end_datetime: 2025-11-29 23:59:59
+no_winners: 7
+allow_no_opinion: True
+delete_after: True
+show_candidate_fields:
+  - employer
+  - discord
+election_officers:
+  - nelson-parente
+eligibility: All Dapr contributors with equal to or greater than 20 contributions in the last 12 months are eligible to vote
+exception_description: If you should be eligible to vote, and find that you are unable to, please fill out the exceptions form or reach out to the elections officer on Discord. Handle `nelson-parente`
+exception_due: 2025-11-27 23:59:59
