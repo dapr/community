@@ -11,7 +11,7 @@ I've been involved with the Dapr project since its very beginning and have worke
 I am currently serving as a member of the STC and as a maintainer of the Dapr runtime, components-contrib, docs, CLI and Go-SDK repositories.
 
 On the technical aspect of things, I have designed the Bindings, Pub/Sub, Service Invocation, State Management and Actors APIs and contributed substantial code to these areas for the past 4 years. In addition, I designed the Sentry service responsible of securing the Dapr sidecars and have contributed many other features including the Outbox pattern, client side state encryption, gRPC proxying and pub/sub namespace isolation among many others.
-On the fundementials aspect, I designed and implemented the Dapr performance tests suite and have implemented end-to-end and unit tests continously to ensure quality and stability for our users.
+On the fundamentals aspect, I designed and implemented the Dapr performance tests suite and have implemented end-to-end and unit tests continuously to ensure quality and stability for our users.
 In regards to user experience, I designed the Dapr CLI and have contributed substantial amounts of code to it over time.
 
 On the community aspect, I helped donate Dapr to the CNCF as an incubating level project, advocated for and worked to build a vendor-neutral steering committee before Dapr joined CNCF. I worked in collaboration with the others vendors who make up the STC for the last 5 years, working on everything from governance to community improvements and steering the technical direction of the project.
