@@ -1,10 +1,12 @@
-﻿#### Name
-Whit Waldo
+﻿-------------------------------------------------------------
+name: Whit Waldo
+ID: whitwaldo
+info:
+- affiliation: Innovian
 
-#### Company Affiliation
-Innovian
+-------------------------------------------------------------
 
-#### Your work and/or contributions to Dapr
+#### Contributions to Dapr
 I've been an active contributor to the Dapr .NET SDK since early 2024. As of late last year, I became the 
 Dapr .NET SDK maintainer and earlier this spring also became the Dapr JS SDK maintainer.
 
@@ -32,7 +34,7 @@ including a [centralized cache](https://github.com/dapr/proposals/pull/71), a re
 As an active member in the Dapr Discord channel, I go out of my way to comprehensively answer questions raised by the
 community and to solicit feedback to help with feature prioritization.
 
-#### Why you are running
+#### Why I'm Running
 Dapr dramatically simplifies the experience of building distributed applications and it's been exciting to design the
 features that keep this project grounded, relevant and usable by the broader community. In today's world of 
 ever-tightening time constraints, I feel that it's important that we focus our time on higher-impact features that
