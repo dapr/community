@@ -1,10 +1,11 @@
-#### Name
-Yaron Schneider
+-------------------------------------------------------------
+name: Yaron Schneider
+ID: yaron2
+info:
+  - affiliation: Diagrid
+-------------------------------------------------------------
 
-#### Company Affiliation
-Diagrid
-
-#### Your work and/or contributions to Dapr
+#### Contributions to Dapr
 
 I've been involved with the Dapr project since its very beginning and have worked on the project through each major milestone, including the initial 0.1 release in 2019, the stable 1.0 release in 2021 and the CNCF donation as incubating project in 2021, as well as graduating with the project in 2024.
 I am currently serving as a member of the STC and as a maintainer of the Dapr runtime, components-contrib, docs, CLI and Go-SDK repositories.
@@ -17,6 +18,6 @@ On the community aspect, I helped donate Dapr to the CNCF as an incubating level
 In addition, I work closely with the CNCF and its ecosystem to ensure Dapr is well positioned in the industry. I am a regular speaker at confrences such as KubeCon, making sure Dapr is well represented.
 I interact daily with Dapr users on GitHub and Discord, as well as new and existing contributors to the project. I review PRs and community contributions on a regular basis and am helping contributors wherever I can.
 
-#### Why you are running
+#### Why I'm Running
 
 The distributed systems space is being disrupted with the rise of AI. The agentic era requires novel approaches to reliability and security, and I believe Dapr is positioned as a critical part of the AI stack with it's durable execution engine for crash-proof agents, it's pub/sub and service invocation APIs for agent communication and Sentry for agentic identity. I am fostering a collaboration between Dapr and AI vendors to ensure that Dapr becomes a tool that complements and augments existing AI frameworks to provide them the missing functionality they need to ensure reliable production deployments. I will work to ensure that developers writing AI systems in any cloud and on-premises environment can rely on Dapr to provide them the core developer primitives needed to build highly scalable and reliable agents.
