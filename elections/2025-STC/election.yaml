@@ -9,7 +9,7 @@ show_candidate_fields:
   - employer
   - discord
 election_officers:
-  - nelson-parente
+  - tomfanara
 eligibility: All Dapr contributors with equal to or greater than 20 contributions in the last 12 months are eligible to vote
-exception_description: If you should be eligible to vote, and find that you are unable to, please fill out the exceptions form or reach out to the elections officer on Discord. Handle `nelson-parente`
+exception_description: If you should be eligible to vote, and find that you are unable to, please fill out the exceptions form or reach out to the elections officer on Discord. Handle `tomfanara`
 exception_due: 2025-11-27 23:59:59
