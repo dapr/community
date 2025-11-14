@@ -15,7 +15,7 @@ On the fundamentals aspect, I designed and implemented the Dapr performance test
 In regards to user experience, I designed the Dapr CLI and have contributed substantial amounts of code to it over time.
 
 On the community aspect, I helped donate Dapr to the CNCF as an incubating level project, advocated for and worked to build a vendor-neutral steering committee before Dapr joined CNCF. I worked in collaboration with the others vendors who make up the STC for the last 5 years, working on everything from governance to community improvements and steering the technical direction of the project.
-In addition, I work closely with the CNCF and its ecosystem to ensure Dapr is well positioned in the industry. I am a regular speaker at confrences such as KubeCon, making sure Dapr is well represented.
+In addition, I work closely with the CNCF and its ecosystem to ensure Dapr is well positioned in the industry. I am a regular speaker at conferences such as KubeCon, making sure Dapr is well represented.
 I interact daily with Dapr users on GitHub and Discord, as well as new and existing contributors to the project. I review PRs and community contributions on a regular basis and am helping contributors wherever I can.
 
 #### Why I'm Running
