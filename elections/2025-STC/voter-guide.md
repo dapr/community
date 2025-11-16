@@ -76,12 +76,12 @@ roles you may hold.
 
 ## Voting Process
 
-Elections will be held using [Elekto](https://elekto.dev/), an online voting tool created by CNCF 
+Elections will be held using [Elekto](https://escrvnw2ag.us-west-2.awsapprunner.com), an online voting tool created by CNCF 
 intern Manish Sahani.  Elekto has one critical advantage over CIVS, which is
 that it relies on GitHub Oauth to log you in to vote, instead of relying on 
 email. More details on voting are in the [Elekto documentation](https://elekto.dev/docs/).
 
-Thus, when you go to [Elekto](https://elekto.dev/) you will be prompted to log in your GitHub account.
+Thus, when you go to [Elekto](https://escrvnw2ag.us-west-2.awsapprunner.com) you will be prompted to log in your GitHub account.
 Please do, so, and then click on "Explore Election" to look at the list of 
 elections.  From there you can click on the "2025 Dapr STC Election."
 
@@ -92,7 +92,7 @@ please file a voting exception by the deadline listed above so that we can
 enfranchise you. Exceptions can be filed by contacting the Election Officer `tfanara` directly on [Discord](https://aka.ms/dapr-discord).
 
 As candidates file their candidate statements in the community repo, they will
-become visible in the [Elekto](https://elekto.dev/) UI.  You may click through to any candidate
+become visible in the [Elekto](https://escrvnw2ag.us-west-2.awsapprunner.com) UI.  You may click through to any candidate
 to see their profile.
 
 Once the vote begins, you will be able to rank the candidates in the order of
