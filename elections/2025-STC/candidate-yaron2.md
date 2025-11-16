@@ -2,7 +2,8 @@
 name: Yaron Schneider
 ID: yaron2
 info:
-  - affiliation: Diagrid
+  - employer: Diagrid
+  - discord: yaron2
 -------------------------------------------------------------
 
 #### Contributions to Dapr

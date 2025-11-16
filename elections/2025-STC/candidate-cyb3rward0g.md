@@ -2,7 +2,8 @@
 name: Roberto Rodriguez
 ID: Cyb3rWard0g
 info:
-  - affiliation: NVIDIA
+  - employer: NVIDIA
+  - discord: Cyb3rWard0g
 -------------------------------------------------------------
 
 #### Contributions to Dapr

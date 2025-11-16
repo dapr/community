@@ -2,7 +2,7 @@
 name: Paul Yuknewicz
 ID: paulyuk
 info:
-  - affiliation: Microsoft
+  - employer: Microsoft
 -------------------------------------------------------------
 
 #### Contributions to Dapr
