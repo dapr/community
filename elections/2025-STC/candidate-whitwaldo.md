@@ -2,7 +2,7 @@
 name: Whit Waldo
 ID: whitwaldo
 info:
-- affiliation: Innovian
+  - affiliation: Innovian
 
 -------------------------------------------------------------
 
