@@ -2,7 +2,7 @@
 name: Mark Fussell
 ID: msfussell
 info:
-  - affliation: Diagrid
+  - affiliation: Diagrid
 -------------------------------------------------------------
 
 #### Your work and/or contributions to Dapr
