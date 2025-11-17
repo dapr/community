@@ -1,9 +1,9 @@
 -------------------------------------------------------------
 name: Loong Dai
-ID: loong
+ID: daixiang0
 info:
   - employer: Tencent
-  - discord: daixiang0
+  - discord: loong0
 -------------------------------------------------------------
 
 #### Contributions to Dapr
