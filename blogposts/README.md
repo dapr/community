@@ -42,3 +42,4 @@ This file contains links to Dapr blog posts written by community members. This f
 | Siri Varma Vegiraju | @siri-varma | [Curating Efficient Dapr Workflows](https://dzone.com/articles/curating-efficient-dapr-workflows) |
 | Siri Varma Vegiraju | @siri-varma | [Securing Conversations with LLM](https://dzone.com/articles/securing-conversations-with-llms) |
 | Matheus Cruz | @mcruzdev | [Improve Developer Joy and Productivity with Quarkus and Dapr](https://matheuscruz.dev/2024/12/07/improve-developer-joy-and-productivity-with-quarkus-and-dapr/) |
+| Sachin Sunkle | @sachinsu | [Why use Dapr for Distributed Applications?](https://sachinsu.github.io/posts/dapr/) |
