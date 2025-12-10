@@ -1,6 +1,6 @@
 # Steering and Technical committee (STC)
 
-Last updated November 2021
+Last updated December 2025
 
 - [Overview](#overview)
 - [Charter](#charter)
@@ -75,13 +75,13 @@ The current membership of the STC is:
 
 | &nbsp;                                                         | Member           | Organization  | Profile                                              | Term Start | Term End |
 | -------------------------------------------------------------- | ---------------- | ------------  | ---------------------------------------------------- | ---------- | --------
-| <img width="30px" src="https://github.com/yaron2.png">         | Yaron Schneider  | Diagrid       | [@yaron2](https://github.com/yaron2)                 | 1st Dec 2023  | Nov 30th 2025  |
-| <img width="30px" src="https://github.com/msfussell.png">      | Mark Fussell     | Diagrid       | [@msfussell](https://github.com/msfussell)           | 1st Dec 2023  | Nov 30th 2025  |
-| <img width="30px" src="https://github.com/daixiang0.png">      | Loong Dai        | Intel         | [@daixiang0](https://github.com/daixiang0)           | 1st Dec 2023  | Nov 30th 2025  |
-| <img width="30px" src="https://github.com/jaczhao.png">        | Qingjie Zhao     | Alibaba       | [@jackzhao](https://github.com/jaczhao)              | 1st Dec 2023  | Nov 30th 2025  |
-| <img width="30px" src="https://github.com/olitomlinson.png">   | Oli Tomlinson    | Dotmatics     | [@olitomlinson](https://github.com/olitomlinson)     | 1st Dec 2023  | Nov 30th 2025  |
-| <img width="30px" src="https://github.com/halspang.png">       | Hal Spang        | Microsoft      | [@@halspang](https://github.com/halspang)           | 1st Dec 2023  | Nov 30th 2025   
-| <img width="30px" src="https://github.com/paulyuk.png">        | Paul Yuknewicz   | Microsoft     | [@paulyuk](https://github.com/paulyuk)               | 1st Dec 2023  | Nov 30th 2025  |
+| <img width="30px" src="https://github.com/yaron2.png">         | Yaron Schneider  | Diagrid       | [@yaron2](https://github.com/yaron2)                 | 3rd Dec 2025  | Nov 30th 2027  |
+| <img width="30px" src="https://github.com/msfussell.png">      | Mark Fussell     | Diagrid       | [@msfussell](https://github.com/msfussell)           | 3rd Dec 2025  | Nov 30th 2027  |
+| <img width="30px" src="https://github.com/daixiang0.png">      | Loong Dai        | Tencent         | [@daixiang0](https://github.com/daixiang0)           | 3rd Dec 2025  | Nov 30th 2027  |
+| <img width="30px" src="https://github.com/Cyb3rWard0g.png">        | Roberto Rodriguez     | NVIDIA       | [@Cyb3rWard0g](https://github.com/Cyb3rWard0g)              | 3rd Dec 2025  | Nov 30th 2027  |
+| <img width="30px" src="https://github.com/olitomlinson.png">   | Oli Tomlinson    | Dotmatics (Siemens)     | [@olitomlinson](https://github.com/olitomlinson)     | 3rd Dec 2025  | Nov 30th 2027  |
+| <img width="30px" src="https://github.com/whitwaldo.png">       | Whit Waldo       | Innovian      | [@whitwaldo](https://github.com/whitwaldo)           | 3rd Dec 2025  | Nov 30th 2027   
+| <img width="30px" src="https://github.com/paulyuk.png">        | Paul Yuknewicz   | Microsoft     | [@paulyuk](https://github.com/paulyuk)               | 3rd Dec 2025  | Nov 30th 2027  |
 
 ## Emeritus members
 The following emeritus members are recognized for their previous role on the STC. 
@@ -91,6 +91,8 @@ The following emeritus members are recognized for their previous role on the STC
 | <img width="30px" src="https://github.com/cvictory.png">       | Victory Cao      | Alibaba       | [@cvictory](https://github.com/cvictory)         |
 | <img width="30px" src="https://github.com/forrest-zhao.png">   | Forrest Zhao     | Intel         | [@forrest-zhao](https://github.com/forrest-zhao) |
 | <img width="30px" src="https://github.com/johnewart.png">      | John Ewart       | Microsoft     | [@johnewart](https://github.com/johnewart) |
+| <img width="30px" src="https://github.com/halspang.png">      | Hal Spang       | Microsoft     | [@halspang](https://github.com/halspang) |
+
 
 ## Decision process
 
