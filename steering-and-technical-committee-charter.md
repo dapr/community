@@ -200,7 +200,7 @@ the person they are replacing, regardless of the length of that remainder.
 
 ## Election date
 
-The last election was held in Nov 2023. The next election will be held in November 2025 for all currently filled seats at that time.  
+The last election was held in Nov 2025. The next election will be held in November 2027 for all currently filled seats at that time.  
 
 ## Changes to the charter
 
