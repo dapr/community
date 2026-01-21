@@ -51,7 +51,7 @@ Reach out with any questions you may have and we'll make sure to answer them as 
 
 > You can watch our community calls live on our [YouTube stream](https://www.youtube.com/@DaprDev/streams) or rewatch the recording later on the [Dapr YouTube channel](https://www.youtube.com/@daprdev).
 
-Every two weeks we live stream a community call on [YouTube](https://www.youtube.com/@daprdev) to showcase new features, highlight client case studies, review upcoming milestones, and engage in a Q&A. For these community calls, anyone from the Dapr community can participate, present a topic, or host. All are welcome!
+Every four weeks we live stream a community call on [YouTube](https://www.youtube.com/@daprdev) to showcase new features, highlight client case studies, review upcoming milestones, and engage in a Q&A. For these community calls, anyone from the Dapr community can participate, present a topic, or host. All are welcome!
 
 [Issues in this community repo](https://github.com/dapr/community/issues) are used to plan the community calls and suggest topics. The next three upcoming calls are pinned as issues in this repository and can be used to submit suggestions for the call. To speak about a Dapr related topic on a community call, comment on the issue for the date you would like to present on. Alternatively, you're also welcome to use the #general channel in the [Dapr Discord server](https://bit.ly/dapr-discord) to talk about future agenda topics. The meeting agenda for each call is finalized by the community call host.
 
