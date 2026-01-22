@@ -8,7 +8,7 @@ label: ["community call"]
 
 ## 📞 Dapr Community Call Live Stream
 
-Every two weeks we live-stream a [community call](../#community-meetings) to highlight community created content, showcase new features, review upcoming milestones, and engage in Q&A with the Dapr community - everyone is welcome, and we encourage you to attend or give a session!
+Every four weeks we live-stream a [community call](../#community-meetings) to highlight community created content, showcase new features, review upcoming milestones, and engage in Q&A with the Dapr community - everyone is welcome, and we encourage you to attend or give a session!
 
 The purpose of this issue is to form a discussion amongst the Dapr community on potential topics to highlight during the meeting. If you have a topic you wish to present or learn more about, please comment and be sure to include your name and a short description of the topic.
 
