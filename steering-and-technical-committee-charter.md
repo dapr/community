@@ -33,7 +33,7 @@ The governance of Dapr is an open, living document, and continues to evolve as t
 1. Define, evolve, and promote the vision, values, and mission of the Dapr project.
 1. Set the overall technical direction and roadmap of the Dapr project.
 1. Define and evolve project governance structures and policies, including
-   project roles and how collaborators become members, approvers, maintainers and administrators and the responsibilities of the release team.
+   project roles and how collaborators become members, approvers, maintainers and admistrators and the responsibilities of the release team.
 1. Steward, control access, delegate access, and establish processes regarding
    all Dapr project resources and has the final say in the disposition of
    those resources.
@@ -71,25 +71,17 @@ The committee is voted on every 2 years.  A committee member is given;
 
 The current committee consists of 7 members. The committee can expand up to 11 seats always maintaining an odd number.
 
-### Committee members
+The current membership of the STC is:
 
-The committee is voted on every 2 years. A committee member is given:
-
-- Owner role in the Dapr org
-- Admin role on the Dapr Discord server
-
-The current committee consists of 7 members. The committee can expand up to 11 seats, always maintaining an odd number.
-
-| Member | Organization | Profile | Term Start | Term End |
-|------|-------------|---------|------------|----------|
-| Yaron Schneider | Diagrid | @yaron2 | Dec 3, 2025 | Nov 30, 2027 |
-| Mark Fussell | Diagrid | @msfussell | Dec 3, 2025 | Nov 30, 2027 |
-| Loong Dai | Tencent | @daixiang0 | Dec 3, 2025 | Nov 30, 2027 |
-| Roberto Rodriguez | NVIDIA | @Cyb3rWard0g | Dec 3, 2025 | Nov 30, 2027 |
-| Oli Tomlinson | Dotmatics (Siemens) | @olitomlinson | Dec 3, 2025 | Nov 30, 2027 |
-| Whit Waldo | Innovian | @whitwaldo | Dec 3, 2025 | Nov 30, 2027 |
-| Paul Yuknewicz | Microsoft | @paulyuk | Dec 3, 2025 | Nov 30, 2027 |
-
+| &nbsp;                                                         | Member           | Organization  | Profile                                              | Term Start | Term End |
+| -------------------------------------------------------------- | ---------------- | ------------  | ---------------------------------------------------- | ---------- | --------
+| <img width="30px" src="https://github.com/yaron2.png">         | Yaron Schneider  | Diagrid       | [@yaron2](https://github.com/yaron2)                 | 3rd Dec 2025  | Nov 30th 2027  |
+| <img width="30px" src="https://github.com/msfussell.png">      | Mark Fussell     | Diagrid       | [@msfussell](https://github.com/msfussell)           | 3rd Dec 2025  | Nov 30th 2027  |
+| <img width="30px" src="https://github.com/daixiang0.png">      | Loong Dai        | Tencent         | [@daixiang0](https://github.com/daixiang0)           | 3rd Dec 2025  | Nov 30th 2027  |
+| <img width="30px" src="https://github.com/Cyb3rWard0g.png">        | Roberto Rodriguez     | NVIDIA       | [@Cyb3rWard0g](https://github.com/Cyb3rWard0g)              | 3rd Dec 2025  | Nov 30th 2027  |
+| <img width="30px" src="https://github.com/olitomlinson.png">   | Oli Tomlinson    | Dotmatics (Siemens)     | [@olitomlinson](https://github.com/olitomlinson)     | 3rd Dec 2025  | Nov 30th 2027  |
+| <img width="30px" src="https://github.com/whitwaldo.png">       | Whit Waldo       | Innovian      | [@whitwaldo](https://github.com/whitwaldo)           | 3rd Dec 2025  | Nov 30th 2027   
+| <img width="30px" src="https://github.com/paulyuk.png">        | Paul Yuknewicz   | Microsoft     | [@paulyuk](https://github.com/paulyuk)               | 3rd Dec 2025  | Nov 30th 2027  |
 
 ## Emeritus members
 The following emeritus members are recognized for their previous role on the STC. 
