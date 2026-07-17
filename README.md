@@ -76,9 +76,9 @@ Every week, we meet to plan and sync on the progress for the milestone's release
 <!--
 We are using a different link from Community Call because the Community Call requires the host to admit each person. In the weekly syncs, we "never" login with the host account.
 -->
-**Zoom Call:** https://zoom.us/j/91940016938<br> <!-- Do not add password to the Zoom URL. -->
-**Meeting ID:** 919 4001 6938<br>
-**Passcode:** 152697<br> 
+**Zoom Call:** https://zoom-lfx.platform.linuxfoundation.org/meeting/96780898261<br> <!-- Do not add password to the Zoom URL. -->
+**Meeting ID:** 967 8089 8261<br>
+**Passcode:** 310351<br> 
 **Schedule:** Tuesdays at 9:00am US/Pacific Time (PT).
 
 Visit [here](https://github.com/dapr/community/blob/master/release-process.md) to learn more about the Dapr release process.
@@ -87,8 +87,8 @@ Visit [here](https://github.com/dapr/community/blob/master/release-process.md) t
 
 Every Monday at 9 am US/Pacific maintainers meet privately to discuss project priorities and concerns. New maintainers will receive access to the **Maintainers** channel in our Discord server where the meeting passcode will be shared.
 
-**Zoom Call:** https://zoom.us/j/91911083168<br> <!-- Do not add password to the Zoom URL. -->
-**Meeting ID:** 919 1108 3168<br>
+**Zoom Call:** https://zoom-lfx.platform.linuxfoundation.org/meeting/93184256679<br> <!-- Do not add password to the Zoom URL; the maintainers passcode is shared privately in Discord. -->
+**Meeting ID:** 931 8425 6679<br>
 **Passcode:** Shared in **Maintainers** Discord channel<br> 
 **Schedule:** Mondays at 9am US/Pacific Time.
 
