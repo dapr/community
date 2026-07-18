@@ -1,27 +1,61 @@
-# Release cycle and cadence 
+# Release cycle and cadence
 The Dapr project aims to release four updates in a yearly time period, typically one in each quarter (every 3 months).
 
 <img src="images/release-cycle-diagram.png?raw=true">
 
 
-This cadence provides a balance between regular feature releases and bug fixes, giving end users time to adopt a release and providing contributors clarity on releases they can contribute towards. By having a regular “train” of releases end users and contributors can plan ahead.
+This cadence provides a balance between regular feature releases and bug fixes, giving end users time to adopt a release and providing contributors clarity on releases they can contribute towards. By having a regular "train" of releases end users and contributors can plan ahead.
 
-Although this is the desired candence, imbalance between scope and availability of contributors and maintainers might impact the number of releases in a given year. Maintainers might decide to reduce the number of releases in order to have more time to finish high priority improvements.
+Although this is the desired cadence, imbalance between scope and availability of contributors and maintainers might impact the number of releases in a given year. Maintainers might decide to reduce the number of releases in order to have more time to finish high priority improvements.
 
-## Versioning, tagging and branching
+## Versioning
 
-All release artifacts must follow [Semantic Versioning](https://semver.org). Each release milestone increments the minor version. In exceptional cases, the major version can be increased too.
+All release artifacts must follow [Semantic Versioning](https://semver.org) (`MAJOR.MINOR.PATCH`):
 
-See our documentation on [versioning policy](https://docs.dapr.io/operations/support/support-versioning).
+| Version component | When incremented | Example |
+| :--- | :--- | :--- |
+| **MAJOR** | Non-backward compatible changes to the runtime or APIs, or significant functionality additions that need to be differentiated from the previous version. | `1.x.x` → `2.0.0` |
+| **MINOR** | Regular release cadence including new features, bug fixes, and security fixes. Each release milestone increments the minor version. | `1.15.x` → `1.16.0` |
+| **PATCH** | Critical issues (P0) and security hotfixes only. | `1.16.0` → `1.16.1` |
 
-At code freeze of a release milestone, the master (or main) branch is forked into a branch named `release-<MAJOR>.<MINOR>`, which lives forever. To trigger a release candidate or a release, tagging should happen in the correspondig release branch. For example, to release version `1.2.3`, the tag `v1.2.3` must be cut out of the `release-1.2` branch.
+In exceptional cases, the major version can be increased as part of a release milestone.
+
+For the full versioning policy covering APIs, SDKs, components, and manifests, see the [versioning policy documentation](https://docs.dapr.io/operations/support/support-versioning). For the support window and upgrade policies, see the [supported releases documentation](https://docs.dapr.io/operations/support/support-release-policy/).
+
+## Tagging policy
+
+### Core Dapr releases
+
+All core Dapr repositories (dapr, CLI, SDKs, Dashboard, Helm Charts) follow a consistent tagging scheme:
+
+| Tag format | Release type | Description |
+| :--- | :--- | :--- |
+| `vMAJOR.MINOR.PATCH` | **Stable** | Production-ready release that has passed all stabilization and testing phases. Example: `v1.16.0` |
+| `vMAJOR.MINOR.PATCH-rc.N` | **Release candidate (unstable)** | Pre-release build created during the stabilization phase for community validation. Not recommended for production use. Example: `v1.16.0-rc.1` |
+| `vMAJOR.MINOR.PATCH` (patch > 0) | **Security / bug fix** | Hotfix release addressing critical bugs (P0) or security vulnerabilities in a supported release. Example: `v1.16.1` |
+
+Release candidates are tagged with the `-rc.N` suffix (where N is incremented for each candidate). Only stable releases (without pre-release suffixes) should be used in production environments.
+
+### Component releases
+
+Components in the [components-contrib](https://github.com/dapr/components-contrib/) repository use a flat versioning scheme aligned with the Dapr runtime version they are bundled with. Individual components follow a maturity lifecycle (alpha → beta → stable) as described in the [component certification lifecycle](https://docs.dapr.io/operations/components/certification-lifecycle/). The maturity level of each component is independent of the core Dapr release version.
+
+### GitHub release annotations
+
+Each GitHub release should be clearly annotated with one of the following labels:
+- **Latest** - the most recent stable release (set automatically by GitHub for the newest non-pre-release tag).
+- **Pre-release** - release candidates and other unstable builds (set by marking the release as a pre-release in GitHub).
+
+## Branching
+
+At code freeze of a release milestone, the master (or main) branch is forked into a branch named `release-<MAJOR>.<MINOR>`, which lives forever. To trigger a release candidate or a release, tagging should happen in the corresponding release branch. For example, to release version `1.2.3`, the tag `v1.2.3` must be cut out of the `release-1.2` branch.
 
 Hotfixes should also be applied directly into each of the impacted release branches. Then, the fix can be merged back into master (or main) branch or cherry-picked.
 
 Ideally, a release should be 100% automated and require only the tag to be pushed upstream.
 
 ## Release milestone
-The Dapr project is under continuous development addressing issues for both bugs on existing features and new features. Features go through a lifecycle from proposal, design, code, test, docs, and often quickstart and SDKs deliverables. Feature proposals can be raised and reviewed by the community and maintainers at any time. 
+The Dapr project is under continuous development addressing issues for both bugs on existing features and new features. Features go through a lifecycle from proposal, design, code, test, docs, and often quickstart and SDKs deliverables. Feature proposals can be raised and reviewed by the community and maintainers at any time.
 
 Dapr is an open source and agile project, with feature planning and implementation happening at all times. Given the project scale and globally distributed developer base, it is critical to project velocity to not solely rely on a stabilization phase and rather have continuous integration testing which ensures the project is always stable so that individual commits can be flagged as having broken something. This includes continuous feature tests suites, performance tests and end-to-end testing for integration.
 
@@ -44,7 +78,7 @@ At the start of a milestone a release team is chosen. The release team has the r
 -	**Release performance test lead.** This role is responsible for overseeing the continuous monitoring of the performance tests, ensuring new tests are added when needed and reporting on them weekly.
 -	**Release long-haul test lead.** This role is responsible for overseeing the continuous monitoring of the end-to-end tests, ensuring new tests are added for new features in this release and reporting on them weekly.
 -	**Build manager.** This role applies in the stabilization phase and is responsible for creating the RC releases, the final build/testing and release branches.
-  
+
 On assignment, the release team lead and shadow(s) are included into the Github release team group. They are responsible for;
 - [ ] Creating and updating the milestone tracking issue (For example https://github.com/dapr/dapr/issues/4898) with the proposed delivery dates.
 - [ ] Coordinating with maintainers to create milestones in each repo.
@@ -55,7 +89,7 @@ On assignment, the release team lead and shadow(s) are included into the Github 
 As a reference, find the K8s release team selection [here](https://github.com/kubernetes/sig-release/blob/master/release-team/release-team-selection.md#selection-criteria)
 
 ## Feature definition phase (~2 weeks)
-With ongoing feature definition, some set of issues will bubble up as targeting a given release. In this phase, a set of feature proposals and significant design changes to existing features are reviewed where contributors are able to dedicate time to completing the issue or starting an issue for a future release. 
+With ongoing feature definition, some set of issues will bubble up as targeting a given release. In this phase, a set of feature proposals and significant design changes to existing features are reviewed where contributors are able to dedicate time to completing the issue or starting an issue for a future release.
 
 For a feature to be considered for implementation it must have a feature proposal issue, tagged appropriately. The proposal must include;
 - [ ] A design in an implementable state that has design reviewed and commented by approvers/maintainers
@@ -67,13 +101,13 @@ Maintainers are responsible for triaging issues into the milestone in this phase
 ### Communication & meetings
 During this phase there is a community meeting each week to discuss feature proposals and issues that different users would like to see in this release. This is to enable discussions on issues raised on Discord especially on priorities and scenarios. It is not intended for deep design discussion, which should be held separately and updated into the proposal.
 
-The Discord channel called “proposal & issue discussion” is used to discuss feature proposals and issues.
+The Discord channel called "proposal & issue discussion" is used to discuss feature proposals and issues.
 
-During this phase the release lead is responsible for: 
-- [ ] Posting on the Discord “announcements” and “proposal & issue discussion” channels the start of the milestone and the feature definition phase 
+During this phase the release lead is responsible for:
+- [ ] Posting on the Discord "announcements" and "proposal & issue discussion" channels the start of the milestone and the feature definition phase
 - [ ] Schedules the weekly release discussion meetings
 
-   
+
 ### Feature definition phase checklist
 At the conclusion of this phase, the release lead, working with maintainers and contributors, is responsible for;
 
@@ -83,28 +117,28 @@ At the conclusion of this phase, the release lead, working with maintainers and 
   - [ ] The list of milestones projects for each repo.
   - [ ] Will any preview features be made stable in this release? (requires all SDKs to have implementation)
   - [ ] Will alpha APIs be made stable in this release?
-- [ ] Each repo must have been triaged by the maintainers during this phase and all the intended work has been tagged with the milestone, a priority and assigned to owners were possible. 
+- [ ] Each repo must have been triaged by the maintainers during this phase and all the intended work has been tagged with the milestone, a priority and assigned to owners were possible.
 - [ ] Each maintainer acknowledges this to the release lead.
-- [ ] Communicating the final decisions for this release on Discord channels. 
-   
+- [ ] Communicating the final decisions for this release on Discord channels.
+
 ## Feature implementation and bug fixing (~9 weeks)
-This is the feature implementation and bug fixing phase and culminates in a code freeze period. 
-During this phase maintainers and approvers do continuous triages on their repos assigning or removing issues from the milestone and communicating any decisions that may affect other repos. It is recommended to triage on Monday’s before the Tuesday release meeting.
+This is the feature implementation and bug fixing phase and culminates in a code freeze period.
+During this phase maintainers and approvers do continuous triages on their repos assigning or removing issues from the milestone and communicating any decisions that may affect other repos. It is recommended to triage on Monday's before the Tuesday release meeting.
 
 ### Communication & meetings
 The release lead schedules weekly meetings
 
 - [ ] Every Tuesday at 9 a.m. PST, one-hour release meetings are held. These meetings are led by the release lead and release lead shadow and cover the following topics.
- 
+
 
 | Topic    | Description |         Owner    |
 | :----------- | :----------- | :----------- |
 | Feature and issue update | Review any progress, risks or blockers on each feature | Feature owners |
 | Long-haul   | Review current long hauls test status and updates  | Long-haul test lead  |
-| Performance  | Review current performance test status and updates  | Performance test lead |   
+| Performance  | Review current performance test status and updates  | Performance test lead |
 |Issues/PRs related to release |Opportunity for maintainers to raise and discuss specific issues/PRs related to the release based on their triage. This is on a per repo basis. | Maintainers  |
 |Milestone progress | Review code freeze and release date based on progress and priorities. The release lead has the responsibility of altering any dates. Decide on moving any PRs |Release lead and maintainers|
-   
+
 
 - [ ] **TBD** Every Thursday at 9am PST, one-hour feature proposal design meetings are held. These are opportunities for feature owners to discuss design decisions with the community that are then updated into the proposals.
 
@@ -112,27 +146,27 @@ The release lead schedules weekly meetings
 Members of the release team may remove issues from the milestone if the maintainers determine that the issue is not actually blocking the release and is unlikely to be resolved in a timely fashion.
 Members of the release team may remove PRs from the milestone for any of the following, or similar, reasons:
 - PR is potentially destabilizing and is not needed to resolve a blocking issue.
-- PR is a new, late feature PR and has not gone through the feature process 
+- PR is a new, late feature PR and has not gone through the feature process
 - There is no responsible contributor willing to take ownership of the PR and resolve any follow-up issues with it
 - PR is not correctly labeled
 - Work has visibly halted on the PR and delivery dates are uncertain or late
-   
-### Code Freeze (~week 9)
-After code freeze, only critical bug fixes are accepted into the release codebase.  
 
-All features going into the release must be code-complete, including tests, and have docs PRs open. The docs PRs don't have to be ready to merge, but it should be clear what the topic will be and an owner is assigned. It’s incredibly important that documentation work gets completed as quickly as possible.
+### Code Freeze (~week 9)
+After code freeze, only critical bug fixes are accepted into the release codebase.
+
+All features going into the release must be code-complete, including tests, and have docs PRs open. The docs PRs don't have to be ready to merge, but it should be clear what the topic will be and an owner is assigned. It's incredibly important that documentation work gets completed as quickly as possible.
 
 There are approximately two weeks following Code Freeze, and preceding release, during which all remaining critical issues must be resolved before release. This also gives time for documentation finalization.
 
 At code freeze the release lead is responsible for;
-- [ ] Announcing on the Discord “announcements” channel the code freeze. 
+- [ ] Announcing on the Discord "announcements" channel the code freeze.
 - [ ] Create an endgame issue task list, copied from the previous endgame milestone. For example https://github.com/dapr/dapr/issues/4814
 - [ ] Assigns a release manager for the release
 - [ ] Schedules daily 1 hour release meetings for the following 2 weeks at 9 a.m. PST.
 - [ ] Tells maintainers to create repo specific endgame issues (if needed)
 
 ## Stabilization and release (~ 2 weeks)
-This is the endgame phase of the release. The release lead manages this through the endgame task list. At the first daily release meeting, people are assigned to each of the endgame release tasks. 
+This is the endgame phase of the release. The release lead manages this through the endgame task list. At the first daily release meeting, people are assigned to each of the endgame release tasks.
 
 RC builds are created by the release manager.
 
@@ -140,21 +174,23 @@ The final build is published when all endgame issues are signed off.
 
 ### Communication & meetings
 - [ ] The release lead schedules daily meetings
-- [ ] Each RC build is announced on the “announcements” channel to inform the community for validation testing.
+- [ ] Each RC build is announced on the "announcements" channel to inform the community for validation testing.
 
 ## Post Release
 Within 3 days of the release, the release lead and release shadow are responsible for;
 - [ ] Facilitating a 1-hour community meeting to evaluate the release. This discussion should cover:
    - [ ] What worked well for this release.
    - [ ] What could be improved for the next release.
-- [ ] Update the release documentation and processes to capture improvements.  
+- [ ] Update the release documentation and processes to capture improvements.
 
-## Patch Releases (hot fixes)
-Patch releases are described here. https://docs.dapr.io/operations/support/support-release-policy/
+## Patch releases (security and bug fixes)
+Patch releases address critical bugs (P0) and security vulnerabilities in supported releases. Only the current and previous two minor versions are eligible for patch releases (see [supported releases](https://docs.dapr.io/operations/support/support-release-policy/) for the full support policy).
 
-The release team for a given release remains on point for all future patch releases for that release. If a patch is needed the release lead;
-- [ ] Creates a hotfix checklist list issue and assigns owners to tasks. For example https://github.com/dapr/dapr/issues/4995
+Patch releases are tagged as `vMAJOR.MINOR.PATCH` (for example `v1.16.1`) from the corresponding `release-<MAJOR>.<MINOR>` branch and are marked as **stable** on GitHub (not pre-release).
+
+The release team for a given release remains on point for all future patch releases for that release. If a patch is needed the release lead:
+- [ ] Creates a hotfix checklist issue and assigns owners to tasks. For example https://github.com/dapr/dapr/issues/4995
 - [ ] Assigns a contributor(s) to fix the issue(s).
 - [ ] The release manager is responsible for releasing the patch.
-- [ ] Announcing on the Discord “announcements” channel the patch availability. 
+- [ ] Announces on the Discord "announcements" channel the patch availability.
 
