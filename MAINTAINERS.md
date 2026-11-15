@@ -1,5 +1,7 @@
 # Dapr Maintainers
 
+For maintainer and approver membership by repository, see the [Dapr GitHub teams](https://github.com/orgs/dapr/teams).
+
 This is the list of maintainers for all Dapr repositories, in alphabetical order:
 
 - Albert Callarisa (Diagrid) [@acroca](https://github.com/acroca)
