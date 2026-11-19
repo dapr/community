@@ -27,17 +27,13 @@ Welcome to the Dapr community. This is the starting point for becoming a contrib
 - [Other documents](#other-documents)
 
 ## Introduction
-The Distributed Application Runtime, Dapr, is a portable, serverless, event-driven runtime that makes it easy for developers to build resilient, stateless and stateful microservices that run on the cloud and edge and embraces the diversity of languages and developer frameworks.
-
-Dapr codifies the best practices for building microservice applications into open, independent, building blocks that enable you to build portable applications with the language and framework of your choice. Each building block is independent and you can use one, some, or all of them in your application.
-
-Visit [dapr.io](https://dapr.io) for information about Dapr.
+The Distributed Application Runtime, [Dapr](https://dapr.io), is a portable runtime that gives developers APIs for building resilient, secure distributed applications in the language and framework of their choice, running on the cloud and edge. Alongside building blocks such as service invocation, state and pub/sub, it provides [Dapr Workflow](https://docs.dapr.io/developing-applications/building-blocks/workflow/) for durable execution and [Dapr Agents](https://docs.dapr.io/developing-ai/dapr-agents/) for building AI agents that run reliably at scale.
 
 ## Dapr authors
-Dapr is an open source project with an active development community.
+Dapr is an open source project with an active development community. The project's maintainers are listed in [MAINTAINERS.md](MAINTAINERS.md), and organizations using Dapr are listed in [ADOPTERS.md](ADOPTERS.md).
 
 ## Communication and Discord
-We would greatly appreciate your contributions and suggestions! One of the easiest ways to contribute is to participate in Discord discussions, or join the bi-monthly [community calls](#community-calls).
+We would greatly appreciate your contributions and suggestions! One of the easiest ways to contribute is to participate in Discord discussions, or join the [community calls](#community-calls), held every four weeks.
 
 ### Questions and issues
 Reach out with any questions you may have and we'll make sure to answer them as soon as possible and as a community member feel free to jump in and answer questions.
@@ -153,6 +149,7 @@ If you're looking for something to work on, read the [contribution guidelines](h
 - [Dapr CLI repo](https://github.com/dapr/cli/labels/good%20first%20issue)
 - [Documentation repo](https://github.com/dapr/docs/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 - [Quickstarts repo](https://github.com/dapr/quickstarts/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- [Dapr Agents repo](https://github.com/dapr/dapr-agents/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
 And, we can always use more testing, have more and improved docs, or just write a blog post on what you have discovered whilst using Dapr.
 
