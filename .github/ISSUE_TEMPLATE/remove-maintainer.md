@@ -29,7 +29,7 @@ _List the repositories you would like to be removed from as a maintainer._
 ### Checklist for _dapr/community_ maintainer
 
 - [ ] Remove maintainer from [MAINTAINERS.md](https://github.com/dapr/community/blob/master/MAINTAINERS.md).
-- [ ] Remove maintainer from [CNCF project-maintainers.csv](https://github.com/cncf/foundation/blob/main/project-maintainers.csv).
+- [ ] Remove maintainer from [maintainers.yaml](https://github.com/dapr/.project/blob/main/maintainers.yaml) in the _dapr/.project_ repository. CNCF automation syncs this file into the CNCF maintainer list, so there is no pull request to make against _cncf/foundation_.
 - [ ] Remove maintainer from _Dapr Maintainers & Community Managers_ doc on Google Drive.
 - [ ] Remove maintainer from _Maintainers_ Vault in 1Password.
 - [ ] Remove maintainer from _maintainers_ role on Discord.

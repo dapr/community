@@ -11,9 +11,9 @@ assignees: ''
 
 <new-maintainer-GH-handle>
 
-### STC decision
+### Request issue
 
-_Link to the GitHub issue that contains the STC decision about onboarding the new maintainer._
+_Link to the request issue for this maintainer. Two current maintainers of the repository must have given a binding +1 on that issue._
 
 ### GitHub repositories
 
@@ -29,7 +29,8 @@ _List the repositories the member will have maintainer access._
 ### Checklist for _dapr/community_ maintainer
 
 - [ ] Add maintainer to [MAINTAINERS.md](https://github.com/dapr/community/blob/master/MAINTAINERS.md).
-- [ ] Add maintainer to [CNCF project-maintainers.csv](https://github.com/cncf/foundation/blob/main/project-maintainers.csv).
+- [ ] Add maintainer to [maintainers.yaml](https://github.com/dapr/.project/blob/main/maintainers.yaml) in the _dapr/.project_ repository. CNCF automation syncs this file into the CNCF maintainer list, so there is no pull request to make against _cncf/foundation_.
+- [ ] Ask the maintainer to link their GitHub handle to their LFID on [openprofile.dev](https://openprofile.dev). CNCF takes their name, email address and company from that profile.
 - [ ] Add maintainer to _Dapr Maintainers & Community Managers_ doc on Google Drive.
 - [ ] Invite maintainer to Dapr 1Password.
 - [ ] Add maintainer to _Maintainers_ Vault in 1Password.
