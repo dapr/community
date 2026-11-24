@@ -24,20 +24,17 @@ The format should be:
 <First name> <Last name> (<Company>) <GitHub username> (non voting)
 ```
 
-### Update the CNCF project-maintainers.csv
+### Update the Dapr maintainers.yaml
 
 In order to get access to the CNCF service desk and receive emails from CNCF, two actions need to be done:
 
-1. The community manager needs to be added to the [project-maintainers.csv](
-https://github.com/cncf/foundation/blob/main/project-maintainers.csv).
+1. The community manager needs to be added to [maintainers.yaml](https://github.com/dapr/.project/blob/main/maintainers.yaml) in the _dapr/.project_ repository.
 
-     - Create a PR to add the community manager to the project-maintainers.csv file.
+    - Create a PR that adds the community manager's GitHub username to the `project-maintainers` team in that file.
 
-    The format of the entry should be:
+    CNCF automation syncs this file into the CNCF maintainer list, so there is no PR to make against the _cncf/foundation_ repository.
 
-    ```csv
-    ,,<Full name>,<Company>,<GitHub username>,
-    ```
+    The community manager's name, email address and company come from their LFID profile, so ask them to link their GitHub handle on [openprofile.dev](https://openprofile.dev).
 
 2. Create a ticket at the [CNCF Service Desk](https://cncfservicedesk.atlassian.net/servicedesk/customer/portals), select the Program Management category and submit the name and email of the new community manager.
 
