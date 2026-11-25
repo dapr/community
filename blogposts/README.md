@@ -44,3 +44,4 @@ This file contains links to Dapr blog posts written by community members. This f
 | Matheus Cruz | @mcruzdev | [Improve Developer Joy and Productivity with Quarkus and Dapr](https://matheuscruz.dev/2024/12/07/improve-developer-joy-and-productivity-with-quarkus-and-dapr/) |
 | Sachin Sunkle | @sachinsu | [Why use Dapr for Distributed Applications?](https://sachinsu.github.io/posts/dapr/) |
 | Victor Moni | @VictorMoni | [State and Events in Dapr: Following an Order from Start to Finish](https://dev.to/victormoni/state-and-events-in-dapr-following-an-order-from-start-to-finish-4mfh) |
+| Orlando Ezequiel Salazar Cruz | @Ezequie1Sc | [From Student to Open Source Contributor: My Journey with Dapr](https://dev.to/ezequie1sc/from-student-to-open-source-contributor-my-journey-with-dapr-4694) |
